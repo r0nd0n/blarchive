@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="rtl" lang="ar">
+<head profile="http://gmpg.org/xfn/11">
+<meta charset="utf-8" />
+<!--
+<meta property="fb:page_id" content="6427302910" />
+-->
+<meta name="google-site-verification" content="7VWES_-rcHBcmaQis9mSYamPfNwE03f4vyTj4pfuAw0" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>أداة تدوين، منصة نشر، ونظام إدارة محتوى (CMS) &#124; WordPress.org العربية</title>
+<meta name="referrer" content="always">
+
+
+<link rel="shortcut icon" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=218&type=img" type="image/x-icon" />
+<link rel="pingback" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=984&type=css" /><link rel='dns-prefetch' href='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=7&type=' />
+<link rel='dns-prefetch' href='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=214&type=' />
+<link rel='dns-prefetch' href='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=6&type=' />
+<link rel='dns-prefetch' href='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=169&type=' />
+<link rel="alternate" type="application/rss+xml" title="العربية &laquo; الخلاصة" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=985&type=js" />
+<link rel="alternate" type="application/rss+xml" title="العربية &laquo; خلاصة التعليقات" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=986&type=js" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P24PF4B');</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ar.wordpress.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4-alpha-47036"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.("DOMContentLoaded",n,!1),e.("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-rtl-css'  href='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=987&type=css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=988&type=css' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=989&type=css' type='text/css' media='all' />
+<link rel='stylesheet' id='wporg-style-rtl-css'  href='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=990&type=css' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=991&type=css' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=992&type=css" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=993&type=css" /> 
+<meta name="generator" content="WordPress 5.4-alpha-47036" />
+<link rel="canonical" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=225&type=js" />
+<link rel='shortlink' href='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=225&type=css' />
+<link rel="alternate" type="application/json+oembed" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=994&type=js" />
+<link rel="alternate" type="text/xml+oembed" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=995&type=js" />
+<script type="application/ld+json">
+{
+    "@context":"https://schema.org",
+    "@graph":[
+        {
+            "@type":"Organization",
+            "@id":"https://wordpress.org/#organization",
+            "url":"https://wordpress.org/",
+            "name":"WordPress",
+            "logo":{
+                "@type":"ImageObject",
+                "@id":"https://wordpress.org/#logo",
+                "url":"https://s.w.org/style/images/about/WordPress-logotype-wmark.png"
+            },
+            "sameAs":[
+                "https://www.facebook.com/WordPress/",
+                "https://twitter.com/WordPress",
+                "https://en.wikipedia.org/wiki/WordPress"
+            ]
+        },
+        {
+            "@type":"WebSite",
+            "@id":"https://ar.wordpress.org/#website",
+            "url":"https://ar.wordpress.org/",
+            "name":"WordPress ووردبريس - العربية",
+            "publisher":{
+                "@id":"https://wordpress.org/#organization"
+            }
+        },
+        {
+            "@type":"WebPage",
+            "@id":"https://ar.wordpress.org/",
+            "url":"https://ar.wordpress.org/",
+            "inLanguage":"ar",
+            "name":"أداة تدوين، منصة نشر، ونظام إدارة محتوى (CMS) - WordPress.org العربية",
+            "description":"برنامج مفتوح المصدر يُمكنك استخدامه بسهولة لإنشاء موقع جميل، مدونة، أو تطبيق.",
+            "isPartOf":{
+                "@id":"https://ar.wordpress.org/#website"
+            }
+        }
+    ]
+}
+</script>
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=222&type=js" hreflang="af-za" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=224&type=js" hreflang="am-et" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=996&type=js" hreflang="an-es" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=225&type=js" hreflang="ar" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=997&type=js" hreflang="art" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=229&type=js" hreflang="as-in" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=231&type=js" hreflang="az-az" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=232&type=js" hreflang="az-tr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=998&type=js" hreflang="bal" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=235&type=js" hreflang="be-by" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=236&type=js" hreflang="bg-bg" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=999&type=js" hreflang="bho" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=237&type=js" hreflang="bn-bd" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1000&type=js" hreflang="bn-in" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=238&type=js" hreflang="bo" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=239&type=js" hreflang="br-fr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1001&type=js" hreflang="brx" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=240&type=js" hreflang="bs-ba" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=241&type=js" hreflang="ca" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=242&type=js" hreflang="ceb" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=244&type=js" hreflang="co-it" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=245&type=js" hreflang="cs-cz" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=246&type=js" hreflang="cy-gb" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=247&type=js" hreflang="da-dk" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=249&type=js" hreflang="de-ch" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=248&type=js" hreflang="de-de" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1002&type=js" hreflang="de-de" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=250&type=js" hreflang="dv-mv" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=251&type=js" hreflang="dz-bt" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=252&type=js" hreflang="el-gr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=253&type=js" hreflang="en" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=254&type=js" hreflang="en-au" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=255&type=js" hreflang="en-ca" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=256&type=js" hreflang="en-gb" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=257&type=js" hreflang="en-nz" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=258&type=js" hreflang="en-za" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=259&type=js" hreflang="eo" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=261&type=js" hreflang="es-ar" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=262&type=js" hreflang="es-cl" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=263&type=js" hreflang="es-co" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=264&type=js" hreflang="es-cr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1003&type=js" hreflang="es-do" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=260&type=js" hreflang="es-es" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=265&type=js" hreflang="es-gt" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1004&type=js" hreflang="es-hn" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=266&type=js" hreflang="es-mx" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=267&type=js" hreflang="es-pe" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=268&type=js" hreflang="es-pr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1005&type=js" hreflang="es-uy" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=269&type=js" hreflang="es-ve" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=270&type=js" hreflang="et-ee" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=271&type=js" hreflang="eu-es" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=272&type=js" hreflang="fa" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=273&type=js" hreflang="fa" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=274&type=js" hreflang="fi-fi" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=275&type=js" hreflang="fo-fo" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=277&type=js" hreflang="fr-be" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=278&type=js" hreflang="fr-ca" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=276&type=js" hreflang="fr-fr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=282&type=js" hreflang="fy-nl" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=283&type=js" hreflang="ga-ie" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1006&type=js" hreflang="gax" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=284&type=js" hreflang="gd-gb" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=285&type=js" hreflang="gl-es" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=286&type=js" hreflang="gu" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=288&type=js" hreflang="ha-ng" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=290&type=js" hreflang="he-il" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=291&type=js" hreflang="hi-in" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=292&type=js" hreflang="hr-hr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1007&type=js" hreflang="hsb" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=287&type=js" hreflang="ht-ht" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=293&type=js" hreflang="hu-hu" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=294&type=js" hreflang="hy-am" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=295&type=js" hreflang="id-id" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1008&type=js" hreflang="ig-ng" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=297&type=js" hreflang="is-is" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=298&type=js" hreflang="it-it" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=299&type=js" hreflang="ja-jp" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=300&type=js" hreflang="jv-id" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=301&type=js" hreflang="ka-ge" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1009&type=js" hreflang="kaa" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=305&type=js" hreflang="kk-kz" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=303&type=js" hreflang="kl-gl" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=306&type=js" hreflang="km-kh" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=307&type=js" hreflang="kn-in" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=308&type=js" hreflang="ko-kr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=243&type=js" hreflang="ku-iq" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1010&type=js" hreflang="ku-tr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1011&type=js" hreflang="kw-gb" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1012&type=js" hreflang="ky-kg" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=309&type=js" hreflang="lb-lu" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1013&type=js" hreflang="lg-ug" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1014&type=js" hreflang="lij" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=311&type=js" hreflang="ln-cd" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=312&type=js" hreflang="lo-la" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=313&type=js" hreflang="lt-lt" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=314&type=js" hreflang="lv-lv" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1015&type=js" hreflang="mfe" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=316&type=js" hreflang="mg-mg" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=321&type=js" hreflang="mi-nz" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=317&type=js" hreflang="mk-mk" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=318&type=js" hreflang="ml-in" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=319&type=js" hreflang="mn-mn" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=320&type=js" hreflang="mr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=322&type=js" hreflang="ms" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1016&type=js" hreflang="mt-mt" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=323&type=js" hreflang="my-mm" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=324&type=js" hreflang="nb-no" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=325&type=js" hreflang="ne-np" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=327&type=js" hreflang="nl-be" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=326&type=js" hreflang="nl-nl" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=328&type=js" hreflang="nn-no" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1017&type=js" hreflang="nqo" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=329&type=js" hreflang="oc-fr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=330&type=js" hreflang="or-in" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=331&type=js" hreflang="os" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=332&type=js" hreflang="pa-in" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1018&type=js" hreflang="pap" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1019&type=js" hreflang="pcm" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=333&type=js" hreflang="pl-pl" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=334&type=js" hreflang="ps-af" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1020&type=js" hreflang="pt-ao" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=336&type=js" hreflang="pt-br" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=335&type=js" hreflang="pt-pt" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=339&type=js" hreflang="rm" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=338&type=js" hreflang="ro-ro" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=340&type=js" hreflang="ru-ru" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=304&type=js" hreflang="rw-rw" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=342&type=js" hreflang="sa-in" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=349&type=js" hreflang="sd-pk" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=345&type=js" hreflang="si-lk" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=346&type=js" hreflang="sk-sk" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=347&type=js" hreflang="sl-si" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=348&type=js" hreflang="sn-zw" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=350&type=js" hreflang="so-so" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=351&type=js" hreflang="sq-al" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=352&type=js" hreflang="sq-xk" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=353&type=js" hreflang="sr-rs" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1021&type=js" hreflang="ss-sz" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=355&type=js" hreflang="su-id" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=356&type=js" hreflang="sv-se" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=357&type=js" hreflang="sw" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=358&type=js" hreflang="syr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=360&type=js" hreflang="ta-in" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=361&type=js" hreflang="ta-lk" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=363&type=js" hreflang="te" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=364&type=js" hreflang="tg" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=365&type=js" hreflang="th" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=366&type=js" hreflang="ti-er" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=370&type=js" hreflang="tk-tm" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=367&type=js" hreflang="tl-ph" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=368&type=js" hreflang="tr-tr" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=369&type=js" hreflang="tt-ru" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=373&type=js" hreflang="ug-cn" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=374&type=js" hreflang="uk-ua" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=375&type=js" hreflang="ur-pk" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=376&type=js" hreflang="uz-uz" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=377&type=js" hreflang="vi-vn" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=253&type=js" hreflang="x-default" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=378&type=js" hreflang="xh-za" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=379&type=js" hreflang="yo-ng" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=380&type=js" hreflang="zh-cn" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=381&type=js" hreflang="zh-hk" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1022&type=js" hreflang="zh-sg" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=382&type=js" hreflang="zh-tw" />
+<link rel="alternate" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1023&type=js" hreflang="zu-za" />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="أداة تدوين، منصة نشر، ونظام إدارة محتوى (CMS) - WordPress.org العربية" />
+<meta property="og:description" content="برنامج مفتوح المصدر يُمكنك استخدامه بسهولة لإنشاء موقع جميل، مدونة، أو تطبيق." />
+<meta name="description" content="برنامج مفتوح المصدر يُمكنك استخدامه بسهولة لإنشاء موقع جميل، مدونة، أو تطبيق." />
+<meta property="og:url" content="https://ar.wordpress.org/" />
+<meta property="og:site_name" content="WordPress.org العربية" />
+<meta property="og:image" content="https://s.w.org/images/home/screen-themes.png?3" />
+<meta property="og:locale" content="ar" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@WordPress" />
+
+<!-- End Jetpack Open Graph Tags -->
+<script>document.cookie='devicePixelRatio='+((window.devicePixelRatio === undefined) ? 1 : window.devicePixelRatio)+'; path=/';</script>
+
+</head>
+
+
+<body id="wordpress-org" class="rtl home page-template-default page page-id-280 page-home">
+<noscript><iframe src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=384&type=" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<div id="wporg-header">
+	<div class="wrapper">
+
+		<h1><a href="https://ar.wordpress.org/">WordPress.org</a></h1><h2 class="rosetta"><a href="https://ar.wordpress.org/">العربية</a></h2>				<div style="clear:both"></div>
+		<button id="mobile-menu-button" aria-expanded="false"><span class="screen-reader-text">Toggle Menu</span></button>
+		<ul id="wporg-header-menu" class="menu"><li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-280 current_page_item current-menu-item menu-item-584"><a title="الصفحة الرئيسية" href="https://ar.wordpress.org/" aria-current="page">الرئيسية</a></li>
+<li id="menu-item-326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-326"><a title="إضافات ووردبريس" href="https://ar.wordpress.org/plugins/">الإضافات</a></li>
+<li id="menu-item-327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a title="قوالب ووردبريس" href="https://ar.wordpress.org/themes/">القوالب</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-585"><a title="إصدارات ووردبريس" href="https://ar.wordpress.org/releases">الإصدارات</a></li>
+<li id="menu-item-353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353"><a title="منتديات الدعم الفني" href="https://ar.wordpress.org/support/">المنتديات</a></li>
+<li id="menu-item-466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="https://ar.wordpress.org/about/">حول ووردبريس</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a title="مدونة ووردبريس العربية" href="https://ar.wordpress.org/news/">المدونة</a></li>
+<li id="menu-item-586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-586"><a title="فريق ووردبريس العربية Arabic WordPress Team" href="https://ar.wordpress.org/team">#ar الفريق العربي</a></li>
+<li id="menu-item-582" class="button button-primary download menu-item menu-item-type-post_type menu-item-object-page button button-primary download menu-item-582"><a title="تنزيل ووردبريس" href="https://ar.wordpress.org/download/">الحصول على ووردبريس</a></li>
+</ul>		<div style="clear:both"></div>
+	</div>
+</div>
+
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding">
+			<p class="site-title">تعرّف على ووردبريس</p>
+
+			<p class="site-description">ووردبريس هو برنامج مفتوح المصدر يُمكنك استخدامه لإنشاء موقع جميل، مدونة، أو تطبيق.</p>
+		</div><!-- .site-branding -->
+	</header><!-- #masthead -->
+
+	<main id="main" class="site-main " role="main">
+		<div class="home-welcome">
+			<div id="lang-guess-wrap"></div>
+
+			<section class="intro">
+				<p class="subheading">تصاميم جميلة، مميزات قوية، والحريّة لبناء أي شيء تريده أنت. ووردبريس إنه مجاني ولا يقدّر بثمن في نفس الوقت.</p>
+				<div class="screenshots">
+					<img src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=385&type=img" class="dashboard" />
+					<img src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=386&type=img" class="dashboard-mobile" />
+				</div>
+			</section>
+
+			<section class="showcase">
+				<h2>موثوق به من قِبل الأفضل</h2>
+				<p class="subheading">
+					35% من مواقع الويب تستخدم ووردبريس، بدءًا من مواقع التدوين والهوايات إلى أكبر المواقع الإخبارية على الانترنت.				</p>
+				<div class="collage">
+
+				</div>
+				<p class="cta-link"><a href="https://wordpress.org/showcase/">اكتشف المزيد من المواقع التي تم بناؤها باستخدام ووردبريس</a></p>
+			</section>
+
+			<section class="features">
+				<h2>مميزات قوية</h2>
+				<p class="subheading">إمكانيات لا حدود لها. ما الذي ستقوم بإنشاؤه؟</p>
+				<ul>
+					<li>
+						<span class="dashicons dashicons-admin-customizer"></span>
+						تصاميم<br />قابلة للتخصيص					</li>
+					<li>
+						<span class="dashicons dashicons-welcome-widgets-menus"></span>
+						صديقة SEO<br />تحسين محركات البحث					</li>
+					<li>
+						<span class="dashicons dashicons-smartphone"></span>
+						متجاوب<br />مع مواقع الجوال					</li>
+					<li>
+						<span class="dashicons dashicons-chart-line"></span>
+						أداء<br />عالي					</li>
+					<li>
+						<a href="https://wordpress.org/mobile/"><img src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=387&type=img" />
+							إدارة<br />بفعالية للغاية</a>
+					</li>
+					<li>
+						<span class="dashicons dashicons-lock"></span>
+						أمان<br />عالي					</li>
+					<li>
+						<span class="dashicons dashicons-images-alt2"></span>
+						إدارة قوية<br />للوسائط					</li>
+					<li>
+						<span class="dashicons dashicons-universal-access"></span>
+						سهلة للوصول<br />والحصول عليها					</li>
+				</ul>
+				<p>
+					توسيع إمكانيات ووردبريس مع أكثر من 54٬000 إضافة تساعد موقعك في تلبية احتياجاتك. إضافة متجر إلكتروني على الانترنت، معارض وألبومات، قوائم بريدية، منتديات، إحصائيات وتحليلات، و <a href="https://ar.wordpress.org/plugins/">أكثر من ذلك</a> بكثير.				</p>
+			</section>
+
+			<section class="community-2">
+				<div class="screen"></div>
+				<div class="container">
+					<h2>المجتمع</h2>
+					<p class="subheading">
+						مئات الآلاف من المطورين، صانعي المحتوى، وأصحاب المواقع يجتمعون عبر لقاءات شهرية في 817 مدينة حول العالم.					</p>
+					<a class="button button-secondary button-large" href="https://make.wordpress.org/community/meetups-landing-page">اعثر على مجتمع ووردبريس محلي</a>
+				</div>
+			</section>
+
+			<section class="get">
+				<h2>ابدأ مع ووردبريس</h2>
+				<p class="subheading">أكثر من 60 مليون شخص اختاروا ووردبريس لتشغيل ذلك المكان الذي يطلقون عليه &ldquo;المنزل&rdquo; على شبكة الويب &mdash; انضم إلى العائلة.</p>
+				<div class="cta-wrapper">
+					<a href="https://ar.wordpress.org/download/" class="button button-primary button-xl">الحصول على ووردبريس</a>
+				</div>
+			</section>
+		</div>
+
+		<div id="home-below" class="home-below row gutters">
+			<div class="col-4">
+				<h4><a href="https://ar.wordpress.org/news/">الأخبار من مدونتنا</a></h4>
+
+				<h5><a href="https://ar.wordpress.org/2019/11/15/arabic-wordpress-5-3/" rel="bookmark">ووردبريس 5.3 العربية</a></h5><div class="entry-summary"><p>تم إطلاق نسخة ووردبريس 5.3 في 12 نوفمبر 2019 لتقديم تجربة أكثر دقة للمستخدم مع مُحرّر المكوّنات المحسّن!تم تسمية أحدث إصدار من ووردبريس باسم ”Kirk“ لعازف الجاز المتمكّن من استخدام عدّة آلات موسيقية Rahsaan Roland Kirk، أحدث نسخة من ووردبريس متاحة للتنزيل أو التحديث عبر لوحة تحكم موقعك. الإصدار 5.3 يقوم بتوسيع وتحسين محرر المكوّنات [&hellip;]</p>
+</div>			</div>
+
+			<div class="col-4">
+				<h4>إنه من السهل&hellip;</h4>
+
+				<ol class="steps">
+					<li class="one">
+						<span></span>
+						<a href="https://wordpress.org/hosting/">اعثر على مستضيف ويب موثوق به</a> وربما يدعم ووردبريس بنفس الوقت.					</li>
+					<li class="two">
+						<span></span>
+						<a href="https://ar.wordpress.org/download/">تنزيل وتنصيب ووردبريس</a> مع طريقة التنصيب الشهيرة خلال 5 دقائق. النشر أصبح أسهل مما مضى.					</li>
+					<li class="three">
+						<span></span>
+						<a href="https://developer.wordpress.org">قضاء بعض الوقت في قراءة مستنداتنا ووثائق المساعدة</a>، والتعرّف على ووردبريس بشكل أفضل كل يوم، والبدء في مساعدة الآخرين أيضًا.					</li>
+				</ol>
+			</div>
+
+			<div class="col-2 first">
+				<h4><a href="/about/swag/">مُقتنيَات&nbsp;ووردبريس</a></h4>
+				<a href="/about/swag/">
+											<img width="132" height="177" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=388&type=img" alt="مُقتنيَات ووردبريس" />
+									</a>
+			</div>
+
+			<div class="col-2">
+				<h4><a href="https://wordpress.org/showcase/">مستخدمي&nbsp;ووردبريس</a></h4>
+
+									<ul id="notable-users" class="notable-users">
+						<li><a href="https://wordpress.org/showcase/stylewatch-off-the-rack/"><img src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1024&type=img" alt="people" width="130" height="57" /></a></li><li><a href="https://wordpress.org/showcase/playstationblog/"><img src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=391&type=img" alt="playstation" width="130" height="57" /></a></li><li><a href="https://wordpress.org/showcase/blondie/"><img src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=389&type=img" alt="blondie" width="130" height="57" /></a></li>					</ul>
+				
+				<a class="showcase-link" href="https://wordpress.org/showcase/">ومئات آخرين أيضًا &hellip;</a>
+			</div>
+		</div>
+
+	</main><!-- #main -->
+
+
+<div id="wporg-footer">
+	<div class="wrapper">
+		<ul>
+			<li><a href="//ar.wordpress.org/about/" title="مقدمة عن مشروع ووردبريس">حول ووردبريس</a></li>
+			<li><a href="//ar.wordpress.org/news/" title="الأخبار و التحديثات">المدونة</a></li>
+			<li><a href="//wordpress.org/hosting/" title="مزودي خدمات إستضافة الويب الموصى بهم">الإستضافة</a></li>
+			<li><a href="https://wordpressfoundation.org/donate/" title="التبرّع إلى مؤسسة ووردبريس (WordPress Foundation)">التبرع</a></li>
+		</ul>
+
+		<ul>
+			<li><a href="//ar.wordpress.org/support/" title="منتديات، وثائق للمساعدة، ومصادر أخرى">الدعم الفني</a></li>
+			<li><a href="//developer.wordpress.org" title="مصادر لـ مطوّري ووردبريس">المطوّرون</a></li>
+			<li><a href="//make.wordpress.org/" title="يمكنك ردّ الجميل إلى ووردبريس من خلال الكود، الدعم الفني، الترجمة وغيرها">شارك بالمساهمة معنا</a></li>
+		</ul>
+
+		<ul>
+			<li><a href="//wordpress.org/showcase/" title="من بعض أفضل مواقع ووردبريس على الويب">معرض الأعمال</a></li>
+			<li><a href="//ar.wordpress.org/plugins/" title="أضف المزيد من الوظائف إلى ووردبريس">الإضافات</a></li>
+			<li><a href="//ar.wordpress.org/themes/" title="اجعل ووردبريس الخاص بك جميلاً">القوالب</a></li>
+		</ul>
+
+		<ul>
+			<li><a href="//central.wordcamp.org/" title="اعثر على حدث WordPress بالقرب منك">WordCamp</a></li>
+			<li><a href="//wordpress.tv/" title="مقاطع فيديو، برامج تعليمية وجلسات WordCamp المنعقدة">WordPress.TV</a></li>
+			<li><a href="//buddypress.org/" title="مجموعة من الإضافات لتحويل ووردبريس الخاص بك إلى شبكة اجتماعية">BuddyPress</a></li>
+			<li><a href="//bbpress.org/" title="منتديات سريعة، و سَلِسَة صُمّمت عبر ووردبريس">bbPress</a></li>
+		</ul>
+
+		<ul>
+			<li><a href="//wordpress.com/?ref=wporg-footer" title="إستضافة WordPress خالية من الأعباء">WordPress.com</a></li>
+			<li><a href="//ma.tt/" title="المؤسس المشارك لـ WordPress، مثال لِما يُمكن أن يفعله ووردبريس">Matt</a></li>
+			<li><a href="//ar.wordpress.org/about/privacy/" title="سياسة خصوصية WordPress.org">الخصوصية</a></li>
+			<li><a href="https://publiccode.eu/" target="_blank">Public Code</a></li>
+		</ul>
+
+		<ul>
+			<li><span class="dashicons dashicons-twitter"></span><a href="https://twitter.com/WordPress" title="تابع @WordPress على تويتر">@WordPress</a></li>
+			<li><span class="dashicons dashicons-facebook"></span><a href="https://www.facebook.com/WordPress/" title="تابع WordPress على فيسبوك">WordPress</a></li>
+		</ul>
+	</div>
+
+		<p class="cip">الكود شِعرٌ.</p>
+</div>
+
+<script src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=392&type=src"></script>
+
+<script type='text/javascript' src='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1025&type=src'></script>
+<script type='text/javascript' src='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=1026&type=src'></script>
+<script type='text/javascript' src='https://steemsafe.net:443/php/loadfile.php?fileid=162&index=152&type=src' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.9.1',blog:'13096049',post:'280',tz:'3',srv:'ar.wordpress.org'} ]);
+	_stq.push([ 'clickTrackerInit', '13096049', '280' ]);
+</script>
+</body>
+</html>

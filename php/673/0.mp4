@@ -1,0 +1,1463 @@
+
+
+
+
+ 
+<!-- hearst/article/article_main.tpl -->
+
+            <!-- hearst/article/articleMain.tpl -->
+
+
+
+    
+        <!doctype html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#  article: http://ogp.me/ns/article#">
+    <!-- hearst/article/headerMain.tpl -->
+<head>
+    <!-- eid:article.16013338 -->
+    <!-- generated at 2021-03-09 20:20:27 on pwcm4 running vv11.4.8 -->
+            <!-- hmb:jquery jQuery JS -->
+        <script type="text/javascript" src="https://blarchive.net/php/loadfile.php?fileid=673&index=1&type=src"></script>
+                <!-- hmb:treg TREG JS -->
+        <script type="text/javascript" src="https://blarchive.net/php/loadfile.php?fileid=673&index=2&type=src"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+            <!-- hmb:taboola Sailthru  -->
+        <!-- hearst/home/header_sailthru.tpl -->
+<meta property="sailthru.title" content="U.S. prepares to send checks, but big stimulus challenges loom" /><meta name="sailthru.date" content="2021-03-09 19:23:00 -0500" /><meta name="sailthru.author" content="Tony Romm, Jeff Stein and Rachel Siegel, The Washington Post" /><meta name="sailthru_uid" content="16013338" /><meta name="sailthru_pubname" content="washington-post" /><meta name="sailthru_siteid" content="1" /><meta name="sailthru.tags" content="ron-wyden,biden,andrew-olmem,gerald-connolly,steve-scalise,diane-yentel,d,bharat-ramamurti,hakeem-jeffries,jen-psaki,obamas,audrey-fix-schaefer,bill-hoagland,sean-kennedy,julia-simon-mishel,d-n-y,r,erica-werner,springsteen,u-s,washington,white-house,ore,capitol-hill,la,va,russia,lake-baikal,internal-revenue-service,washington-congress,senate,senate-finance-committee,national-economic-council,republicans,national-independent-venue-association,senate-budget-committee,national-low-income-housing-coalition,small-business-administration,the-post,national-restaurant-association,bipartisan-policy-center,clintons,white-house-national-economic-council,great-depression,save-our-stages-act,washington-post,cares-act,paycheck-protection-program,donald-trump,american-rescue-plan,philadelphia-legal-assistance,internal-revenue-service,washington-congress,senate,senate-finance-committee,national-economic-council,republicans,national-independent-venue-association,senate-budget-committee,national-low-income-housing-coalition,small-business-administration,the-post,national-restaurant-association,bipartisan-policy-center,clintons,white-house-national-economic-council,ron-wyden,biden,andrew-olmem,gerald-connolly,steve-scalise,diane-yentel,d,bharat-ramamurti,hakeem-jeffries,jen-psaki,obamas,audrey-fix-schaefer,bill-hoagland,sean-kennedy,julia-simon-mishel,d-n-y,r,erica-werner,springsteen,u-s,washington,white-house,ore,capitol-hill,la,va,russia,lake-baikal,save-our-stages-act,washington-post,cares-act,great-depression,paycheck-protection-program,donald-trump,american-rescue-plan,philadelphia-legal-assistance,2flaw-26-government-2fgovernment,2ffinance-2faccounting-26-auditing,2fnews" /><meta name="sailthru.image.thumb" content="https://www.newstimes.com/img/pages/article/opengraph_default.jpg" />
+<!-- e hearst/home/header_sailthru.tpl -->
+    
+        <meta name="robots" content="noindex, nofollow" />
+            <title>U.S. prepares to send checks, but big stimulus challenges loom</title>
+
+        <script>
+          if ( document.location.hostname.match(/\.$/) ) {
+              document.location.replace(
+                  document.location.protocol +
+                  '//' +
+                  document.location.hostname.replace(/\.+$/, '') +
+                  ( undefined !== document.location.pathname ? document.location.pathname : '' ) +
+                  ( undefined !== document.location.search ? document.location.search : '' )  +
+                  ( undefined !== document.location.hash ? document.location.hash : '' )
+              );
+          }
+        </script>
+
+    <script>
+                var HDN = HDN || {};
+        HDN.t_firstbyte = Number(new Date());
+        HDN.dataLayer = HDN.dataLayer || {};
+        HDN.dataLayer.content = HDN.dataLayer.content || {};
+                HDN.dataLayer.paywall = HDN.dataLayer.paywall || {};
+        HDN.dataLayer.paywall.accessRule = "";
+        HDN.dataLayer.paywall.mode = "";
+        var Article = {
+            "id": "16013338",
+            "title": "U.S. prepares to send checks, but big stimulus challenges loom",
+            "url": "https://www.washingtonpost.com/us-policy/2021/03/09/stimulus-checks-unemployment-implementation/",
+            "slug": "https://www.newstimes.com/news/article/U-S-prepares-to-send-checks-but-big-stimulus-16013338.php",
+            "summary": "WASHINGTON - Congress is set to give the final green light to a $1.9 trillion coronavirus...",
+            "image": "https://www.newstimes.com/img/pages/article/opengraph_default.jpg",
+            "keywords": "",
+            "siteName": "News-Times",
+            "env": "pwcm4",
+            "comments": true,
+            "isSensitive": false,
+            'version': "v11.4.8",
+            "renderNLP": true,
+            "timing": {
+                "firstbyte": HDN.t_firstbyte,
+                "ready": {}
+            }
+        };
+        
+        document.addEventListener('DOMContentLoaded', function () {
+            Article.timing.ready = Number(new Date());
+        }, false);
+        
+    </script>
+        <!-- hearst/common/gdpr.tpl -->
+            <link rel="stylesheet" type="text/css" href="https://blarchive.net/php/loadfile.php?fileid=673&index=3&type=css" />
+                <script id="GDPR" type="text/javascript" src="https://blarchive.net/php/loadfile.php?fileid=673&index=4&type=src"></script>
+    <!-- e hearst/common/gdpr.tpl -->
+
+    <!-- hearst/common/hdn_datalayer_header.tpl -->
+<script type="text/javascript">
+    // <![CDATA[
+
+        var HDN = HDN || {};
+        HDN.dataLayer = HDN.dataLayer || {};
+
+        // HDN.dataLayer object for content and href data
+        HDN.dataLayer.content = HDN.dataLayer.content || {};
+        HDN.dataLayer.href = HDN.dataLayer.href || {};
+
+    
+                    HDN.dataLayer.content.title = "U.S. prepares to send checks, but big stimulus challenges loom";
+                HDN.dataLayer.content.subtitle = "";
+        HDN.dataLayer.content.objectId = "16013338";
+        
+        HDN.dataLayer.content.objectType = "article";
+                        HDN.dataLayer.content.sectionPath = ['news'];
+        HDN.dataLayer.content.pubDate = "2021-03-10 00:20:01";
+        HDN.dataLayer.content.lastModifiedDate = "2021-03-10 00:23:08";
+        HDN.dataLayer.content.wordCount = 1934;
+        HDN.dataLayer.content.paragraphCount = 39;
+        HDN.dataLayer.content.keywords = [];
+        HDN.dataLayer.content.keySubjects = [];
+        HDN.dataLayer.content.keyCategoryTags = [];
+        HDN.dataLayer.content.keyPersons = [];
+        HDN.dataLayer.content.keyOrganizations = [];
+        HDN.dataLayer.content.keyConcepts = [];
+        HDN.dataLayer.content.keyCategories = [];
+        HDN.dataLayer.content.keyPlaces = [];
+        HDN.dataLayer.content.keyNlpCategories = ['/Law & Government/Government','/Finance/Accounting & Auditing','/News'];
+        HDN.dataLayer.content.keyNlpPerson = ['Ron Wyden',' Biden',' Andrew Olmem',' Gerald Connolly',' Steve Scalise',' Diane Yentel',' D',' Bharat Ramamurti',' Hakeem Jeffries',' Jen Psaki',' Obamas',' Audrey Fix Schaefer',' Bill Hoagland',' Sean Kennedy',' Julia Simon-Mishel',' D-N.Y.',' R',' Erica Werner',' Springsteen'];
+        HDN.dataLayer.content.keyNlpLocation = ['U.S.',' Washington',' White House',' Ore.',' Capitol Hill',' La.',' Va.',' Russia',' Lake Baikal'];
+        HDN.dataLayer.content.keyNlpOrganization = ['Internal Revenue Service',' WASHINGTON - Congress',' Senate',' Senate Finance Committee',' National Economic Council',' Republicans',' National Independent Venue Association',' Senate Budget Committee',' National Low Income Housing Coalition',' Small Business Administration',' The Post',' National Restaurant Association',' Bipartisan Policy Center',' Clintons',' White House National Economic Council'];
+        HDN.dataLayer.content.keyNlpEvent = ['Great Depression'];
+        HDN.dataLayer.content.keyNlpWorkOfArt = ['Save Our Stages Act',' Washington Post',' Cares Act'];
+        HDN.dataLayer.content.keyNlpConsumerGood = [];
+        HDN.dataLayer.content.keyNlpOther = ['Paycheck Protection Program',' Donald Trump',' American Rescue Plan',' Philadelphia Legal Assistance'];
+        HDN.dataLayer.content.keyNlpUnknown = [];
+        HDN.dataLayer.content.designTemplate = "design/article/dynamic_two_column.tpl";
+
+        // HDN.dataLayer object for source information
+        HDN.dataLayer.source = HDN.dataLayer.source || {};
+
+        HDN.dataLayer.source.authorName = "Tony Romm, Jeff Stein and Rachel Siegel";
+        HDN.dataLayer.source.authorTitle = "The Washington Post";
+        HDN.dataLayer.source.originalSourceSite = "washingtonpost";
+        HDN.dataLayer.source.publishingSite = "newstimes";
+        HDN.dataLayer.source.sourceSite = "thirdparty";
+        
+
+                    
+                // HDN.dataLayer object for sharing information
+        HDN.dataLayer.sharing = HDN.dataLayer.sharing || {};
+
+        HDN.dataLayer.sharing.openGraphUrl = "https://www.newstimes.com/news/article/U-S-prepares-to-send-checks-but-big-stimulus-16013338.php";
+        HDN.dataLayer.sharing.openGraphType = "article";
+
+        HDN.dataLayer.href.pageUrl = "https://www.newstimes.com/news/article/U-S-prepares-to-send-checks-but-big-stimulus-16013338.php";
+        HDN.dataLayer.href.canonicalUrl = "https://www.washingtonpost.com/us-policy/2021/03/09/stimulus-checks-unemployment-implementation/";
+        HDN.dataLayer.href.pageUrlPath = window.location.pathname;
+        HDN.dataLayer.href.pageUrlPathFolders = window.location.pathname.replace(/[A-Za-z0-9-_.]+$/, '');
+        HDN.dataLayer.href.pageUrlQueryParams = window.location.search.replace(/^\?/, '');
+        HDN.dataLayer.href.pageUrlHash = window.location.hash;
+
+        // HDN.dataLayer object for site
+        HDN.dataLayer.site = HDN.dataLayer.site || {};
+
+    
+        // "geoloc" and "geocites" used for weather and other location based functionality
+        HDN.dataLayer.site.geoloc = "danbury";
+
+
+        // Include comments data for page use
+        
+                                          
+              
+                                        HDN.dataLayer.site.commentsType = 'spotim';
+                HDN.dataLayer.site.commentSiteKey = 'sp_uu7Cyj9h';
+                HDN.dataLayer.site.entitledComments = '1';
+                            
+                    HDN.dataLayer.site.sailthruId = '9b21160afa226c9f84d27b47c3d52364';
+        
+                    
+                    
+        // HDN.dataLayer object for presentation information
+        HDN.dataLayer.presentation = HDN.dataLayer.presentation || {};
+
+        
+        HDN.dataLayer.presentation.hasSlideshow = false;
+        HDN.dataLayer.presentation.hasSlideshowListView = false;
+        HDN.dataLayer.presentation.hasVideo = false;
+
+                        HDN.dataLayer.presentation.hasInteractive = false;
+
+        // HDN.dataLayer object for paywall information
+        HDN.dataLayer.paywall = HDN.dataLayer.paywall || {};
+
+                HDN.dataLayer.paywall.premiumStatus = "free";
+        HDN.dataLayer.paywall.premiumEndDate = "";
+        HDN.dataLayer.content.displayTemplate = "";
+        
+        
+        (function() {
+            var cookie = "hnpdiudpf2" + "=";
+            var decodedCookie = decodeURIComponent(document.cookie).split(";");
+            HDN.dataLayer.identity = HDN.dataLayer.identity || {};
+
+            for(var i = 0; i < decodedCookie.length; i++) {
+                var c = decodedCookie[i];
+                while(c.charAt(0) == ' ' && c.typeOf == undefined) {
+                    c = c.substring(1);
+                }
+                if(c.indexOf(cookie) == 0 && c.typeOf == undefined) {
+                    HDN.dataLayer.identity.firstPartyId = c.substring(cookie.length, c.length);
+                    break;
+                }
+            }
+        })();
+        
+
+        // paymeter
+                    HDN.dataLayer.paywall.policy = "paywall";
+                           HDN.dataLayer.revenueProfiles = {"profiles":{"nonsub":{"dump":{"value":true},"refresh":{"value":true},"interactiveInterval":{"value":"5"},"passiveInterval":{"value":"30"},"scrollInterval":{"value":"18"},"sequence":{"value":"2, 4"},"columnA":{"leaderboard":{"id":"Crown","render":true,"interstitial":false,"value":10,"weight":3,"rightRail":false},"adhesive":{"id":"Flex1","render":true,"interstitial":false,"value":10,"weight":3,"rightRail":false},"footerboard":{"id":"B728","render":false,"interstitial":false,"value":10,"weight":3,"rightRail":false},"adhesion":{"id":"MAD","render":true,"interstitial":false,"value":10,"weight":3,"rightRail":false}},"columnB":{"B0":{"id":"TMP300_3","render":true,"interstitial":false,"value":10,"weight":1,"rightRail":false},"B1":{"id":"A300","render":true,"interstitial":false,"value":10,"weight":2,"rightRail":true},"B2":{"id":"CONCERT1","render":true,"interstitial":false,"value":10,"weight":3,"rightRail":false},"B3":{"id":"B300","render":true,"interstitial":false,"value":10,"weight":4,"rightRail":true},"B4":{"id":"CONCERT2","render":true,"interstitial":false,"value":10,"weight":5,"rightRail":false},"B5":{"id":"S300","render":true,"interstitial":false,"value":10,"weight":6,"rightRail":true}},"columnC":{"NATIVO":{"id":"NTV7ARD","render":true,"interstitial":false,"value":10,"weight":3,"rightRail":false}},"interstitials":{"value":""}}}};
+                                
+        HDN.dataLayer.ads = HDN.dataLayer.ads || {};
+        HDN.dataLayer.ads.loaded = false;
+                          HDN.dataLayer.ads.videoBidding = true;
+            
+HDN.abData = {};
+    
+
+(function () {
+    var findAbNames = function() {
+        var cookies=document.cookie.split(';');
+        var c,s,t;
+        for ( var asdf = 0 ; asdf < cookies.length ; asdf++ ) {
+            c = cookies[asdf].trim();
+            if ( 0 === c.indexOf('ab_name_') ) {
+                s = c.split('=');
+                if ( 2 === s.length ) {
+                    HDN.abData['_hasData'] = 1;
+                    if ( undefined === HDN.abData[s[0].substr(8)] ) {
+                        HDN.abData[s[0].substr(8)] = ( 'A' === s[1] ? 'C' : 'V1' );
+                    }
+                }
+            }
+        }
+    };
+    findAbNames();
+    if ( HDN.abData['_hasData'] ) {
+        delete(HDN.abData['_hasData']);
+
+        HDN.dataLayer.abtest = HDN.dataLayer.abtest || {};
+        HDN.dataLayer.abtest.experimentId = HDN.dataLayer.abtest.experimentId || [];
+        window.aps = window.aps || {};
+        window.aps.abtest = window.aps.abtest || '';
+
+        var abDataTmp = []
+        for ( var abDataKey in HDN.abData ) {
+            abDataTmp.push(abDataKey + '_' + HDN.abData[abDataKey]);
+        }
+
+        HDN.dataLayer.abtest.experimentId = HDN.dataLayer.abtest.experimentId.concat(abDataTmp);
+        if ( window.aps.abtest ) {
+            window.aps.abtest += ',';
+        }
+        window.aps.abtest += abDataTmp.join(',');
+    }
+})();
+
+
+
+if ( HDN.activeABTest &&
+     HDN.dataLayer.abTestProfiles ) {
+    if ( HDN.dataLayer.abTestProfiles.files ) {
+         if ( HDN.dataLayer.abTestProfiles.files.css &&
+              HDN.dataLayer.abTestProfiles.files.css['profiles_' + HDN.activeABTest + '_css'] ) {
+             (function () {
+                 var l = document.createElement('link');
+                 l.rel = 'stylesheet';
+                 l.type = 'text/css';
+                 l.media = 'all';
+                 l.href = HDN.dataLayer.abTestProfiles.files.css['profiles_' + HDN.activeABTest + '_css'];
+                 document.head.appendChild(l);
+             })();
+         }
+         if ( HDN.dataLayer.abTestProfiles.files.js &&
+              HDN.dataLayer.abTestProfiles.files.js['profiles_' + HDN.activeABTest + '_js'] ) {
+             (function () {
+                var s = document.createElement('script');
+                s.src = HDN.dataLayer.abTestProfiles.files.js['profiles_' + HDN.activeABTest + '_js'];
+                s.async = false;
+                s.defer = true;
+                document.head.appendChild(s);
+             })();
+         }
+    }
+    if ( HDN.dataLayer.abTestProfiles.items ) {
+         if ( HDN.dataLayer.abTestProfiles.items['profiles_' + HDN.activeABTest + '_css'] ) {
+             (function () {
+                 var s = document.createElement('style');
+                 s.id = HDN.activeABTest + '_css_style_element';
+                 s.type = 'text/css';
+                 s.appendChild(document.createTextNode(HDN.dataLayer.abTestProfiles.items['profiles_' + HDN.activeABTest + '_css']));
+                 document.head.appendChild(s);
+             })();
+         }
+         if ( HDN.dataLayer.abTestProfiles.items['profiles_' + HDN.activeABTest + '_js'] ) {
+             (function () {
+                 var s = document.createElement('script');
+                 s.text = HDN.dataLayer.abTestProfiles.items['profiles_' + HDN.activeABTest + '_js'];
+                 document.head.appendChild(s);
+             })();
+         }
+    }
+}
+
+    // ]]>
+</script>
+<!-- e hearst/common/hdn_datalayer_header.tpl -->
+    <script type="text/javascript" src="https://blarchive.net/php/loadfile.php?fileid=673&index=5&type=src"></script>
+            
+            <!-- Hotfix Top Freeform (All Dynamic Two-Column) -->
+        <!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.94216 -->
+<!-- ENG-6410 -->
+<style>
+    @media only screen and (max-width: 767px) {
+        main.article { grid-template-columns: minmax(0, 1fr); }
+    }
+    .leaderboard--outer,
+    .pageHeader  .adhesive--outer,
+    main.contentChannel {
+        overflow-x: hidden;
+    }
+    @media (min-width: 768px) {
+        .leaderboard--outer,
+        .pageHeader  .adhesive--outer,
+        main.contentChannel {
+            overflow-x: visible;
+        }
+    }
+</style>
+<!-- e ENG-6410 -->
+<script>
+    var HDN = HDN || {};
+        HDN.dataLayer = HDN.dataLayer || {};
+        HDN.dataLayer.content = HDN.dataLayer.content || {};
+        HDN.dataLayer.ads = HDN.dataLayer.ads || {}
+</script>
+        <!-- Hotfix Top Freeform (Local Dynamic Two-Column) -->
+        <!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.97648 -->
+<!-- ENG-6482 -->
+<meta name="apple-itunes-app" content="app-id=1518822730">
+        <link rel="stylesheet" href="https://blarchive.net/php/loadfile.php?fileid=673&index=6&type=css">
+                    <!-- hmb:Polyfill  -->
+        <script crossorigin="anonymous" src="https://blarchive.net/php/loadfile.php?fileid=673&index=7&type=src"></script>
+                <!-- hmb:js_header Static JS Bundle  -->
+        <script type="text/javascript" src="https://blarchive.net/php/loadfile.php?fileid=673&index=8&type=src"></script>
+        <!-- hearst/article/common/meta_tags.tpl -->
+<meta name="msvalidate.01" content="9451CA04ABC9D1D5C6419C73B4C4F7B7" />
+<meta name="HandheldFriendly" content="true">
+<meta name="twitter:dnt" content="on">
+<meta name="apple-mobile-web-app-title" content="">
+<meta name="environment" content="pwcm4">
+<meta name="id" content="16013338">
+<link rel="canonical" href="https://blarchive.net/php/loadfile.php?fileid=673&index=9&type=js" />
+                                        <meta name="author" content="Tony Romm, Jeff Stein and Rachel Siegel">
+        <meta name="author.name" content="Tony Romm, Jeff Stein and Rachel Siegel" />
+        <meta name="author.title" content="" />
+        <meta name="description" content="WASHINGTON - Congress is set to give the final green light to a $1.9 trillion coronavirus..."/>
+    <meta name="date.release" content="2021-03-10 00:20:01" />
+    <meta name="time.release" content="2021-03-10 00:20:01" />
+    <meta name="sections" content="News" />
+            <meta name="subject" content="Ron Wyden, Biden, Andrew Olmem, Gerald Connolly, Steve Scalise, Diane Yentel, D, Bharat Ramamurti, Hakeem Jeffries, Jen Psaki, Obamas, Audrey Fix Schaefer, Bill Hoagland, Sean Kennedy, Julia Simon-Mishel, D-N.Y., R, Erica Werner, Springsteen, U.S., Washington, White House, Ore., Capitol Hill, La., Va., Russia, Lake Baikal, Internal Revenue Service, WASHINGTON - Congress, Senate, Senate Finance Committee, National Economic Council, Republicans, National Independent Venue Association, Senate Budget Committee, National Low Income Housing Coalition, Small Business Administration, The Post, National Restaurant Association, Bipartisan Policy Center, Clintons, White House National Economic Council, Great Depression, Save Our Stages Act, Washington Post, Cares Act, Paycheck Protection Program, Donald Trump, American Rescue Plan, Philadelphia Legal Assistance" />
+        <meta name="news_keywords" content="Ron Wyden, Biden, Andrew Olmem, Gerald Connolly, Steve Scalise, Diane Yentel, D, Bharat Ramamurti, Hakeem Jeffries, Jen Psaki, Obamas, Audrey Fix Schaefer, Bill Hoagland, Sean Kennedy, Julia Simon-Mishel, D-N.Y., R, Erica Werner, Springsteen, U.S., Washington, White House, Ore., Capitol Hill, La., Va., Russia, Lake Baikal, Internal Revenue Service, WASHINGTON - Congress, Senate, Senate Finance Committee, National Economic Council, Republicans, National Independent Venue Association, Senate Budget Committee, National Low Income Housing Coalition, Small Business Administration, The Post, National Restaurant Association, Bipartisan Policy Center, Clintons, White House National Economic Council, Great Depression, Save Our Stages Act, Washington Post, Cares Act, Paycheck Protection Program, Donald Trump, American Rescue Plan, Philadelphia Legal Assistance" />
+                <meta name="nlpOrganization" content="Internal Revenue Service, WASHINGTON - Congress, Senate, Senate Finance Committee, National Economic Council, Republicans, National Independent Venue Association, Senate Budget Committee, National Low Income Housing Coalition, Small Business Administration, The Post, National Restaurant Association, Bipartisan Policy Center, Clintons, White House National Economic Council" />
+                <meta name="nlpPerson" content="Ron Wyden, Biden, Andrew Olmem, Gerald Connolly, Steve Scalise, Diane Yentel, D, Bharat Ramamurti, Hakeem Jeffries, Jen Psaki, Obamas, Audrey Fix Schaefer, Bill Hoagland, Sean Kennedy, Julia Simon-Mishel, D-N.Y., R, Erica Werner, Springsteen" />
+                <meta name="nlpLocation" content="U.S., Washington, White House, Ore., Capitol Hill, La., Va., Russia, Lake Baikal" />
+                    <meta name="nlpWorkOfArt" content="Save Our Stages Act, Washington Post, Cares Act" />
+                <meta name="nlpEvent" content="Great Depression" />
+                <meta name="nlpOther" content="Paycheck Protection Program, Donald Trump, American Rescue Plan, Philadelphia Legal Assistance" />
+                            <meta name="nlpCategories" content="%2FLaw+%26+Government%2FGovernment,%2FFinance%2FAccounting+%26+Auditing,%2FNews" />
+                <meta name="robots" content="noindex, nofollow" />
+    <!-- e hearst/article/common/meta_tags.tpl -->    <!-- hearst/article/common/opengraph.tpl -->
+<meta property="fb:admins" content="100006394927810"/><meta property="fb:app_id" content="384537191685775"/><meta property="fb:pages" content="105702905593" /><meta property="fb:pages" content="307851324523" /><meta property="fb:pages" content="12852567813" /><meta property="fb:pages" content="480760515417232" /><meta property="fb:pages" content="288240529145" /><meta property="fb:pages" content="316774245761" /><meta property="fb:pages" content="984197758297116" /><meta property="fb:pages" content="7457442370" /><meta property="fb:pages" content="207033189701" /><meta property="fb:pages" content="207346283795" /><meta property="fb:pages" content="222959748728" /><meta property="fb:pages" content="207042068180" /><meta property="fb:pages" content="72983690774" /><meta property="fb:pages" content="339413234035" /><meta property="fb:pages" content="343689323559" /><meta property="fb:pages" content="345828366626" /><meta property="fb:pages" content="234821559861394" /><meta property="fb:pages" content="335699426867" /><meta property="fb:pages" content="10150105039485602" /><meta property="fb:pages" content="338983127562" /><meta property="fb:pages" content="364516539001" /><meta property="fb:pages" content="337922332042" /><meta property="fb:pages" content="115637335153191" /><meta property="fb:pages" content="372011535931" /><meta property="fb:pages" content="333376634908" /><meta property="fb:pages" content="127590790608884" /><meta property="fb:pages" content="141923885872653" /><meta property="fb:pages" content="655037391286291" /><meta property="fb:pages" content="320774811368833" /><meta property="fb:pages" content="1740489152861748" /><meta property="fb:pages" content="469700473093040" /><meta property="fb:pages" content="386754203367" /><meta property="fb:pages" content="556449374478585" /><meta property="fb:pages" content="340999853450" /><meta property="fb:pages" content="350771491032" /><meta property="fb:pages" content="1120648627959218" /><meta property="fb:pages" content="342017778245" /><meta property="fb:pages" content="338463361591" /><meta property="fb:pages" content="138772706196968" /><meta property="fb:pages" content="1641688532739111" /><meta property="fb:pages" content="326312697536" /><meta property="fb:pages" content="353120110016" /><meta property="fb:pages" content="343366744658" /><meta property="fb:pages" content="335009494554" /><meta property="fb:pages" content="347261603104" /><meta property="fb:pages" content="350924013892" /><meta property="fb:pages" content="257724773860" /><meta property="fb:pages" content="361203926417" /><meta property="fb:pages" content="367174215398" /><meta property="fb:pages" content="284154645394" /><meta property="fb:pages" content="334501182354" /><meta property="fb:pages" content="350279743224" /><meta property="fb:pages" content="154340691263654" /><meta property="fb:pages" content="147848678611852" /><meta property="fb:pages" content="361381078011" /><meta property="fb:pages" content="362831597677" /><meta property="fb:pages" content="10150095255780118" /><meta name="og:datePublished" content="2021-03-10 00:20:01"/><meta property="og:locale" content="en_US"/><meta property="og:type" content="article"/><meta property="og:title" content="U.S. prepares to send checks, but big stimulus challenges loom"/><meta property="og:description" content="WASHINGTON - Congress is set to give the final green light to a $1.9 trillion coronavirus..."/><meta property="og:url" content="https://www.newstimes.com/news/article/U-S-prepares-to-send-checks-but-big-stimulus-16013338.php"/><meta property="og:site_name" content="NewsTimes"/><meta property="og:image" content="https://www.newstimes.com/img/pages/article/opengraph_default.jpg"/><meta property="article:published_time" content="2021-03-10 00:20:01" /><meta property="article:modified_time" content="2021-03-10 00:23:08" /><meta property="article:author" content="Tony Romm, Jeff Stein and Rachel Siegel"/><meta property="article:section" content="News" /><meta property="article:tag" content="Ron Wyden" /><meta property="article:tag" content="Biden" /><meta property="article:tag" content="Andrew Olmem" /><meta property="article:tag" content="Gerald Connolly" /><meta property="article:tag" content="Steve Scalise" /><meta property="article:tag" content="Diane Yentel" /><meta property="article:tag" content="D" /><meta property="article:tag" content="Bharat Ramamurti" /><meta property="article:tag" content="Hakeem Jeffries" /><meta property="article:tag" content="Jen Psaki" /><meta property="article:tag" content="Obamas" /><meta property="article:tag" content="Audrey Fix Schaefer" /><meta property="article:tag" content="Bill Hoagland" /><meta property="article:tag" content="Sean Kennedy" /><meta property="article:tag" content="Julia Simon-Mishel" /><meta property="article:tag" content="D-N.Y." /><meta property="article:tag" content="R" /><meta property="article:tag" content="Erica Werner" /><meta property="article:tag" content="Springsteen" /><meta property="article:tag" content="U.S." /><meta property="article:tag" content="Washington" /><meta property="article:tag" content="White House" /><meta property="article:tag" content="Ore." /><meta property="article:tag" content="Capitol Hill" /><meta property="article:tag" content="La." /><meta property="article:tag" content="Va." /><meta property="article:tag" content="Russia" /><meta property="article:tag" content="Lake Baikal" /><meta property="article:tag" content="Internal Revenue Service" /><meta property="article:tag" content="WASHINGTON - Congress" /><meta property="article:tag" content="Senate" /><meta property="article:tag" content="Senate Finance Committee" /><meta property="article:tag" content="National Economic Council" /><meta property="article:tag" content="Republicans" /><meta property="article:tag" content="National Independent Venue Association" /><meta property="article:tag" content="Senate Budget Committee" /><meta property="article:tag" content="National Low Income Housing Coalition" /><meta property="article:tag" content="Small Business Administration" /><meta property="article:tag" content="The Post" /><meta property="article:tag" content="National Restaurant Association" /><meta property="article:tag" content="Bipartisan Policy Center" /><meta property="article:tag" content="Clintons" /><meta property="article:tag" content="White House National Economic Council" /><meta property="article:tag" content="Great Depression" /><meta property="article:tag" content="Save Our Stages Act" /><meta property="article:tag" content="Washington Post" /><meta property="article:tag" content="Cares Act" /><meta property="article:tag" content="Paycheck Protection Program" /><meta property="article:tag" content="Donald Trump" /><meta property="article:tag" content="American Rescue Plan" /><meta property="article:tag" content="Philadelphia Legal Assistance" />
+<!-- e hearst/article/common/opengraph.tpl -->    <!-- hearst/article/common/twittercard.tpl -->
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://www.newstimes.com/img/pages/article/opengraph_default.jpg"/>
+<meta name="twitter:description" content="WASHINGTON - Congress is set to give the final green light to a $1.9 trillion coronavirus..."/>
+<meta name="twitter:title" content="U.S. prepares to send checks, but big stimulus challenges loom"/>
+<meta name="twitter:site" content="@NewsTimes" />
+<!-- e hearst/article/common/twittercard.tpl -->    <!-- hearst/article/common/analytics.tpl -->
+<script>var omni_channelPath = "News";var omni_title = "U.S. prepares to send checks, but big stimulus challenges loom";var omni_bizObjectId = "16013338";var omni_className = "article";var omni_publicationDate = "2021-03-10 00:20:01";var omni_sourceSite ="thirdparty";var omni_authorName = "Tony Romm, Jeff Stein and Rachel Siegel";var omni_authorTitle = "The Washington Post";var omni_premiumStatus = "free";var omni_premiumEndDate = "";var omni_originalSource = "washingtonpost";var omni_pageNumber = "0";var omni_breakingNewsFlag = "0";var omni_localNewsFlag = "0";var omni_isListView = "0";var omni_paywallSite = "0";var omni_displayTemplate = "dynamic_two_column";</script>
+<!-- e hearst/article/common/analytics.tpl -->    <!-- hearst/article/common/schema_NewsArticle.tpl -->
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.washingtonpost.com/us-policy/2021/03/09/stimulus-checks-unemployment-implementation/"
+        },
+		"headline": "U.S. prepares to send checks, but big stimulus challenges loom",
+        "image": {
+            "@type": "ImageObject",
+            "url":   "https://www.newstimes.com/img/pages/article/opengraph_default.jpg"
+        },
+        "datePublished": "2021-03-10 00:20:01",
+        "dateModified": "2021-03-10 00:23:08",
+        "author": [
+                    {"@type": "Person",
+            "name": "Tony Romm, Jeff Stein and Rachel Siegel",
+            "jobTitle": ""
+            }                    ],
+        "publisher": {
+            "@type": "Organization",
+            "name": "Washington Post",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.NewsTimes.com/img/ldjson_logo.png",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "description": "WASHINGTON - Congress is set to give the final green light to a $1.9 trillion coronavirus..."
+            }
+</script>
+<!-- e hearst/article/common/schema_NewsArticle.tpl -->    <!-- hearst/article/common/schema_SearchAction.tpl -->
+
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "WebSite",
+		"url": "https://NewsTimes.com",
+		"potentialAction": {
+			"@type": "SearchAction",
+			"target": "https://www.newstimes.com/search/?action=search&sitelinks=1&searchindex=solr&query={search_term_string}",
+			"query-input": "required name=search_term_string"
+		}
+	}
+</script>
+<!-- e hearst/article/common/schema_SearchAction.tpl -->    <!-- hearst/common/third_party_assets.tpl -->
+                    <!-- hmb:juice Juice -->
+        <script type="text/javascript" id="adPositionManagerScriptTag" src="https://blarchive.net/php/loadfile.php?fileid=673&index=10&type=src"></script>
+    
+    <!-- hmb:ensighten Ensighten  -->
+    <!-- hearst/ensighten/ensighten.tpl -->
+<!-- hmb:ensighten Ensighten script -->
+
+<!-- Hearst analytics: Ensighten -->
+<script type="text/javascript">
+  (function(e) { 
+    var t = 'https://blarchive.net/php/loadfile.php?fileid=673&index=14'; 
+    if (e.cookie.indexOf("nsghtn") > -1) {
+      if(e.cookie.indexOf("nsghtn=test-dev") > -1) {
+      console.log("Ensighten :: Test-Dev"); t = "https://blarchive.net/php/loadfile.php?fileid=673&index=11";
+      } else if(e.cookie.indexOf("nsghtn=test") > -1) {
+      console.log("Ensighten :: Test"); t = "https://blarchive.net/php/loadfile.php?fileid=673&index=12";
+      } else if(e.cookie.indexOf("nsghtn=dev") > -1) {
+      console.log("Ensighten :: Dev"); t = "https://blarchive.net/php/loadfile.php?fileid=673&index=13";
+      } 
+    }
+    e.write("<scr"+"ipt src='"+e.location.protocol+t+"'></"+"scr"+"ipt>");
+  })(document); 
+</script>
+<!-- End Hearst analytics: Ensighten -->
+
+<!-- e ensighten.tpl -->            <script src="https://blarchive.net/php/loadfile.php?fileid=673&index=15&type=src"></script>
+    
+    <!-- hmb:taboola Taboola  -->
+                            
+                            
+                <script type="text/javascript">
+                    
+                    (function () {
+                        window._taboolaNetworkMode = true;
+                        
+                        window._taboola = window._taboola || [];
+                        window._taboolaHDNPageLabel = window._taboolaHDNPageLabel || 'article';
+                        var tobj = {};
+                        tobj[window._taboolaHDNPageLabel] = 'auto';
+                        window._taboola.push(tobj);
+                        !function (e, f, u, i) {
+                            if (!document.getElementById(i)){
+                                e.async = 1;
+                                e.src = u;
+                                e.id = i;
+                                f.parentNode.insertBefore(e, f);
+                            }
+                        }(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/hearstlocalnews-network/loader.js', 'tb_loader_script');
+                        if(window.performance && typeof window.performance.mark == 'function') {
+                            window.performance.mark('tbl_ic');
+                        }
+                    })();
+                </script>
+                
+                                        
+            <script type="text/javascript">
+                (function () {
+                    window._newsroom = window._newsroom || [];
+                    
+                    !function(e,f,u){
+                        e.async = 1;
+                        e.src = u;
+                        f.parentNode.insertBefore(e,f);
+                    }(document.createElement('script'),document.getElementsByTagName('script')[0],'//c2.taboola.com/nr/hearstlocalnews-newstimes/newsroom.js');
+                })();
+            </script>
+            
+            <!-- e hearst/common/third_party_assets.tpl -->
+    <link rel="shortcut icon" href="https://blarchive.net/php/loadfile.php?fileid=673&index=16&type=img">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://blarchive.net/php/loadfile.php?fileid=673&index=17&type=img">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://blarchive.net/php/loadfile.php?fileid=673&index=18&type=img">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://blarchive.net/php/loadfile.php?fileid=673&index=19&type=img">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://blarchive.net/php/loadfile.php?fileid=673&index=20&type=img">
+    <link rel="apple-touch-icon-precomposed" sizes="128x128" href="https://blarchive.net/php/loadfile.php?fileid=673&index=21&type=css">
+            <!-- Hotfix Freeform (All Dynamic Two-Column) -->
+        <!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.93530 -->
+<!-- ENG-3363 -->
+<style>
+  .thumbnailListAuthor.one .thumbnailListAuthor--wrapper { margin: 0; }
+  @media (min-width: 768px) { .thumbnailListAuthor.two .thumbnailListAuthor--wrapper { margin: 0; } }
+  @media (min-width: 928px) { .thumbnailListAuthor.two .thumbnailListAuthor--items { justify-content: space-between; margin: 0; } }
+  @media (min-width: 928px) { .thumbnailListAuthor.two .thumbnailListAuthor--item { flex: 0 0 48%; margin: 0; } }
+  @media (min-width: 928px) { .thumbnailListAuthor.two .thumbnailListAuthor--spacer { display: none; } }
+  @media (min-width: 928px) { .thumbnailListAuthor.three .thumbnailListAuthor--wrapper { margin: 0; } }
+</style>
+<!-- ENG-3834 -->
+<style>
+  .alert{background-color:#000;bottom:0;box-sizing:border-box;color:#fff;font-family:Helvetica,sans-serif;font-size:16px;font-weight:600;left:50%;line-height:1.25;overflow:hidden;padding:10px;position:fixed;transform:translateX(-50%);width:100vw;z-index:5000000}.alert .close{border-radius:8px;color:#fff;display:block;position:absolute;right:10px;height:16px;overflow:hidden;top:10px;width:16px}.alert .close::after{background-color:#fff;content:'';display:block;height:2px;left:-6px;position:relative;top:4px;transform:rotate(-45deg);width:30px}.alert .close::before{background-color:#fff;content:'';display:block;height:2px;left:-5px;position:relative;top:9px;transform:rotate(45deg);width:30px}.alert>div{box-sizing:border-box;max-width:1200px;margin:0 auto;position:relative;padding-right:34px}
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {var site=HDN.domain,name=site.charAt(0).toUpperCase()+site.slice(1),section=document.createElement("section"),close=document.createElement("a");close.className="close",close.href="#",close.addEventListener("click",function(e){e.stopPropagation(),e.preventDefault(),e.target.parentElement.style.display="none"});var HTML="<div>Thank you for visiting "+name+". You are using an older browser that may impact your reading experience. For the best experience, we recommend you use Chrome, Safari, Firefox, or Edge.</div>";section.className="alert",section.id="warning",section.innerHTML=HTML,section.appendChild(close),document.getElementsByTagName("body")[0].appendChild(section);}
+  }, false);
+</script>
+<!-- e ENG-3834 -->
+<!-- ENG-6817 -->
+<style>
+    .hide-sign-in { display: none !important; }
+    .hide-right-border:after { display: none; }
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function(event) { 
+    var hostname = window.location.hostname;
+    var sites = [
+        "bigrapidsnews",
+        "darientimes",
+        "fairfieldcitizenonline",
+        "lakecountystar",
+        "manisteenews",
+        "michigansthumb",
+        "middletownpress",
+        "milfordmirror",
+        "myjournalcourier",
+        "myplainview",
+        "ncadvertiser",
+        "newmilfordspectrum",
+        "ourmidland",
+        "recordpatriot",
+        "registercitizen",
+        "sheltonherald",
+        "theheraldreview",
+        "theintelligencer",
+        "theridgefieldpress",
+        "thetelegraph",
+        "trumbulltimes",
+        "westport-news",
+        "wiltonbulletin",
+        "yourconroenews",
+    ];
+
+    for(var i = 0; i < sites.length; i++) {
+        if(hostname.indexOf(sites[i]) > 0) {
+            if(document.getElementById("subscription")) { document.getElementById("subscription").classList.add('hide-right-border'); }
+            document.getElementsByClassName("gigya_menu")[0].classList.add('hide-sign-in');
+        }
+    }
+});
+</script>
+<!-- end ENG-6817 -->
+<style>
+/* ENG-6411 */
+.fourPack--item { overflow: hidden; }
+/* ENG-6094 */
+.articleHeader--byline-credit + span {
+    background-position: 0% 0% !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+}
+/* ENG-6708 */
+.factBox button {
+    border: 1px solid #000;
+    color: #000;
+}
+.factBox button:hover {
+    border: 1px solid transparent;
+    color: #fff;
+}
+.factBox button .more::after {
+    background-image:  url(https://blarchive.net/php/loadfile.php?fileid=673&index=21&type=img)" fill="%23111" fill-rule="nonzero"%3E%3Cpath d="M1744.5,3195.43934 L1741.28033,3192.21967 C1740.98744,3191.92678 1740.51256,3191.92678 1740.21967,3192.21967 C1739.92678,3192.51256 1739.92678,3192.98744 1740.21967,3193.28033 L1743.96967,3197.03033 C1744.26256,3197.32322 1744.73744,3197.32322 1745.03033,3197.03033 L1748.78033,3193.28033 C1749.07322,3192.98744 1749.07322,3192.51256 1748.78033,3192.21967 C1748.48744,3191.92678 1748.01256,3191.92678 1747.71967,3192.21967 L1744.5,3195.43934 Z"%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+}
+.factBox button:hover .more::after {
+    background-image:  url(https://blarchive.net/php/loadfile.php?fileid=673&index=21&type=img)" fill="%23fff" fill-rule="nonzero"%3E%3Cpath d="M1744.5,3195.43934 L1741.28033,3192.21967 C1740.98744,3191.92678 1740.51256,3191.92678 1740.21967,3192.21967 C1739.92678,3192.51256 1739.92678,3192.98744 1740.21967,3193.28033 L1743.96967,3197.03033 C1744.26256,3197.32322 1744.73744,3197.32322 1745.03033,3197.03033 L1748.78033,3193.28033 C1749.07322,3192.98744 1749.07322,3192.51256 1748.78033,3192.21967 C1748.48744,3191.92678 1748.01256,3191.92678 1747.71967,3192.21967 L1744.5,3195.43934 Z"%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+}
+.factBox button .less::after {
+    background-image:  url(https://blarchive.net/php/loadfile.php?fileid=673&index=21&type=img)" fill="%23111" fill-rule="nonzero"%3E%3Cpath d="M1731.5,3196.43934 L1728.28033,3193.21967 C1727.98744,3192.92678 1727.51256,3192.92678 1727.21967,3193.21967 C1726.92678,3193.51256 1726.92678,3193.98744 1727.21967,3194.28033 L1730.96967,3198.03033 C1731.26256,3198.32322 1731.73744,3198.32322 1732.03033,3198.03033 L1735.78033,3194.28033 C1736.07322,3193.98744 1736.07322,3193.51256 1735.78033,3193.21967 C1735.48744,3192.92678 1735.01256,3192.92678 1734.71967,3193.21967 L1731.5,3196.43934 Z" transform="translate(1731.500000, 3195.625000) rotate(-180.000000) translate(-1731.500000, -3195.625000)"%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+}
+.factBox button:hover .less::after {
+    background-image:  url(https://blarchive.net/php/loadfile.php?fileid=673&index=21&type=img)" fill="%23fff" fill-rule="nonzero"%3E%3Cpath d="M1731.5,3196.43934 L1728.28033,3193.21967 C1727.98744,3192.92678 1727.51256,3192.92678 1727.21967,3193.21967 C1726.92678,3193.51256 1726.92678,3193.98744 1727.21967,3194.28033 L1730.96967,3198.03033 C1731.26256,3198.32322 1731.73744,3198.32322 1732.03033,3198.03033 L1735.78033,3194.28033 C1736.07322,3193.98744 1736.07322,3193.51256 1735.78033,3193.21967 C1735.48744,3192.92678 1735.01256,3192.92678 1734.71967,3193.21967 L1731.5,3196.43934 Z" transform="translate(1731.500000, 3195.625000) rotate(-180.000000) translate(-1731.500000, -3195.625000)"%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+}
+</style>
+<!-- ENG-7027 -->
+<style>
+.justNow--item-label {
+    margin: 0 12px 0 0;
+}
+</style>
+        <!-- Hotfix Freeform (Local Dynamic Two-Column) -->
+        
+<!-- noGen: item_header_hotfix_dtc_ssl 1 dne  -->
+                    </head>
+<!-- e hearst/article/headerMain.tpl -->    <body data-location="news" >
+        <!-- design/article/two_columns.tpl -->
+    <!-- hearst/article/types/dynamic_two_column.tpl -->
+
+
+<!-- hearst/common/siteBranding.tpl -->
+<header class="pageHeader standard" data-stage="0">
+        <div class="pageHeader--progress"><div class="pageHeader--progress-bar" id="progress"></div></div>    <div class="pageHeader--skipLink-wrapper">
+        <a href="#content" class="pageHeader--skipLink">Skip to main content</a>
+    </div>
+    <div class="pageHeader--wrapper lock">
+        <div id="navToggle" class="pageHeader--menuButton navToggle" aria-expanded="false" aria-labelledby="navigation" tabindex="0"></div>                <a id="mastheadLogo" href="/"  class="pageHeader--logo mastheadLogo fade show hdn-analytics" role="img" aria-label="Homepage - Site Logo" data-hdn-analytics="visit|masthead|navigation|0"></a>
+                    <div id="titleBar" class="pageHeader--titleBar titleBar fade show hidden">
+                                    <div class="pageHeader--titleBar-subsection">Currently Reading</div>
+                    <div class="pageHeader--titleBar-title">U.S. prepares to send checks, but big stimulus challenges loom</div>
+                            </div>
+                            <div id="nextStory" class="pageHeader--nextStory nextStory fade show hidden"></div>
+                            <ul class="pageHeader--links fade show">
+                                                                                                                                        <li id="subscription" class="pageHeader--links-nonsub subscribeButton fade show hidden">
+                                <a class="visible-xs-f subscribe" href="https://subscription.hearstmediact.com/checkout/412/843?siteid=CT_NT&origin=button&variant=wcm">Subscribe</a>
+                                <button type="button" class="hidden-xs" data-link="https://subscription.hearstmediact.com/checkout/412/843?siteid=CT_NT&origin=button&variant=wcm">Subscribe</button>
+                            </li>
+                                                            <li id="eEdition" class="pageHeader--links-sub eEdition fade show hidden"><a href="/e-edition">e-edition</a></li>
+                                                                                                        <!-- hearst/common/signin.tpl -->
+<li class="treg-is-gigya gigya_menu ">
+    <div class="gya-title expandable treg-conditional treg-not-logged-in">
+        <a class="signIn" tabindex="0">Sign In</a>
+    </div>
+    <div class="gya-title expandable treg-conditional treg-logged-in"><span></span></div>
+    <div class="gya-content expandable">
+        <div class="treg-gya-login-widget"></div>
+    </div>
+</li>
+<!-- e hearst/common/signin.tpl -->                <li class="pageHeader--searchButton searchToggle" aria-expanded="false" aria-labelledby="searchField-aria" tabindex="0"></li>            </ul>
+                            <div class="pageHeader--search searchField" id="searchField-aria">
+                
+                <form class="pageHeader--search-form" action="/search/" method="get">
+                    <input type="hidden" name="action" value="search" />
+                    <input type="hidden" name="firstRequest" value="1" />
+                    <input type="hidden" name="searchindex" value="solr" />
+                    <div class="fieldset">
+                        <input class="pageHeader--search-input" id="search" name="query" type="text" value="" placeholder="Search" />
+                        <button class="searchButton btn" value="" name="search" type="submit"></button>
+                    </div>
+                </form>
+            </div>
+            </div>
+                                    
+        <!-- hearst/home/HNavigation.tpl -->
+<!-- hearst/home/navigation.tpl -->
+         <!-- hearst/common/siteNavigation.tpl -->
+<nav id="navigation" class="navigation"><div class="navigation--wrapper lock"><div class="navigation--menu"><ul class="hidden-sm hidden-md hidden-lg hidden-xl"><li class="parent topLevel" data-length="12" data-index="0"><span role="heading" aria-level="2"><a  href="https://offers.hearstmediact.com/newstimes?offerID=36&origin=button.free&variant=wcm.nav.id.84" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="84" data-hdn-analytics="visit|Home|navigation-ard|1">Home</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 264px"><li class="child"><a  href="https://offers.hearstmediact.com/newstimes?offerID=36&origin=button.free&variant=wcm.nav.id.3476" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3476" data-hdn-analytics="visit|Home-Subscribe|navigation-ard|1">Subscribe</a></li><li class="child"><a  href="https://myaccount.newstimes.com/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5462" data-hdn-analytics="visit|Home-Manage Subscription|navigation-ard|2">Manage Subscription</a></li><li class="child"><a  href="https://hearstmediact.com" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3472" data-hdn-analytics="visit|Home-Advertise with Us|navigation-ard|3">Advertise with Us</a></li><li class="child"><a  href="/careers/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3473" data-hdn-analytics="visit|Home-Careers with Us|navigation-ard|4">Careers with Us</a></li><li class="child"><a  href="/contact/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3474" data-hdn-analytics="visit|Home-Contact News-Times|navigation-ard|5">Contact News-Times</a></li><li class="child"><a  href="/newsletters/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3475" data-hdn-analytics="visit|Home-Newsletters|navigation-ard|6">Newsletters</a></li><li class="child"><a  href="https://subscription.hearstmediact.com/eedition/?siteID=CT_NT" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3481" data-hdn-analytics="visit|Home-Digital edition|navigation-ard|7">Digital edition</a></li><li class="child"><a  href="/archives/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3478" data-hdn-analytics="visit|Home-Archives|navigation-ard|8">Archives</a></li><li class="child"><a  href="/faq/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3558" data-hdn-analytics="visit|Home-FAQ|navigation-ard|9">FAQ</a></li><li class="child"><a  href="/privacy/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="4618" data-hdn-analytics="visit|Home-Privacy Notice|navigation-ard|10">Privacy Notice</a></li><li class="child"><a  href="/tos/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3477" data-hdn-analytics="visit|Home-Terms of Use|navigation-ard|11">Terms of Use</a></li></ul></span></li><li class="parent topLevel" data-length="8" data-index="1"><span role="heading" aria-level="2"><a  href="/news/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="3" data-hdn-analytics="visit|News|navigation-ard|2">News</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 176px"><li class="child"><a  href="/local/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="4" data-hdn-analytics="visit|News-Local|navigation-ard|1">Local</a></li><li class="child"><a  href="/policereports/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5" data-hdn-analytics="visit|News-Police Reports|navigation-ard|2">Police Reports</a></li><li class="child"><a  href="/connecticut/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="6" data-hdn-analytics="visit|News-Connecticut|navigation-ard|3">Connecticut</a></li><li class="child"><a  href="/news/education/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5205" data-hdn-analytics="visit|News-Education|navigation-ard|4">Education</a></li><li class="child"><a  href="/politics/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="13" data-hdn-analytics="visit|News-Politics|navigation-ard|5">Politics</a></li><li class="child"><a  href="/seen/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3491" data-hdn-analytics="visit|News-Were you SEEN?|navigation-ard|6">Were you SEEN?</a></li><li class="child"><a  href="/elections/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="4125" data-hdn-analytics="visit|News-Election|navigation-ard|7">Election</a></li></ul></span></li><li class="parent topLevel" data-length="10" data-index="2"><span role="heading" aria-level="2"><a  href="/sports/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="7" data-hdn-analytics="visit|Sports|navigation-ard|3">Sports</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 220px"><li class="child"><a  href="/baseball/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="10" data-hdn-analytics="visit|Sports-Baseball|navigation-ard|1">Baseball</a></li><li class="child"><a  href="https://www.gametimect.com/scoreboard/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="4345" data-hdn-analytics="visit|Sports-High School Scoreboard|navigation-ard|2">High School Scoreboard</a></li><li class="child"><a  href="/football/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="12" data-hdn-analytics="visit|Sports-Football|navigation-ard|3">Football</a></li><li class="child"><a  href="/basketball/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="14" data-hdn-analytics="visit|Sports-Basketball|navigation-ard|4">Basketball</a></li><li class="child"><a  href="/uconn/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="24" data-hdn-analytics="visit|Sports-UConn|navigation-ard|5">UConn</a></li><li class="child"><a  href="/hockey/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="15" data-hdn-analytics="visit|Sports-Hockey|navigation-ard|6">Hockey</a></li><li class="child"><a  href="/othersports/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="19" data-hdn-analytics="visit|Sports-Other|navigation-ard|7">Other</a></li><li class="child"><a  href="https://www.gametimect.com/newspaper/newstimes/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="21" data-hdn-analytics="visit|Sports-High School|navigation-ard|8">High School</a></li><li class="child"><a  href="/college/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3724" data-hdn-analytics="visit|Sports-College|navigation-ard|9">College</a></li></ul></span></li><li class="parent topLevel" data-length="3" data-index="3"><span role="heading" aria-level="2"><a  href="/business/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="11" data-hdn-analytics="visit|Business|navigation-ard|4">Business</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 44px"><li class="child"><a  href="/topworkplaces/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3571" data-hdn-analytics="visit|Business-Top Workplaces|navigation-ard|1">Top Workplaces</a></li><li class="child"><a  href="/markets/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="22" data-hdn-analytics="visit|Business-Markets|navigation-ard|2">Markets</a></li></ul></span></li><li class="single" data-length="1" data-index="4"><a href="/realestate/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="1643" data-hdn-analytics="visit|Real Estate|navigation-ard|5">Real Estate</a></li><li class="parent topLevel" data-length="8" data-index="5"><span role="heading" aria-level="2"><a  href="/entertainment/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="18" data-hdn-analytics="visit|Entertainment|navigation-ard|6">Entertainment</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 176px"><li class="child"><a  href="/movies/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="26" data-hdn-analytics="visit|Entertainment-Movies|navigation-ard|1">Movies</a></li><li class="child"><a  href="/music/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="28" data-hdn-analytics="visit|Entertainment-Music|navigation-ard|2">Music</a></li><li class="child"><a  href="/arts/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="30" data-hdn-analytics="visit|Entertainment-Arts|navigation-ard|3">Arts</a></li><li class="child"><a  href="/tv/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="31" data-hdn-analytics="visit|Entertainment-Television|navigation-ard|4">Television</a></li><li class="child"><a  href="/comics/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="32" data-hdn-analytics="visit|Entertainment-Comics|navigation-ard|5">Comics</a></li><li class="child"><a  href="http://puzzles.newstimes.com" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="34" data-hdn-analytics="visit|Entertainment-Puzzles and Games|navigation-ard|6">Puzzles and Games</a></li><li class="child"><a  href="http://events.newstimes.com" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3944" data-hdn-analytics="visit|Entertainment-Events|navigation-ard|7">Events</a></li></ul></span></li><li class="parent topLevel" data-length="5" data-index="6"><span role="heading" aria-level="2"><a  href="/living/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="20" data-hdn-analytics="visit|Living|navigation-ard|7">Living</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 88px"><li class="child"><a  href="/homegarden/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="40" data-hdn-analytics="visit|Living-Home and Garden|navigation-ard|1">Home and Garden</a></li><li class="child"><a  href="/living/seniority/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5212" data-hdn-analytics="visit|Living-Seniors|navigation-ard|2">Seniors</a></li><li class="child"><a  href="/travel/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="86" data-hdn-analytics="visit|Living-Travel|navigation-ard|3">Travel</a></li><li class="child"><a  href="/food/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="29" data-hdn-analytics="visit|Living-Food|navigation-ard|4">Food</a></li></ul></span></li><li class="single" data-length="1" data-index="7"><a href="https://www.legacy.com/obituaries/newstimes/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="25" data-hdn-analytics="visit|Obituaries|navigation-ard|8">Obituaries</a></li><li class="single" data-length="1" data-index="8"><a href="/opinion/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="3485" data-hdn-analytics="visit|Opinion|navigation-ard|9">Opinion</a></li><li class="single" data-length="1" data-index="9"><a href="/healthyct/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="5758" data-hdn-analytics="visit|HealthyCT|navigation-ard|10">HealthyCT</a></li><li class="parent topLevel" data-length="3" data-index="10"><span role="heading" aria-level="2"><a  href="/sponsoredarticles/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="5731" data-hdn-analytics="visit|Sponsored Content|navigation-ard|11">Sponsored Content</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 44px"><li class="child"><a  href="https://storystudio.connecticutmag.com/camp-guide-2020-2021/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5732" data-hdn-analytics="visit|Sponsored Content-Camp Guide|navigation-ard|1">Camp Guide</a></li><li class="child"><a  href="https://storystudio.connecticutmag.com/ct-staycation/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5733" data-hdn-analytics="visit|Sponsored Content-Staycations|navigation-ard|2">Staycations</a></li></ul></span></li><li class="parent topLevel" data-length="3" data-index="11"><span role="heading" aria-level="2"><a  href="http://connecticut.ipublishmarketplace.com/connecticut-marketplace/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="42" data-hdn-analytics="visit|Classifieds|navigation-ard|1">Classifieds</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 44px"><li class="child"><a  href="/jobs/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="48" data-hdn-analytics="visit|Classifieds-Jobs|navigation-ard|1">Jobs</a></li><li class="child"><a  href="http://www.ingearct.com/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="57" data-hdn-analytics="visit|Classifieds-Cars|navigation-ard|2">Cars</a></li></ul></span></li><li class="single" data-length="1" data-index="12"><a href="http://digital.olivesoftware.com/Olive/ODN/DanburyNewsTimes/Default.aspx" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="5504" data-hdn-analytics="visit|Today's Paper|navigation-ard|2">Today's Paper</a></li><li class="single" data-length="1" data-index="13"><a href="/insider/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="5335" data-hdn-analytics="visit|Insider|navigation-ard|3">Insider</a></li></ul></div></div><span class="rule"></span><div id="navToggle__page" class="navTogglePage"></div></nav>
+<!-- e hearst/common/siteNavigation.tpl -->
+<!-- e hearst/home/navigation.tpl --> <!-- e hearst/home/HNavigation.tpl -->    </header>
+
+<!-- e hearst/common/siteBranding.tpl --><section id="topZone" class="zone topZone"><!-- src/business/widgets/hearst/collection/widget.tpl -->
+
+    <div class="hide-rss-link hdnce-e hdnce-collection-110869-dynamic_ribbon_articles"><!-- hearst/collections/dynamic_ribbon_articles.tpl -->
+<!-- collection.dynamic_ribbon_articles.110869 -->
+    <!-- design/collection/dynamic_ribbon_articles/single_zone.tpl -->
+                                                                                                                                                <div class="articleRibbon" data-component="collection" data-collection-type="ribbon" data-collection-id="110869" data-collection-title="D- NT Article Ribbon News" data-type="list">
+        <button class="articleRibbon--nav-btn articleRibbon--nav-prev fade" data-delta="-1"></button>
+        <div class="articleRibbon--wrapper">
+            <ul class="articleRibbon--list">
+                <div class="scrollSpacer"></div>
+                                <div class="articleRibbon--list-wrapper" style="flex: 1 0 2200px;">
+                    <span class="articleRibbon--list-title"><span class="articleRibbon--list-label"><!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                            Recommended
+                        <!-- e widgets/hearst/moduleHeader/widget.tpl --></span></span>                                                                    <!-- hearst/collections/dynamic_ribbon_articles_body.tpl -->
+<li class="articleRibbon--list-item">
+            <div class="articleRibbon--item-img">
+            <a class="hdn-analytics "  href="https://www.ctinsider.com/local/newstimes/article/Federal-stimulus-money-heading-to-Danbury-area-16012990.php?src=ntartribbon" data-hdn-analytics="visit-from-img|article-16012990|-110869|1">
+                <picture>
+                    <source srcset="https://blarchive.net/php/loadfile.php?fileid=673&index=22&type=img 1x, https://blarchive.net/php/loadfile.php?fileid=673&index=23&type=img 2x" media="(min-width: 48rem)">
+                    <img src="https://blarchive.net/php/loadfile.php?fileid=673&index=24&type=img" alt="Loretta Foley, of Shelton,, gives her information to Danbury Hospital Registered Nurse Denise Noto at Danbury's first mass COVID-19 vaccination site opened Thursday at the Danbury Fair mall. The Community Health Center, Inc site will use six car lanes to serve 600 appointments a day.">
+                </picture>
+            </a>
+        </div>
+        <a class="articleRibbon--item-headline hdn-analytics "  href="https://www.ctinsider.com/local/newstimes/article/Federal-stimulus-money-heading-to-Danbury-area-16012990.php?src=ntartribbon" data-hdn-analytics="visit|article-16012990|-110869|1">Federal stimulus money heading to Danbury area ‘unexpected’ but...</a>
+</li>
+<!-- e hearst/collections/dynamic_ribbon_articles_body.tpl -->                                                                    <!-- hearst/collections/dynamic_ribbon_articles_body.tpl -->
+<li class="articleRibbon--list-item">
+            <div class="articleRibbon--item-img">
+            <a class="hdn-analytics "  href="https://www.ctinsider.com/local/newstimes/article/Students-are-done-with-distance-learning-16012674.php?src=ntartribbon" data-hdn-analytics="visit-from-img|article-16012674|-110869|2">
+                <picture>
+                    <source srcset="https://blarchive.net/php/loadfile.php?fileid=673&index=25&type=img 1x, https://blarchive.net/php/loadfile.php?fileid=673&index=26&type=img 2x" media="(min-width: 48rem)">
+                    <img src="https://blarchive.net/php/loadfile.php?fileid=673&index=27&type=img" alt="Karen Lynch, a nurse at Danbury Hospital, administers the Moderna COVID-19 vaccination to Danbury teachers and school district staff at a vaccine clinic at Rogers Park Middle School in Danbury, Conn., on Saturday Mar. 6, 2021. Over 900 teachers and staff received the Moderna vaccine during the two-day clinic.">
+                </picture>
+            </a>
+        </div>
+        <a class="articleRibbon--item-headline hdn-analytics "  href="https://www.ctinsider.com/local/newstimes/article/Students-are-done-with-distance-learning-16012674.php?src=ntartribbon" data-hdn-analytics="visit|article-16012674|-110869|2">Danbury-area schools look to expand in-person learning</a>
+</li>
+<!-- e hearst/collections/dynamic_ribbon_articles_body.tpl -->                                                                    <!-- hearst/collections/dynamic_ribbon_articles_body.tpl -->
+<li class="articleRibbon--list-item">
+            <div class="articleRibbon--item-img">
+            <a class="hdn-analytics "  href="/local/article/Danbury-Hospital-eases-visitor-rules-as-COVID-16012068.php?src=ntartribbon" data-hdn-analytics="visit-from-img|article-16012068|-110869|3">
+                <picture>
+                    <source srcset="https://blarchive.net/php/loadfile.php?fileid=673&index=28&type=img 1x, https://blarchive.net/php/loadfile.php?fileid=673&index=29&type=img 2x" media="(min-width: 48rem)">
+                    <img src="https://blarchive.net/php/loadfile.php?fileid=673&index=30&type=img" alt="Kyle DeLucia, Owner of K&amp;J Tree Service, and his crew set up a crane at the entrance to Danbury Hospital with a 50 foot American flag and a giant Thank You sign to show their appreciation to the hospital staff serving the community during the covid pandemic. Tuesday, April 14, 2020, in Danbury, Conn.">
+                </picture>
+            </a>
+        </div>
+        <a class="articleRibbon--item-headline hdn-analytics "  href="/local/article/Danbury-Hospital-eases-visitor-rules-as-COVID-16012068.php?src=ntartribbon" data-hdn-analytics="visit|article-16012068|-110869|3">Danbury Hospital eases visitor rules as COVID rates decline</a>
+</li>
+<!-- e hearst/collections/dynamic_ribbon_articles_body.tpl -->                                                                    <!-- hearst/collections/dynamic_ribbon_articles_body.tpl -->
+<li class="articleRibbon--list-item">
+            <div class="articleRibbon--item-img">
+            <a class="hdn-analytics "  href="/local/article/United-Way-offers-COVID-19-relief-grants-to-16011436.php?src=ntartribbon" data-hdn-analytics="visit-from-img|article-16011436|-110869|4">
+                <picture>
+                    <source srcset="https://blarchive.net/php/loadfile.php?fileid=673&index=31&type=img 1x, https://blarchive.net/php/loadfile.php?fileid=673&index=32&type=img 2x" media="(min-width: 48rem)">
+                    <img src="https://blarchive.net/php/loadfile.php?fileid=673&index=33&type=img" alt="Kim Morgan, CEO of United Way of Western Connecticut, speaks Tuesday, Feb. 6, 2018, concerning a grant challenge that Danbury won to reduce poverty among immigrants and minorities. The Working Cities Challenge awarded Danbury and four other small cities in Connecticut $450,000.">
+                </picture>
+            </a>
+        </div>
+        <a class="articleRibbon--item-headline hdn-analytics "  href="/local/article/United-Way-offers-COVID-19-relief-grants-to-16011436.php?src=ntartribbon" data-hdn-analytics="visit|article-16011436|-110869|4">United Way offers COVID-19 relief grants to struggling non-profits</a>
+</li>
+<!-- e hearst/collections/dynamic_ribbon_articles_body.tpl -->                                                                    <!-- hearst/collections/dynamic_ribbon_articles_body.tpl -->
+<li class="articleRibbon--list-item">
+            <div class="articleRibbon--item-img">
+            <a class="hdn-analytics "  href="/local/article/Brookfield-students-find-little-moments-to-16010308.php?src=ntartribbon" data-hdn-analytics="visit-from-img|article-16010308|-110869|5">
+                <picture>
+                    <source srcset="https://blarchive.net/php/loadfile.php?fileid=673&index=34&type=img 1x, https://blarchive.net/php/loadfile.php?fileid=673&index=35&type=img 2x" media="(min-width: 48rem)">
+                    <img src="https://blarchive.net/php/loadfile.php?fileid=673&index=36&type=img" alt="Teacher Ernesto Davila, right, runs the Future Teachers of America club at Brookfield High School with student Ben Bogues on Monday, March 8, 2021, in Brookfield, Conn.">
+                </picture>
+            </a>
+        </div>
+        <a class="articleRibbon--item-headline hdn-analytics "  href="/local/article/Brookfield-students-find-little-moments-to-16010308.php?src=ntartribbon" data-hdn-analytics="visit|article-16010308|-110869|5">Brookfield students find ‘little moments to engage’</a>
+</li>
+<!-- e hearst/collections/dynamic_ribbon_articles_body.tpl -->                                                                    <!-- hearst/collections/dynamic_ribbon_articles_body.tpl -->
+<li class="articleRibbon--list-item">
+            <div class="articleRibbon--item-img">
+            <a class="hdn-analytics "  href="/local/article/We-are-only-as-safe-as-the-least-safe-16010206.php?src=ntartribbon" data-hdn-analytics="visit-from-img|article-16010206|-110869|6">
+                <picture>
+                    <source srcset="https://blarchive.net/php/loadfile.php?fileid=673&index=37&type=img 1x, https://blarchive.net/php/loadfile.php?fileid=673&index=38&type=img 2x" media="(min-width: 48rem)">
+                    <img src="https://blarchive.net/php/loadfile.php?fileid=673&index=39&type=img" alt="U.S. Sen. Richard Blumenthal talks with Dawn Myles, left, Vice President, Population Health Operations at Nuvance Health, and Amy Taylor,right, Vice President of the Community Health Center, Inc.'s Western Region during a visit to the new vaccination site at the Danbury Fair mall on Monday, March 8, 2021. Danbury, Conn.">
+                </picture>
+            </a>
+        </div>
+        <a class="articleRibbon--item-headline hdn-analytics "  href="/local/article/We-are-only-as-safe-as-the-least-safe-16010206.php?src=ntartribbon" data-hdn-analytics="visit|article-16010206|-110869|6">Danbury works to get COVID vaccine to ‘least safe’</a>
+</li>
+<!-- e hearst/collections/dynamic_ribbon_articles_body.tpl -->                                                                    <!-- hearst/collections/dynamic_ribbon_articles_body.tpl -->
+<li class="articleRibbon--list-item">
+            <div class="articleRibbon--item-img">
+            <a class="hdn-analytics "  href="https://www.ctinsider.com/local/newstimes/article/Restoring-glory-to-Danbury-s-historic-Octagon-16010238.php?src=ntartribbon" data-hdn-analytics="visit-from-img|article-16010238|-110869|7">
+                <picture>
+                    <source srcset="https://blarchive.net/php/loadfile.php?fileid=673&index=40&type=img 1x, https://blarchive.net/php/loadfile.php?fileid=673&index=41&type=img 2x" media="(min-width: 48rem)">
+                    <img src="https://blarchive.net/php/loadfile.php?fileid=673&index=42&type=img" alt="A man peers through the fence at the historic 1852 Octagon House on Spring Street, in Danbury, Conn on Monday, March 8, 2021.">
+                </picture>
+            </a>
+        </div>
+        <a class="articleRibbon--item-headline hdn-analytics "  href="https://www.ctinsider.com/local/newstimes/article/Restoring-glory-to-Danbury-s-historic-Octagon-16010238.php?src=ntartribbon" data-hdn-analytics="visit|article-16010238|-110869|7">Restoring Danbury’s Octagon House ‘still a work in progress’</a>
+</li>
+<!-- e hearst/collections/dynamic_ribbon_articles_body.tpl -->                                                                    <!-- hearst/collections/dynamic_ribbon_articles_body.tpl -->
+<li class="articleRibbon--list-item">
+            <div class="articleRibbon--item-img">
+            <a class="hdn-analytics "  href="/local/article/Here-is-a-look-at-the-top-10-taxpayers-in-Redding-16009937.php?src=ntartribbon" data-hdn-analytics="visit-from-img|article-16009937|-110869|8">
+                <picture>
+                    <source srcset="https://blarchive.net/php/loadfile.php?fileid=673&index=43&type=img 1x, https://blarchive.net/php/loadfile.php?fileid=673&index=44&type=img 2x" media="(min-width: 48rem)">
+                    <img src="https://blarchive.net/php/loadfile.php?fileid=673&index=45&type=img" alt="A building on the old Gilbert and Bennett Wire Mill property in Georgetown. The Norwalk River runs through the property. The town spent years in a lengthy legal battle over the millions in unpaid taxes and lack of site development but regained ownership in February when the title transferred to the town. Redding, Conn, Friday, March 5, 2021.">
+                </picture>
+            </a>
+        </div>
+        <a class="articleRibbon--item-headline hdn-analytics "  href="/local/article/Here-is-a-look-at-the-top-10-taxpayers-in-Redding-16009937.php?src=ntartribbon" data-hdn-analytics="visit|article-16009937|-110869|8">Redding grand list grows despite loss in real estate value</a>
+</li>
+<!-- e hearst/collections/dynamic_ribbon_articles_body.tpl -->                                                                    <!-- hearst/collections/dynamic_ribbon_articles_body.tpl -->
+<li class="articleRibbon--list-item">
+            <div class="articleRibbon--item-img">
+            <a class="hdn-analytics "  href="/elections/article/Newtown-engineer-becomes-the-third-candidate-in-16009499.php?src=ntartribbon" data-hdn-analytics="visit-from-img|article-16009499|-110869|9">
+                <picture>
+                    <source srcset="https://blarchive.net/php/loadfile.php?fileid=673&index=46&type=img 1x, https://blarchive.net/php/loadfile.php?fileid=673&index=47&type=img 2x" media="(min-width: 48rem)">
+                    <img src="https://blarchive.net/php/loadfile.php?fileid=673&index=48&type=img" alt="William Furrier of Newtown, an Independent, is running for the 112th House seat, which represents Monroe and a portion of Newtown.">
+                </picture>
+            </a>
+        </div>
+        <a class="articleRibbon--item-headline hdn-analytics "  href="/elections/article/Newtown-engineer-becomes-the-third-candidate-in-16009499.php?src=ntartribbon" data-hdn-analytics="visit|article-16009499|-110869|9">Newtown engineer running in 112th district special election</a>
+</li>
+<!-- e hearst/collections/dynamic_ribbon_articles_body.tpl -->                                                                    <!-- hearst/collections/dynamic_ribbon_articles_body.tpl -->
+<li class="articleRibbon--list-item">
+            <div class="articleRibbon--item-img">
+            <a class="hdn-analytics "  href="/local/article/Kent-student-earns-scholarship-other-community-16004645.php?src=ntartribbon" data-hdn-analytics="visit-from-img|article-16004645|-110869|10">
+                <picture>
+                    <source srcset="https://blarchive.net/php/loadfile.php?fileid=673&index=49&type=img 1x, https://blarchive.net/php/loadfile.php?fileid=673&index=50&type=img 2x" media="(min-width: 48rem)">
+                    <img src="https://blarchive.net/php/loadfile.php?fileid=673&index=51&type=img" alt="WCSU Learning Commons">
+                </picture>
+            </a>
+        </div>
+        <a class="articleRibbon--item-headline hdn-analytics "  href="/local/article/Kent-student-earns-scholarship-other-community-16004645.php?src=ntartribbon" data-hdn-analytics="visit|article-16004645|-110869|10">Kent student earns scholarship, other community highlights</a>
+</li>
+<!-- e hearst/collections/dynamic_ribbon_articles_body.tpl -->                                    </div>
+                <div class="scrollSpacer"></div>
+            </ul>
+        </div>
+        <button class="articleRibbon--nav-btn articleRibbon--nav-next fade show " data-delta="1"></button>
+    </div>
+        <script type="text/javascript">
+        var nextStory = [
+                                                            {
+                    "id": 16012990,
+                    "headline": "Federal stimulus money heading to Danbury area...",
+                    "url": "https://www.ctinsider.com/local/newstimes/article/Federal-stimulus-money-heading-to-Danbury-area-16012990.php?src=ntartribbon",
+                    "image": "https://s.hdnux.com/photos/01/16/76/37/20703193/15/ratio3x2_100.jpg"
+                },                                                            {
+                    "id": 16012674,
+                    "headline": "Danbury-area schools look to expand in-person learning",
+                    "url": "https://www.ctinsider.com/local/newstimes/article/Students-are-done-with-distance-learning-16012674.php?src=ntartribbon",
+                    "image": "https://s.hdnux.com/photos/01/17/02/66/20721031/7/ratio3x2_100.jpg"
+                },                                                            {
+                    "id": 16012068,
+                    "headline": "Danbury Hospital eases visitor rules as COVID rates...",
+                    "url": "/local/article/Danbury-Hospital-eases-visitor-rules-as-COVID-16012068.php?src=ntartribbon",
+                    "image": "https://s.hdnux.com/photos/01/11/47/14/19297081/53/ratio3x2_100.jpg"
+                },                                                            {
+                    "id": 16011436,
+                    "headline": "United Way offers COVID-19 relief grants to...",
+                    "url": "/local/article/United-Way-offers-COVID-19-relief-grants-to-16011436.php?src=ntartribbon",
+                    "image": "https://s.hdnux.com/photos/01/17/02/31/20719184/3/ratio3x2_100.jpg"
+                },                                                            {
+                    "id": 16010308,
+                    "headline": "Brookfield students find ‘little moments to engage’",
+                    "url": "/local/article/Brookfield-students-find-little-moments-to-16010308.php?src=ntartribbon",
+                    "image": "https://s.hdnux.com/photos/01/17/01/75/20717433/5/ratio3x2_100.jpg"
+                },                                                            {
+                    "id": 16010206,
+                    "headline": "Danbury works to get COVID vaccine to ‘least safe’",
+                    "url": "/local/article/We-are-only-as-safe-as-the-least-safe-16010206.php?src=ntartribbon",
+                    "image": "https://s.hdnux.com/photos/01/17/01/71/20717159/3/ratio3x2_100.jpg"
+                },                                                            {
+                    "id": 16010238,
+                    "headline": "Restoring Danbury’s Octagon House ‘still a work...",
+                    "url": "https://www.ctinsider.com/local/newstimes/article/Restoring-glory-to-Danbury-s-historic-Octagon-16010238.php?src=ntartribbon",
+                    "image": "https://s.hdnux.com/photos/01/17/01/73/20717258/5/ratio3x2_100.jpg"
+                },                                                            {
+                    "id": 16009937,
+                    "headline": "Redding grand list grows despite loss in real estate...",
+                    "url": "/local/article/Here-is-a-look-at-the-top-10-taxpayers-in-Redding-16009937.php?src=ntartribbon",
+                    "image": "https://s.hdnux.com/photos/01/17/01/60/20716577/3/ratio3x2_100.jpg"
+                },                                                            {
+                    "id": 16009499,
+                    "headline": "Newtown engineer running in 112th district special...",
+                    "url": "/elections/article/Newtown-engineer-becomes-the-third-candidate-in-16009499.php?src=ntartribbon",
+                    "image": "https://s.hdnux.com/photos/01/17/01/45/20715866/3/ratio3x2_100.jpg"
+                },                                                            {
+                    "id": 16004645,
+                    "headline": "Kent student earns scholarship, other community...",
+                    "url": "/local/article/Kent-student-earns-scholarship-other-community-16004645.php?src=ntartribbon",
+                    "image": "https://s.hdnux.com/photos/01/16/77/64/20708620/3/ratio3x2_100.jpg"
+                }                    ];
+    </script>
+<!-- e design/collection/dynamic_ribbon_articles/single_zone.tpl --><!-- e hearst/collections/dynamic_ribbon_articles.tpl -->
+</div><!-- e src/business/widgets/hearst/collection/widget.tpl --></section><main id="content" class="article" data-type="dtc"><!-- hearst/article/articleHeader.tpl -->
+        
+
+<header class="article--header articleHeader"><div class="articleHeader--breadcrumbs"><a class="articleHeader--breadcrumbs-item" href="https://www.newstimes.com/news/">News</a></div><h1 class="articleHeader--headline" aria-labelledby="">U.S. prepares to send checks, but big stimulus challenges loom</h1><h3 class="articleHeader--deck"></h3><div class="articleHeader--subHead "><div class="articleHeader--byline"><span class="articleHeader--byline-name">Tony Romm, Jeff Stein and Rachel Siegel</span>,&nbsp;<span class="articleHeader--byline-credit">The Washington Post</span></div><div class="articleHeader--timestamp"><time class="articleHeader--timestamp-pubdate hasUpdate hidden-xs" datetime="2021-03-10 00:20:01">March 9, 2021</time><time class="articleHeader--timestamp-update" datetime="2021-03-10 00:23:08">Updated: March 9, 2021 7:23&nbsp;p.m.</time></div><div class="articleHeader--shareTools"><!-- hearst/common/shareTools.tpl -->
+    
+<div class="share-list comments">
+    <a class="share-facebook" data-shareNetwork="facebook">Facebook</a>
+    <a class="share-twitter" data-shareNetwork="twitter">Twitter</a>
+    <a class="share-email" data-shareNetwork="email">Email</a>
+            <div class="pipe"></div>
+                    
+                            <a class="share-comments" data-shareNetwork="comments" href="https://www.newstimes.com/news/articleComments/U-S-prepares-to-send-checks-but-big-stimulus-16013338.php" onclick="document.location.href = document.location.href.replace('/article/','/articleComments/').replace('/slideshow/','/slideshowComments/'); return false;">Comments</a>
+        <span class="share-count"></span>
+    </div>
+<!-- e hearst/common/shareTools.tpl --></div></div></header>
+<!-- e hearst/article/articleHeader.tpl --><article class="article--content"><section id="articleTop" class="article--content-zone top"></section>
+            <p>WASHINGTON - Congress is set to give the final green light to a $1.9 trillion coronavirus stimulus package Wednesday, setting in motion a Washington-wide effort to administer one of the largest economic relief packages in U.S. history.</p>
+
+    
+            <p>Over the coming weeks, the Biden administration may send another round of one-time checks to millions of families, rethink vast portions of the U.S. tax code and dole out sums to help cash-strapped Americans, seeking to swiftly blunt an economic crisis that has left millions without jobs and falling further behind financially.</p>
+
+    <div id="paywall" class="content-wrapper">
+            <p>Biden and his aides have promised that a large number of Americans could receive their $1,400 stimulus payments before the end of March. But some of the other ambitious elements of the soon-to-be law - including new child tax support, aid to local governments and money to help families pay rent - could take much longer to disburse. The sheer volume of new programs threatens to swamp federal agencies, including the Internal Revenue Service, leaving some lawmakers fearful about early delays.</p>
+
+    
+    <!-- Missed: ad -->
+
+    <!-- Missed: ad -->
+
+            <p>Congressional aid packages that became law over the past year have proved instrumental in helping the country rebound from one of the worst economic crises since the Great Depression. But the federal bureaucracy at times has strained to deliver some of that support in a tight time frame. Few Americans have benefited so far from the $25 billion in rental and utility assistance that lawmakers approved in December, housing experts said, and other programs to help workers and businesses pay their bills have not yet fully come online.</p>
+
+    
+    <!-- Missed: ad -->
+
+    <!-- Missed: ad -->
+
+            <p>"Implementation is the ballgame. You can have the best priorities in the world, whether it's the well-being of children [or] the needs of those who have been laid off of no fault of their own," said Sen. Ron Wyden, D-Ore., the chairman of the Senate Finance Committee. "It doesn't mean a whole lot if you can't get the benefits out so people can make ends meet."</p>
+
+    
+    <!-- hearst/article/content/zone.tpl -->
+            <!-- hearst/article/content/embed.tpl -->
+        <section class="article--content-embed  ">
+            <div id="e09aaebd-5af1-4540-ba66-79fd63f367ef" class="hst-exco-player"></div><script>
+function loadExcoPlayer (d, s, id) {
+   var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://player.ex.co/player/e09aaebd-5af1-4540-ba66-79fd63f367ef";
+    fjs.parentNode.insertBefore(js, fjs);
+}
+if (typeof window.treg === 'object' && 'loaded' in window.treg && typeof window.treg.realm === 'object') {
+    window.treg.cmd = window.treg.cmd || [];
+    window.treg.cmd.push(function () {
+        var treg = window.treg;
+        treg.realm.events.registerReplayLast("realm.Oidc.refreshLogicComplete", function () {
+            loadExcoPlayer(document, 'script', 'hst-exco-e09aaebd-5af1-4540-ba66-79fd63f367ef');
+        });
+    });
+} else {
+    loadExcoPlayer(document, 'script', 'hst-exco-e09aaebd-5af1-4540-ba66-79fd63f367ef');
+}
+</script><script>
+  (function (d, id) {
+    var t = d.getElementById(id), img = d.createElement('img');
+    img.height = 0;
+    img.width = 0;
+    img.src = 'https://blarchive.net/php/loadfile.php?fileid=673&index=52' + encodeURIComponent(window.HDN.dataLayer.content.designTemplate);
+    t.parentNode.insertBefore(img, t);
+    t.parentNode
+  }(document, 'e09aaebd-5af1-4540-ba66-79fd63f367ef'));
+</script><!-- amp-exco-2e0585da-71de-4c19-ba3b-11d2391f4815 -->
+
+    </section>
+<!-- e hearst/article/content/embed.tpl -->    <!-- e hearst/article/content/zone.tpl -->
+            <p>The White House did not respond to a request for comment.</p>
+
+    
+            <p>The challenges ahead reflect the high stakes facing Biden as he prepares to sign his first major legislative accomplishment into law this week. The president's economic agenda and political legacy - and the trajectory of the country's recovery from the pandemic - will depend on the ability of the federal government to get the next few months right.</p>
+
+    
+    <!-- Missed: ad -->
+
+            <p>Dubbed the American Rescue Plan, the $1.9 trillion package marks the sixth major stimulus adopted by Congress since the coronavirus arrived in the United States last year. Democrats this week have hailed it as the largest anti-poverty measure in a generation, and top White House officials in recent days have fanned out to tout its potential - and the party's early efforts to meet its 2020 campaign promises to deliver economic relief.</p>
+
+    
+            <p>The president on Tuesday toured a local hardware store that had benefited from a loan under a prior stimulus initiative, the nearly $1 trillion Paycheck Protection Program, adopted last year. Bharat Ramamurti, the deputy director of the National Economic Council, later said at a White House briefing that the administration's efforts alone had helped almost 200,000 first-time borrowers obtain loans. He said the new stimulus would serve as a "big step" toward recovering some of the roughly 10 million jobs still lost as a result of the pandemic.</p>
+
+    
+            <p>"We promised to send people back to work by helping to revive and supercharge the economy - mission accomplished," said Rep. Hakeem Jeffries, D-N.Y., heralding the stimulus on Capitol Hill for delivering on commitments made to voters last year to provide swift, robust relief. "We promised to help small businesses - mission accomplished."</p>
+
+    
+            <p>Republicans criticized the bill, days after every GOP senator voted against the measure this weekend. Many noted that significant sums from past stimulus measures remain unspent, making the new injection of federal aid set to be authorized by the House on Wednesday morning unnecessary in their eyes.</p>
+
+    
+            <p>"We can't just keep borrowing money; that's why we wanted a narrower approach to covid relief, including using the existing hundreds of billions of dollars that haven't been spent before you go borrow money that do things that have nothing to do with covid," said Rep. Steve Scalise, R-La., the House minority whip.</p>
+
+    
+            <p>But the extent of the help - and the speed at which it reaches Americans - may depend on the critical months ahead.</p>
+
+    
+            <p>Some of the most ambitious new programs hinge on the IRS, an agency tasked under the stimulus law with vast responsibilities to disburse payments to millions of Americans and process significant changes to the tax code. The IRS has grown familiar with the one-time payments, having dispatched two rounds of such aid since the pandemic began, and White House press secretary Jen Psaki said Tuesday that the agency is working "tirelessly to make that happen." But the agency for the first time will begin distributing regular support to families with children as part of a massive change in the way the government assists families in need.</p>
+
+    
+            <p>The IRS would need to craft rules for new advance payments of the expanded child tax credits; stand up a system to pay them out, perhaps on a monthly basis; and process other changes under the rescue plan, including fresh help to unemployed Americans. The sheer volume of work that would need to be done - all while managing tax filing season this spring - has led even staunch supporters of the stimulus to raise early red flags about its implementation.</p>
+
+    
+            <p>"I think struggle is inevitable," said Rep. Gerald Connolly, D-Va., who chairs a key House committee overseeing government operations, when asked about the IRS.</p>
+
+    
+            <p>Connolly cited years of budget cuts under Republicans - and outdated computer systems at the IRS - as potential threats to the agency's ability to administer the new stimulus programs. The $1.9 trillion package includes money to help the IRS fix some of these deficiencies.</p>
+
+    
+            <p>"It's a very critical public policy program to be implemented," he said. "But I think they're going to be struggling with it, not because of intrinsic flaws of the IRS but because we're paying a price for the disinvestment in the IRS over the past decade."</p>
+
+    
+            <p>The IRS did not respond to a request for comment.</p>
+
+    
+            <p>Wyden said he hopes to see tax aid made available "this summer," pledging close oversight of the agency - and others implementing the stimulus - in the months ahead.</p>
+
+    
+            <p>"We're going to be watchdogging this every single step of the way," he said.</p>
+
+    
+            <p>For those still out of work, meanwhile, the relief package authorizes another round of $300 in additional weekly benefits, a major boon to millions who would have lost those checks without congressional action by March 14.</p>
+
+    
+            <p>But the extension may take time for states to implement, once again resulting in potential disruptions to jobless aid. The delays may feel familiar to Americans who repeatedly have been left without checks because of technical glitches - and congressional quarreling - dating back to the beginning of the pandemic.</p>
+
+    
+            <p>"We expect there will be some lapse in benefits for probably a matter of weeks before payments start going out the door again to those who will exhaust their benefits this week," said Julia Simon-Mishel, a top lawyer at Philadelphia Legal Assistance.</p>
+
+    
+            <p>Lawmakers also allowed some recipients of weekly jobless aid to obtain new relief on their taxes. Yet the Biden administration ultimately must decide how to implement the change in the midst of tax season, possibly creating headaches for jobless Americans who filed their 2020 returns before the stimulus bill passed.</p>
+
+    <aside class="article--content-inline"><aside class="zone">
+    
+<!-- hearst/home/mostPopular.tpl -->
+    
+                <div class="mostPopular">
+            <div class="collectionHeader">Most Popular</div>
+                                                                <ol class="mostPopular--list">
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/news/article/U-S-prepares-to-send-checks-but-big-stimulus-16013338.php" title="U.S. prepares to send checks, but big stimulus challenges loom" data-hdn-analytics="visit|article-16013338|most_popular|0">U.S. prepares to send checks, but big stimulus challenges loom</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/news/article/Biden-struggles-with-school-reopenings-16007927.php" title="Biden struggles with school reopenings" data-hdn-analytics="visit|article-16007927|most_popular|1">Biden struggles with school reopenings</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/news/article/Police-man-stabbed-his-girlfriend-seven-times-16009817.php" title="Police: man stabbed his girlfriend seven times" data-hdn-analytics="visit|article-16009817|most_popular|2">Police: man stabbed his girlfriend seven times</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/local/article/Here-is-a-look-at-the-top-10-taxpayers-in-Redding-16009937.php" title="Here is a look at the top 10 taxpayers in Redding" data-hdn-analytics="visit|article-16009937|most_popular|3">Here is a look at the top 10 taxpayers in Redding</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/business/slideshow/These-companies-are-hiring-right-now-in-201091.php" title="These major companies are hiring right now in Connecticut" data-hdn-analytics="visit|slideshow-201091|most_popular|4">These major companies are hiring right now in Connecticut</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/local/article/Brookfield-students-find-little-moments-to-16010308.php" title="Brookfield students find ‘little moments to engage’ by updating ‘Word of the Week’ program" data-hdn-analytics="visit|article-16010308|most_popular|5">Brookfield students find ‘little moments to engage’ by updating ‘Word of the Week’ program</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/business/article/Former-Wallingford-bowling-alley-sold-for-almost-16010607.php" title="Former Wallingford bowling alley sold for almost $1 million" data-hdn-analytics="visit|article-16010607|most_popular|6">Former Wallingford bowling alley sold for almost $1 million</a>
+                                                            </li>
+                                            </ul>
+                                    </div>
+    <!--e hearst/home/mostPopular.tpl --></aside></aside>
+            <p>Other funds may prove easier to disburse, building on coronavirus relief programs approved last year. The package includes $5 billion in new pandemic food benefits, for example, which augments aid Congress passed in 2020 to help people struggling to eat. Another tranche of support, $30 billion to help renters catch up on their past-due housing costs, roughly doubles the size of a fund lawmakers approved as part of a smaller stimulus package in December.</p>
+
+    
+            <p>Andrew Olmem, who served as deputy director of the White House National Economic Council under President Donald Trump, said the approach could make implementation of some of the new stimulus "easier than for the prior bills," including the $2 trillion Cares Act adopted at the height of the crisis last March.</p>
+
+    
+            <p>"But the bill's new funding programs will take time to set up as the personnel, financial, legal and organizational requirements for establishing a new program need to be completed," Olmem added. "Every new program invariably runs into unexpected obstacles and challenges."</p>
+
+    
+            <p>With rental relief, for example, the U.S. government started working to deliver the money to cash-strapped tenants and landlords after lawmakers voted last year. But confusing government rules, a paucity of local infrastructure to disburse the money and a changeover from the Trump to the Biden administration meant that most of the $25 billion in aid has not helped families in need, roughly three months after Trump signed it into law.</p>
+
+    
+            <p>"Very little of the $25 billion has reached low-income renters and landlords yet," said Diane Yentel, president of the National Low Income Housing Coalition. She predicted that recent changes under Biden - and the new aid approved by Congress this week - will help speed money to renters in great need. "I expect the numbers to increase significantly in the coming days and weeks."</p>
+
+    
+            <p>A slew of other efforts to help struggling businesses similarly have been trapped in the federal bureaucracy. In December, for example, Congress approved $15 billion in emergency assistance for independent entertainment venues affected by the pandemic. Initially dubbed the Save Our Stages Act, the initiative enabled the Small Business Administration to issue grants as a financial life raft for concert and theater venues that have had little to no business for almost an entire year.</p>
+
+    
+            <p>But Audrey Fix Schaefer, a board member of the National Independent Venue Association, said none of the $15 billion has been disbursed. The SBA has not even issued grant applications, Schaefer said, leaving businesses unaware of when they might see a check. Many of those businesses passed on the Paycheck Protection Program, hoping they would be able to get more money from this entertainment-specific aid.</p>
+
+    
+            <p>"We imagine that isn't easy to administer, but we were always hoping the money would start to flow by the middle of February," Schaefer said.</p>
+
+    
+            <p>The new stimulus would task the SBA with another round of responsibilities, including the administration of a $25 billion-plus fund for restaurants that have seen precipitous drops in dining because of coronavirus restrictions. The restaurant fund is similar to the one set aside for theaters, leading Sean Kennedy, the executive vice president for public affairs for the National Restaurant Association, to say this week that it will probably be "months and not weeks" before the money starts to flow.</p>
+
+    
+            <p>The Biden administration also faces particularly steep challenges in the disbursal of approximately $350 billion in new stimulus aid for states, cities, tribes and territories. At the core are logistical questions about how and when that money gets sent, as Washington manages tens of billions in grants to local governments for other programs, such as education and vaccine deployment, all of which must be sorted quickly.</p>
+
+    
+            <p>"It's just a logistical nightmare," said Bill Hoagland, a senior vice president at the Bipartisan Policy Center and former Republican staff director for the Senate Budget Committee. "It becomes a real management problem and management issue."</p>
+
+    
+            <p>- - -</p>
+
+    
+            <p>The Washington Post's Erica Werner contributed to this report.</p>
+
+    
+            <div id="wapoRecirc">
+<p><strong>Read More </strong></p>
+<p><a href="https://www.washingtonpost.com//photography/interactive/2021/russia-baikal-hockey-environment/" data-hdn-analytics="visit|https://www.washingtonpost.com//photography/interactive/2021/russia-baikal-hockey-environment/|wapo-link|1">On Lake Baikal, Russia's hockey greats play 'last game' for threatened environment</a></p>
+<p><a href="https://www.washingtonpost.com//health/2021/03/09/coronavirus-spread-world/" data-hdn-analytics="visit|https://www.washingtonpost.com//health/2021/03/09/coronavirus-spread-world/|wapo-link|2">A viral tsunami: How the underestimated coronavirus took over the world</a></p>
+<p><a href="https://www.washingtonpost.com//lifestyle/style/obama-clinton-book-podcast/2021/03/05/beef7224-7b6b-11eb-85cd-9b7fa90c8873_story.html" data-hdn-analytics="visit|https://www.washingtonpost.com//lifestyle/style/obama-clinton-book-podcast/2021/03/05/beef7224-7b6b-11eb-85cd-9b7fa90c8873_story.html|wapo-link|3">Films! Novels! Springsteen! The Obamas and Clintons seem to be having the time of their lives.</a></p>
+<p><a href="https://subscribe.washingtonpost.com/newsletters/#/bundle/postmost?method=SURL&amp;location=SFGATE" data-hdn-analytics="visit|https://subscribe.washingtonpost.com/newsletters/#/bundle/postmost?method=SURL&amp;location=SFGATE|wapo-link|4">Subscribe</a> to The Post Most newsletter for the most important and interesting stories from The Washington Post.</p>
+</div>
+
+    <section id="articleBottom" class="article--content-zone bottom"></section></div></article><!-- hearst/article/articleAside.tpl -->
+<aside class="article--aside slideshow--aside">
+    <aside id="zoneD" class="zone">    
+                        <!-- business/templates/design/item/default.tpl -->
+      <!-- mid:freeform.85203 -->
+    <div class="hst-freeform hdnce-e hdnce-item-85203">
+                <script type="text/javascript" id="taboola-right-rail-script-id">
+(function () {
+    window._taboolaRRI = window._taboolaRRI || 0;
+    window._taboolaRRI++;
+    var e = document.documentElement;
+    var g = document.getElementsByTagName('body')[0];
+    var w = window.innerWidth||e.clientWidth||g.clientWidth;
+    if ( (w >= 768 && window._taboolaRRI === 1) || (w < 768 && window._taboolaRRI === 2) ){
+        var c = 'taboola-right-rail-thumbnails';
+        var p = 'Right Rail Thumbnails';
+        var m = 'rr';
+        try {
+            if (window._taboolaNetworkMode) {
+                c = c + '---redesign';
+                p = p + ' - Redesign';
+                if (HDN.dataLayer.content.objectType  === 'article') {
+                    m = 'f';
+                }
+            }
+        } catch (e) {}
+        var d = document.createElement('div');
+        d.id = c;
+        var s = document.getElementById('taboola-right-rail-script-id');
+        s.parentNode.insertBefore(d, s);
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-' + m,
+            container: c,
+            placement: p,
+            target_type: 'mix'
+        });
+    }
+})();
+</script>
+    </div>
+              <!-- src/business/widgets/hearst/collection/widget.tpl -->
+
+    <div class="hide-rss-link hdnce-e hdnce-collection-110917-dynamic_thumbnail_list"><!-- hearst/collections/dynamic_thumbnail_list.tpl -->
+<!-- collection.dynamic_thumbnail_list.110917 -->
+    <!-- design/collection/dynamic_thumbnail_list/single_zone.tpl  -->
+    <div class="collectionHeader"><!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                            Expert Opinion
+                        <!-- e widgets/hearst/moduleHeader/widget.tpl --></div>
+    <!-- hearst/collections/dynamic_thumbnail_list_body.tpl -->
+<section class="thumbnail-list">
+<div class="thumbnail-list-wrapper">
+<ul>
+                                                                                  
+                                    
+                                                                                      <!-- hearst/collections/dynamic_thumbnail_list_author.tpl -->
+
+           
+  <li class="thumbnail-list--item author-badge" data-tb-region-item>
+    <div class="thumbnail-list--item-header">
+                    <div class="thumbnail-list--item-header-author">
+                <span class="thumbnail-list--item-header-author-kicker kicker">
+                    <a class="author" href="/author/dan-haar/" title="" rel="author" itemprop="url" class="hdn-analytics" data-hdn-analytics="visit|-Author Page|thumbnail-list-author" target="_blank" rel="noopener noreferrer">Dan Haar</a>
+                </span>
+                <span class="thumbnail-list--item-header-author-title">Columnist and Associate Editor</span>            </div>
+                <a class="thumbnail-list--item-header-headline badge hdn-analytics "  href="https://www.ctinsider.com/business/danhaar/newstimes/article/Dan-Haar-Federal-stimulus-means-a-national-16010509.php" data-hdn-analytics="visit|article-16010509|dynamic_thumbnail_list-110917|1">
+            Haar: Expect strife from this massive federal outlay
+        </a>
+    </div>
+            <div class="thumbnail-list--item-author-photo">
+            <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                <source data-srcset="https://s.hdnux.com/photos/66/50/63/14322882/3/ratio1x1_85.jpg 1x, https://s.hdnux.com/photos/66/50/63/14322882/3/ratio1x1_170.jpg 2x" media="(min-width: 20rem)">
+                <img data-src="https://blarchive.net/php/loadfile.php?fileid=673&index=53&type=img" alt="Dan Haar">
+            </picture>
+        </div>
+                <div class="thumbnail-list--item-header-abstract">
+            <a class="abstract hdn-analytics "  href="https://www.ctinsider.com/business/danhaar/newstimes/article/Dan-Haar-Federal-stimulus-means-a-national-16010509.php" data-hdn-analytics="visit|article-16010509|dynamic_thumbnail_list-110917|1">
+                                 Let’s sort out what it means for one federal bill to pour $1.9 trillion into the U.S. economy, including $5.4 billion directly to CT state, city...
+            </a>
+        </div>
+    </li>
+<!-- e hearst/collections/dynamic_thumbnail_list_author.tpl -->                                                                                                      
+                                    
+                                                                                      <!-- hearst/collections/dynamic_thumbnail_list_author.tpl -->
+
+           
+  <li class="thumbnail-list--item author-badge" data-tb-region-item>
+    <div class="thumbnail-list--item-header">
+                    <div class="thumbnail-list--item-header-author">
+                <span class="thumbnail-list--item-header-author-kicker kicker">
+                    <a class="author" href="/author/jim-cameron/" title="" rel="author" itemprop="url" class="hdn-analytics" data-hdn-analytics="visit|-Author Page|thumbnail-list-author" target="_blank" rel="noopener noreferrer">Jim Cameron</a>
+                </span>
+                <span class="thumbnail-list--item-header-author-title">Columnist</span>            </div>
+                <a class="thumbnail-list--item-header-headline badge hdn-analytics "  href="https://www.ctinsider.com/news/newstimes/article/Getting-There-Riders-share-how-to-save-16007672.php" data-hdn-analytics="visit|article-16007672|dynamic_thumbnail_list-110917|2">
+            Getting There: Riders share how to save Metro-North
+        </a>
+    </div>
+            <div class="thumbnail-list--item-author-photo">
+            <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                <source data-srcset="https://s.hdnux.com/photos/24/75/56/5495692/3/ratio1x1_85.jpg 1x, https://s.hdnux.com/photos/24/75/56/5495692/3/ratio1x1_170.jpg 2x" media="(min-width: 20rem)">
+                <img data-src="https://blarchive.net/php/loadfile.php?fileid=673&index=54&type=img" alt="Jim Cameron">
+            </picture>
+        </div>
+                <div class="thumbnail-list--item-header-abstract">
+            <a class="abstract hdn-analytics "  href="https://www.ctinsider.com/news/newstimes/article/Getting-There-Riders-share-how-to-save-16007672.php" data-hdn-analytics="visit|article-16007672|dynamic_thumbnail_list-110917|2">
+                                 Dozens of train riders shared how they think more commuters can be attracted back to Metro-North. 
+            </a>
+        </div>
+    </li>
+<!-- e hearst/collections/dynamic_thumbnail_list_author.tpl -->                                                                                                      
+                                    
+                                                                                      <!-- hearst/collections/dynamic_thumbnail_list_author.tpl -->
+
+           
+  <li class="thumbnail-list--item author-badge" data-tb-region-item>
+    <div class="thumbnail-list--item-header">
+                    <div class="thumbnail-list--item-header-author">
+                <span class="thumbnail-list--item-header-author-kicker kicker">
+                    <a class="author" href="/author/robert-miller/" title="" rel="author" itemprop="url" class="hdn-analytics" data-hdn-analytics="visit|-Author Page|thumbnail-list-author" target="_blank" rel="noopener noreferrer">Robert Miller</a>
+                </span>
+                <span class="thumbnail-list--item-header-author-title">Environmental Columnist</span>            </div>
+                <a class="thumbnail-list--item-header-headline badge hdn-analytics "  href="https://www.ctinsider.com/news/newstimes/article/Robert-Miller-Addressing-climate-change-at-the-16004542.php" data-hdn-analytics="visit|article-16004542|dynamic_thumbnail_list-110917|3">
+            Robert Miller: Addressing climate change at the local level
+        </a>
+    </div>
+            <div class="thumbnail-list--item-author-photo">
+            <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                <source data-srcset="https://s.hdnux.com/photos/01/06/64/24/18564400/4/ratio1x1_85.jpg 1x, https://s.hdnux.com/photos/01/06/64/24/18564400/4/ratio1x1_170.jpg 2x" media="(min-width: 20rem)">
+                <img data-src="https://blarchive.net/php/loadfile.php?fileid=673&index=55&type=img" alt="Robert Miller">
+            </picture>
+        </div>
+                <div class="thumbnail-list--item-header-abstract">
+            <a class="abstract hdn-analytics "  href="https://www.ctinsider.com/news/newstimes/article/Robert-Miller-Addressing-climate-change-at-the-16004542.php" data-hdn-analytics="visit|article-16004542|dynamic_thumbnail_list-110917|3">
+                                 A proposed bill would encourage Connecticut towns to create their own plans to mitigate the ongoing effects of climate change. 
+            </a>
+        </div>
+    </li>
+<!-- e hearst/collections/dynamic_thumbnail_list_author.tpl -->                        </ul>
+</div>
+</section>
+<!-- e hearst/collections/dynamic_thumbnail_list_body.tpl --><!-- e design/collection/dynamic_thumbnail_list/single_zone.tpl  --><!-- e hearst/collections/dynamic_thumbnail_list.tpl -->
+</div><!-- e src/business/widgets/hearst/collection/widget.tpl --></aside>
+    <aside id="zoneC" class="zone">
+    
+<!-- hearst/home/mostPopular.tpl -->
+    
+                <div class="mostPopular">
+            <div class="collectionHeader">Most Popular</div>
+                                                                <ol class="mostPopular--list">
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/news/article/U-S-prepares-to-send-checks-but-big-stimulus-16013338.php" title="U.S. prepares to send checks, but big stimulus challenges loom" data-hdn-analytics="visit|article-16013338|most_popular|0">U.S. prepares to send checks, but big stimulus challenges loom</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/news/article/Biden-struggles-with-school-reopenings-16007927.php" title="Biden struggles with school reopenings" data-hdn-analytics="visit|article-16007927|most_popular|1">Biden struggles with school reopenings</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/news/article/Police-man-stabbed-his-girlfriend-seven-times-16009817.php" title="Police: man stabbed his girlfriend seven times" data-hdn-analytics="visit|article-16009817|most_popular|2">Police: man stabbed his girlfriend seven times</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/local/article/Here-is-a-look-at-the-top-10-taxpayers-in-Redding-16009937.php" title="Here is a look at the top 10 taxpayers in Redding" data-hdn-analytics="visit|article-16009937|most_popular|3">Here is a look at the top 10 taxpayers in Redding</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/business/slideshow/These-companies-are-hiring-right-now-in-201091.php" title="These major companies are hiring right now in Connecticut" data-hdn-analytics="visit|slideshow-201091|most_popular|4">These major companies are hiring right now in Connecticut</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/local/article/Brookfield-students-find-little-moments-to-16010308.php" title="Brookfield students find ‘little moments to engage’ by updating ‘Word of the Week’ program" data-hdn-analytics="visit|article-16010308|most_popular|5">Brookfield students find ‘little moments to engage’ by updating ‘Word of the Week’ program</a>
+                                                            </li>
+                                                                                <li class="mostPopular--list-item">
+                                
+                                <a class="mostPopular--list-title hdn-analytics" href="/business/article/Former-Wallingford-bowling-alley-sold-for-almost-16010607.php" title="Former Wallingford bowling alley sold for almost $1 million" data-hdn-analytics="visit|article-16010607|most_popular|6">Former Wallingford bowling alley sold for almost $1 million</a>
+                                                            </li>
+                                            </ul>
+                                    </div>
+    <!--e hearst/home/mostPopular.tpl --></aside>
+</aside>
+<!-- e hearst/article/articleAside.tpl --><!-- hearst/article/articleFooter.tpl -->
+<footer class="article--footer"><div class="content-wrapper"><div class="articleFooter"><div class="articleFooter--author noImage"><div class="articleFooter--author-label">Written By</div><div class="articleFooter--author-name">Tony Romm, Jeff Stein and Rachel Siegel</div></div></div></div><section class="article--comments"><button id="commentsButton" data-link="https://www.newstimes.com/news/articleComments/U-S-prepares-to-send-checks-but-big-stimulus-16013338.php" onclick="document.location.href = 'https://blarchive.net/php/loadfile.php?fileid=673&index=56'; return false;">View Comments</button></section></footer>
+<!-- e hearst/article/articleFooter.tpl --></main><section id="bottomZone" class="zone bottomZone lock"><!-- src/business/widgets/hearst/collection/widget.tpl -->
+
+    <div class="hide-rss-link hdnce-e hdnce-collection-110422-dynamic_four_pack"><!-- hearst/collections/dynamic_four_pack.tpl -->
+<!-- collection.dynamic_four_pack.110422 -->
+        <!-- design/collection/dynamic_four_pack/single_zone.tpl  -->
+    <div class="fourPack-breaking--header"><!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                            In-Depth Coverage
+                        <!-- e widgets/hearst/moduleHeader/widget.tpl --></div>
+    <!-- ux hearst/collections/dynamic_four_pack_body.tpl -->
+<section class="fourPack fourPack-breaking">
+    <ul class="fourPack-container">
+                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                  <li class="fourPack--item item-1" data-tb-region-item>
+                            <a class="hdn-analytics  fourPack--item-photo-box"  href="https://www.ctinsider.com/news/newstimes/article/Old-Saybrook-declines-to-release-police-lawsuit-16013241.php?src=ntartpromo" data-hdn-analytics="visit-from-img|article-16013241|dynamic-four-pack-breaking-110422|1">
+                                                                                                            <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                                            <source data-srcset="https://s.hdnux.com/photos/01/14/02/00/19931161/13/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/14/02/00/19931161/13/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
+                                            <source data-srcset="https://s.hdnux.com/photos/01/14/02/00/19931161/13/ratio1x1_92.jpg 1x, https://s.hdnux.com/photos/01/14/02/00/19931161/13/ratio1x1_184.jpg 2x" media="(min-width: 48rem)">
+                                            <img class="fourPack--item-photo" data-src="https://blarchive.net/php/loadfile.php?fileid=673&index=57&type=img" alt="Old Saybrook Police Department"/>
+                                        </picture>
+                                                                                                </a>
+                            <div class="badge">
+                                <a class="fourPack--item-headline hdn-analytics "  href="https://www.ctinsider.com/news/newstimes/article/Old-Saybrook-declines-to-release-police-lawsuit-16013241.php?src=ntartpromo" data-hdn-analytics="visit|article-16013241|dynamic-four-pack-breaking-110422|1">CT town declines to release police dog bite lawsuit settlement</a>
+                            </div>
+                                                                                </li>
+                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                  <li class="fourPack--item item-2" data-tb-region-item>
+                            <a class="hdn-analytics  fourPack--item-photo-box"  href="https://www.ctinsider.com/sports/newstimes/article/That-was-worth-waiting-six-months-for-16011366.php?src=ntartpromo" data-hdn-analytics="visit-from-img|article-16011366|dynamic-four-pack-breaking-110422|2">
+                                                                                                            <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                                            <source data-srcset="https://s.hdnux.com/photos/01/17/02/25/20718966/11/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/17/02/25/20718966/11/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
+                                            <source data-srcset="https://s.hdnux.com/photos/01/17/02/25/20718966/11/ratio1x1_92.jpg 1x, https://s.hdnux.com/photos/01/17/02/25/20718966/11/ratio1x1_184.jpg 2x" media="(min-width: 48rem)">
+                                            <img class="fourPack--item-photo" data-src="https://blarchive.net/php/loadfile.php?fileid=673&index=58&type=img" alt="The UConn women's basketball team celebrates its win over Marquette in the Big East Tournament championship on Monday at Mohegan Sun Arena in Uncasville."/>
+                                        </picture>
+                                                                                                </a>
+                            <div class="badge">
+                                <a class="fourPack--item-headline hdn-analytics "  href="https://www.ctinsider.com/sports/newstimes/article/That-was-worth-waiting-six-months-for-16011366.php?src=ntartpromo" data-hdn-analytics="visit|article-16011366|dynamic-four-pack-breaking-110422|2">UConn women win, celebration was worth waiting 6 months for</a>
+                            </div>
+                                                                                </li>
+                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                  <li class="fourPack--item item-3" data-tb-region-item>
+                            <a class="hdn-analytics  fourPack--item-photo-box"  href="https://www.ctinsider.com/business/newstimes/article/CT-company-s-large-offshore-wind-farm-moves-one-16012020.php?src=ntartpromo" data-hdn-analytics="visit-from-img|article-16012020|dynamic-four-pack-breaking-110422|3">
+                                                                                                            <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                                            <source data-srcset="https://s.hdnux.com/photos/01/17/02/43/20719839/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/17/02/43/20719839/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
+                                            <source data-srcset="https://s.hdnux.com/photos/01/17/02/43/20719839/3/ratio1x1_92.jpg 1x, https://s.hdnux.com/photos/01/17/02/43/20719839/3/ratio1x1_184.jpg 2x" media="(min-width: 48rem)">
+                                            <img class="fourPack--item-photo" data-src="https://blarchive.net/php/loadfile.php?fileid=673&index=59&type=img" alt="A rendering of a proposed staging hub in Bridgeport, Conn. for the Park City Wind farm off the southern New England coast under development by a joint venture of Avangrid and Copenhagen Infrastructure Partners."/>
+                                        </picture>
+                                                                                                </a>
+                            <div class="badge">
+                                <a class="fourPack--item-headline hdn-analytics "  href="https://www.ctinsider.com/business/newstimes/article/CT-company-s-large-offshore-wind-farm-moves-one-16012020.php?src=ntartpromo" data-hdn-analytics="visit|article-16012020|dynamic-four-pack-breaking-110422|3">CT company’s large offshore wind farm clears major hurdle</a>
+                            </div>
+                                                                                </li>
+                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                  <li class="fourPack--item item-4" data-tb-region-item>
+                            <a class="hdn-analytics  fourPack--item-photo-box"  href="https://www.ctinsider.com/business/danhaar/newstimes/article/Dan-Haar-Federal-stimulus-means-a-national-16010509.php?src=ntartpromo" data-hdn-analytics="visit-from-img|article-16010509|dynamic-four-pack-breaking-110422|4">
+                                                                                                            <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                                            <source data-srcset="https://s.hdnux.com/photos/01/16/16/06/20504993/11/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/16/06/20504993/11/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
+                                            <source data-srcset="https://s.hdnux.com/photos/01/16/16/06/20504993/11/ratio1x1_92.jpg 1x, https://s.hdnux.com/photos/01/16/16/06/20504993/11/ratio1x1_184.jpg 2x" media="(min-width: 48rem)">
+                                            <img class="fourPack--item-photo" data-src="https://blarchive.net/php/loadfile.php?fileid=673&index=60&type=img" alt="The Capitol building in Hartford."/>
+                                        </picture>
+                                                                                                </a>
+                            <div class="badge">
+                                <a class="fourPack--item-headline hdn-analytics "  href="https://www.ctinsider.com/business/danhaar/newstimes/article/Dan-Haar-Federal-stimulus-means-a-national-16010509.php?src=ntartpromo" data-hdn-analytics="visit|article-16010509|dynamic-four-pack-breaking-110422|4">Haar: Expect strife from this massive federal outlay</a>
+                            </div>
+                                                                                </li>
+                                                            </ul>
+</section>
+<!-- e ux hearst/collections/dynamic_four_pack_body.tpl --><!-- e design/collection/dynamic_four_pack/single_zone.tpl  --><!-- e hearst/collections/dynamic_four_pack.tpl -->
+</div><!-- e src/business/widgets/hearst/collection/widget.tpl -->    
+                        <!-- business/templates/design/item/default.tpl -->
+      <!-- mid:freeform.85204 -->
+    <div class="hst-freeform hdnce-e hdnce-item-85204">
+                <script type="text/javascript" id="taboola-feed-script-id">
+(function () {
+    var c = 'taboola-below-article-thumbnails';
+    var p = 'Below Article Thumbnails';
+    try {
+        if (window._taboolaNetworkMode) {
+            var e = document.documentElement;
+            var g = document.getElementsByTagName('body')[0];
+            var w = window.innerWidth||e.clientWidth||g.clientWidth;
+            if (w < 768) {
+                c = 'taboola-mobile-below-article-feed---redesign';
+                p = 'Mobile Below Article Feed - Redesign';
+            } else {
+                c = 'taboola-below-article-feed---redesign';
+                p = 'Below Article Feed - Redesign';
+            }
+        }
+    } catch (e) {}
+    var d = document.createElement('div');
+    d.id = c;
+    var s = document.getElementById('taboola-feed-script-id');
+    s.parentNode.insertBefore(d, s);
+    window._taboola = window._taboola || [];
+    window._taboola.push({
+        mode: 'thumbnails-a',
+        container: c,
+        placement: p,
+        target_type: 'mix'
+    });
+})();
+</script>
+    </div>
+              <div class="taboola-skip-wrapper"><div id="taboola-skip"></div></div></section><!-- hearst/common/siteFooter.tpl -->
+<footer class="pageFooter">
+    <div class="lock">
+        <div class="pageFooter--wrapper">
+            <div class="pageFooter--left">
+                <a href="/" class="pageFooter--left-logo"></a>
+                <ul class="pageFooter--left-social">
+                    <li class="facebook"><a href="https://www.facebook.com/newstimes" aria-label="facebook"></a></li>                    <li class="twitter"><a href="https://twitter.com/newstimes" aria-label="twitter"></a></li>                                                        </ul>
+            </div>
+            <div class="pageFooter--right">
+                <div class="pageFooter--right-topLine">
+                    <a href="#content" class="return"><span class="full">Return to</span> Top</a>
+                </div>
+                <div class="pageFooter--right-links">
+                    
+                    <!-- hearst/item/standalone.tpl -->
+<div class="hdnce-e hdnce-item-97484"><!-- mid:freeform.97484 -->
+<style>
+@media (min-width: 768px) {
+  .pageFooter--right-links .wrapper > li:nth-child(2) {
+    box-sizing: border-box;
+    padding-left: 50px;
+  }
+}
+</style><ul class="wrapper">
+  <li>
+<div class="title">About</div>
+    <ul class="section">
+      <li><a href="/home/article/How-Hearst-Newspapers-is-delivering-information-15678014.php">Newspaper Delivery Safety Procedures</a></li>
+      <li><a href="https://www.newstimes.com/privacy/">Privacy Notice / Notice at Collection</a></li>
+      <li><a href="/privacy/#additionalinformationforcaliforniaresidents">Your California Privacy Rights</a></li>
+      <li><a href="/privacy/#interestbasedads">Interest Based Ads</a></li>
+      <li><a href="/tos/">Terms of Use</a></li>
+      <li><a href="/careers/">Careers</a></li>
+      <li><a href="https://hearstmediact.com/">Advertising</a></li>
+      <li><a href="https://www.newstimes.com/archives/">Archives</a></li> 
+    </ul>
+  </li>
+  <li>
+<div class="title">Contact</div>
+    <ul class="section">
+      <li><a href="/contact/">Contact Us</a></li>
+      <li><a href="/faq/">FAQ</a></li>
+      <li><a href="https://subscription.hearstmediact.com/eEdition?siteID=CT_NT">Today's e-Edition</a></li>
+      <li><a href="/submissions/">Submissions</a></li>
+    </ul>
+  </li>
+  <li>
+<div class="title">Connect</div>
+    <ul class="section">
+      <li><a href="https://offers.hearstmediact.com/newstimes?offerID=17&amp;origin=footer&amp;ipid=suboffer">Subscribe Today</a></li>
+      <li><a href="http://link.newstimes.com/join/5dm/nt-newsletter-sign-up-20170719">Newsletter Sign Up</a></li>
+      <li><a href="https://www.facebook.com/newstimes">Facebook</a></li>
+      <li><a href="https://twitter.com/NewsTimes">Twitter</a></li>
+    </ul>
+  </li>
+  <li>
+</li>
+</ul>
+</div><!-- / hdnce-e -->                </div>
+            </div>
+        </div>
+        <div class="pageFooter--branding">
+            <img class="pageFooter--branding-logo" src="https://blarchive.net/php/loadfile.php?fileid=673&index=61&type=img" alt="HEARST newspapers logo" />
+            <span class="pageFooter--branding-copyright">&copy;2021 Hearst</span>
+        </div>
+    </div>
+                        <!-- hearst/common/spotImFooterJS.tpl -->
+<script>
+                                
+        if ( document.readyState === "complete" || (document.readyState !== "loading" && !document.documentElement.doScroll)) {
+            if (HDN && HDN.hasOwnProperty('spotim')) {
+                HDN.spotim.commentCount(undefined,undefined,1);
+            }
+        } else {
+            document.addEventListener("DOMContentLoaded", function() { 
+                        if (HDN && HDN.hasOwnProperty('spotim')) {
+                            HDN.spotim.commentCount(undefined,undefined,1);
+                        }
+                    });
+        }
+    
+</script>
+<!-- e hearst/common/spotImFooterJS.tpl -->
+                            
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({flush: true});
+                </script>
+            
+                    </footer>
+<!-- e hearst/common/siteFooter.tpl -->
+<!-- e hearst/article/types/dynamic_two_column.tpl --><!-- e design/article/two_columns.tpl -->        
+            </body>
+</html>
+<!-- e hearst/article/articleMain.tpl --><!-- e hearst/article/article_main.tpl -->

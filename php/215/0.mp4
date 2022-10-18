@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<base href=http://hausatv.com><html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News</title>
+        <!-- Google Tag Manager -->
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-53C2F97');</script>
+        <!-- End Google Tag Manager -->
+    <link href="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=1&type=css" rel="stylesheet" />
+    <link href="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=2&type=css" rel="stylesheet" />
+    
+    <link href="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=3&type=css" rel="stylesheet" />
+    <link href="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=4&type=css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=5&type=css" />
+    <link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=6&type=css" />
+    <link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=7&type=css" />
+</head>
+<body class="current-style-En" onload="pageStatus()">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=8&type="
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+    <header class="menu-top">
+        <nav class="logo-tools">
+            <div class="container-custom">
+                <div class="container">
+                    <div class="col-md-12">
+                        <div class="pull-left">
+                            <img class="logo-image" src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=9&type=img" />
+                        </div>
+                        <div class="center-block radio-tv">
+                            <strong id="ttv-radio">Radio</strong>
+                            <strong>/</strong>
+                            <strong class="active" id="ttv-tv">TV</strong>
+                        </div>
+                        <div class="pull-right" style="position: absolute;display: inline-block;">
+                            <ul class="search-menu">
+                                <li>
+                                    <a href="http://hausatv.com/" onclick='changeLang()'>ENGLISH</a>
+                                </li>
+                                <li>
+                                    <a href="http://ha.hausatv.com/" onclick='changeLang()'>HAUSA</a>
+                                </li>
+                                <li>
+                                    <a class="Search_"><i class="fas fa-search"></i>Search...</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </nav>
+        <nav class="menu-item">
+            <div class="container-custom">
+                <div class="container">
+                    
+                    <ul id="gn-menu" class="gn-menu-main">
+                        <li class="gn-trigger">
+                            <a class="gn-icon gn-icon-menu"><span>Menu</span></a>
+                            <nav class="gn-menu-wrapper">
+                                <div class="gn-scroller">
+                                    <ul class="gn-menu">
+                                        <li class="gn-submenu">
+                                            <a href="\home\index"><i class="fas fa-home"></i></a>
+                                        </li>
+                                        <li><a href="\Radio\RadioArchive">RADIO</a></li>
+                                        <li><a href="\news\index">NEWS</a></li>
+                                        <li><a href="\videos\videos\123">PROGRAMS</a></li>
+                                        <li><a href="\videos\videos\119">SERIES</a></li>
+                                        <li><a href="\videos\videos\122">MOVIES</a></li>
+                                        <li><a href="\videos\videos\124">SHORT FILMS</a></li>
+                                        <li><a href="\videos\videos\126">TRAVEL</a></li>
+                                        <li><a href="\audio\index">MUSIC</a></li>
+                                        <li><a href="\Travel\index">TOURISM</a></li>
+                                        <li><a href="\artist\index">ARTISTS</a></li>
+                                        <li><a href="\schedule\index">SCHEDULE</a></li>
+                                            <li><a href="\contactus\index">CONTACT US</a></li>
+                                    </ul>
+                                </div><!-- /gn-scroller -->
+                            </nav>
+                        </li>
+                    </ul>
+
+                    
+                <ul class="tools-menu">
+                    <li>
+                        <a href="\home\index"><i class="fas fa-home"></i></a>
+                    </li>
+                    <li><a href="\Radio\RadioArchive">RADIO</a></li>
+                    <li><a href="\news\index">NEWS</a></li>
+                    <li><a href="\videos\videos\123">PROGRAMS</a></li>
+                    <li><a href="\videos\videos\119">SERIES</a></li>
+                    <li><a href="\videos\videos\122">MOVIES</a></li>
+                    <li><a href="\audio\index">MUSIC</a></li>
+                    <li><a href="\Travel\index">TOURISM</a></li>
+                    <li><a href="\artist\index">ARTISTS</a></li>
+                    <li><a href="\schedule\index">SCHEDULE</a></li>
+                        <li><a href="\contactus\index">CONTACT US</a></li>
+                </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    
+    
+
+<div class="container newscontent">
+    <div class="inside-d">
+        <div class="col-md-8 leftpanel">
+            <h1>New report specifies total number of casualties in US Ain al-Asad airbase</h1>
+            <div><span class="pull-right">2020-01-15 21:20:33</span></div>
+            <div class="image col-md-12 photo-effect">
+                
+                        <img class="fill-box" src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=10&type=img" />
+
+            </div>
+
+            <div class="details col-md-12">
+                <div class="fulltext"><p>New US official document has shed
+light upon the total number of casualties as well as the amount of damages to Ain
+al-Asad airbase in Iraq.</p><p class="MsoNormal">The Ain al-Asad airbase in
+Iraq's western Anbar province was one of two military facilities hit by Iranian
+ballistic missiles last week, as Tehran retaliated for the U.S. assassination
+of Lieutenant General Qassem Soleimani.</p><p class="MsoNormal"><o:p></o:p></p><p class="MsoNormal">According to document released by the office of CHIEF MANAGEMENT
+OFFICER 9010 DEFENSE PENTAGON the detailed examination of US Ain al Asad air
+base are as follows.<o:p></o:p></p><p class="MsoNormal">-Total number of casualties: 285 (139 deceased, 146
+injured). <o:p></o:p></p><p class="MsoNormal">- Extensive damage to 15 helicopters including 1 Blackhawk,
+2 Cargo aircrafts and 3 MQ-1 Predator drones<o:p></o:p></p><p class="MsoNormal">-Extensive damage to Base Command Center, 3 hangars, 3
+barracks and 10 military tents. <o:p></o:p></p><p class="MsoNormal">-relative damage to air Air Traffic Control Tower and base’s
+runway.  <o:p></o:p></p><p><img src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=11&type=img" width="552" height="572" style="width: 552px; height: 572px;"></p><p class="MsoNormal"><em>Official report: CHIEF MANAGEMENT OFFICER 9010 DEFENSE PENTAGON</em></p><p class="MsoNormal">The missile operation was in response to the January 3
+assassination by US terrorists of Lieutenant General Qassem Soleimani,
+commander of the IRGC’s Quds Force, and Abu Mahdi al-Muhandis, the
+second-in-command of Iraq’s Popular Mobilization Units (PMU), and a group of
+their companions in Baghdad. The cowardly operation was conducted under US
+President Donald Trump’s direction. The US Department of Defense took
+responsibility for the assassination.<o:p></o:p></p><p class="MsoNormal">Both commanders enjoyed deep reverence among Muslim nations
+over their endeavors in eliminating the US-sponsored Daesh Takfiri terrorist
+group in the region, particularly in Iraq and Syria.<o:p></o:p></p><p class="MsoNormal">Soon after the assassination, Leader of the Islamic
+Revolution Ayatollah Seyyed Ali Khamenei said Washington was to face a “harsh
+revenge.”<o:p></o:p></p><p class="MsoNormal">At the White House, Trump has denied the Iranian missiles
+left any casualties. Tehran said the US military conducted at least nine
+sorties after the operation, taking the wounded to Jordan and the Occupied
+Territories, while Chinook helicopters transferred the injured to a US hospital
+in Baghdad.<o:p></o:p></p><p class="MsoNormal">Iraqi lawmakers have unanimously approved a bill that calls
+for the withdrawal of all US-led foreign troops from the Arab country in the
+wake of the assassination.<o:p></o:p></p><p class="MsoNormal"><o:p></o:p></p><p>MMF</p></div>
+                <div class="tag-content col-md-12">
+                    <span>Tags:</span>
+
+                </div>
+                <div class="share-this">
+                    <span><i class="fas fa-share-alt"></i>Share</span>
+                    <ul>
+                        <li><a href='https://plus.google.com/share?url=http://hausatv.com/news/content/13309'><i class="fab fa-google-plus-g" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.linkedin.com/shareArticle?mini=true&url=http://hausatv.com/news/content/13309&title=New report specifies total number of casualties in US Ain al-Asad airbase"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a></li>
+                        <li><a href="http://www.facebook.com/share.php?u=http://hausatv.com/news/content/13309"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
+                <div class="Comment-input">
+                    <strong>Comments<span>(0)</span></strong>
+                    <div class="send-comment-panel">
+                        <span class="col-md-2"><i class="fa fa-user-circle"></i></span>
+                        <textarea class="col-md-10" placeholder="Enter Text"></textarea>
+                        <button type="button" class="send-messege"><i class="fa fa-send"></i></button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-4 rightpanel">
+            <h5>Latest News</h5>
+                    <a href="\news\content\13385" class="link-latest"><h3>African leaders gather in Togo to help fight fake drug menace</h3></a>
+                    <a href="\news\content\13384" class="link-latest"><h3>China launches 40 space projects in 2020</h3></a>
+                    <a href="\news\content\13382" class="link-latest"><h3>AFC bans Iran from hosting international football competitions ‘for baseless reasons’</h3></a>
+                    <a href="\news\content\13377" class="link-latest"><h3>French President escapes theater hall due to protests</h3></a>
+                    <a href="\news\content\13376" class="link-latest"><h3>Protests against Khalifa Haftar held in Tripoli</h3></a>
+                    <a href="\news\content\13375" class="link-latest"><h3>Haftar, supporters must stop violence: UN</h3></a>
+                    <a href="\news\content\13374" class="link-latest"><h3>Bloomberg: I run to defeat Trump</h3></a>
+                    <a href="\news\content\13373" class="link-latest"><h3>Iran’s Space Agency says Zafar satellite tops ready-to-launch list</h3></a>
+                    <a href="\news\content\13367" class="link-latest"><h3>G5 Sahel group culture ministers hold conference in Burkina Faso</h3></a>
+                    <a href="\news\content\13366" class="link-latest"><h3>Nigeria and Turkey boost trade relations: Turkish minister</h3></a>
+                    <a href="\news\content\13365" class="link-latest"><h3>China trade with Africa grows 2.2 percent in 2019 to $208 billion</h3></a>
+                    <a href="\news\content\13364" class="link-latest"><h3>Ghana, Ivory Coast to create a cocoa OPEC to back farmers</h3></a>
+                    <a href="\news\content\13363" class="link-latest"><h3>Protesters: &quot;France, UAE partners in killing Libyan children&quot;</h3></a>
+                    <a href="\news\content\13361" class="link-latest"><h3>Ethiopia will build largest airport in Africa</h3></a>
+                    <a href="\news\content\13359" class="link-latest"><h3>Kuwait invests $35.5 million in Cameroon’s construction projects</h3></a>
+
+            <a href="" class="more-data">More Articles</a>
+        </div>
+    </div>
+</div>
+
+
+    <div class="search-panel">
+        <div class="container">
+            <div class="tools">
+                <div class="col s12">
+                    <i class="fa fa-search"></i>
+                    <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
+                    <input id="" type="text" class="input_Search_" placeholder="Search...">
+                </div>
+            </div>
+            <div class="panel-data_old Old-data">
+                <div class="row">
+                    
+                </div>
+            </div>
+            <div class="panel-data_old New-data">
+                <div class="row">
+
+                </div>
+            </div>
+        </div>
+        <div class="Close-search">
+            x
+        </div>
+    </div>
+    <footer>
+        <div class="container-custom">
+            <div class="container">
+                <ul>
+                    <li><a href="\Radio\RadioArchive">RADIO</a></li>
+                    <li><a href="\news\index">NEWS</a></li>
+                    
+                    <li><a href="\videos\videos\123">PROGRAMS</a></li>
+                    <li><a href="\videos\videos\119">SERIES</a></li>
+                    <li><a href="\videos\videos\122">MOVIES</a></li>
+                    
+                    <li><a href="\audio\index">MUSIC</a></li>
+                    <li><a href="\Travel\index">TOURISM</a></li>
+                    <li><a href="\artist\index">ARTISTS</a></li>
+                    <li><a href="\schedule\index">SCHEDULE</a></li>
+
+                </ul>
+                <hr />
+                <div class="logo-footer">
+                    <img src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=12&type=img" />
+                    <ul class="ul-frq">
+                        
+                        <li><a href="\contactus\index">CONTACT US</a></li>
+                        <li><a href="\home\frq">FREQUENCY</a></li>
+                    </ul>
+                    <p>© 2020 Hausa Radio and Television. All Rights Reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=13&type=src"></script>
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=14&type=src"></script>
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=15&type=src"></script>
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=16&type=src"></script>
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=17&type=src"></script>
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=18&type=src"></script>
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=19&type=src"></script>
+
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=20&type=src"></script>
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=21&type=src"></script>
+    <link href="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=22&type=css" rel="stylesheet" />
+    <script>
+        function changeLang() {
+            var sHome = getCookie("homeTvStyle");//style of home
+            //alert("sHome:" + sHome);
+            sessionStorage.setItem("pageStatus", sHome);
+           // alert("pagestatus:" + sessionStorage.getItem("pageStatus"));
+        }
+        function pageStatus() {
+            var sHomee = sessionStorage.getItem("pageStatus");
+            //alert("sHomeeee:" + sHomee);
+            if (sHomee != "" & sHomee == "1") {
+                $('#ttv-tv').addClass("active");
+            } else if (sHomee != "" & sHomee == "2") {
+                $('#ttv-radio').addClass("active");
+            }
+        }
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.fill-box').fillBox();
+            $('.grow-image').MashoveGrow();
+            $(".warper").dotdotdot({
+                ellipsis: '... '
+            });
+            var maincheck = "";
+            if (maincheck == "1") {
+                var sHome = getCookie("homeTvStyle");//style of home
+                if (sHome != "" & sHome == "2") {
+                    $('#ttv-radio').addClass("active");
+                    $('#ttv-tv').removeClass("active");
+    $().MasPlayer({container:'.player-container',player:'player',video:'https://live1.presstv.com/live/hausatvra/index.m3u8',float:false});
+
+                }
+                else {
+                    $('#ttv-radio').removeClass("active");
+                    $('#ttv-tv').addClass("active");
+                        $().MasPlayer({container:'.player-container',player:'player',video:'https://live1.presstv.com/live/hausatven/index.m3u8',float:false});
+                }
+
+            }
+            $('#ttv-radio').click(function () {
+                setCookie("homeTvStyle", "2", 12);
+                window.location.href = "\\";
+            });
+            $('#ttv-tv').click(function () {
+                setCookie("homeTvStyle", "1", 12);
+                window.location.href = "\\";
+            });
+        });
+    </script>
+    <script type="text/javascript">
+
+        $(window).resize(function () {
+            if ($(window).width() < 768) {
+                $('#player').appendTo('#plive');
+                $('#live').appendTo('#pplayer');
+            }
+            //else {
+            //    $('#player').appendTo('#pplayer');
+            //    $('#live').appendTo('#plive');
+            //}
+        });
+    </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=23&type=src"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'UA-121798080-1');
+        </script>
+     
+<link href="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=24&type=css" rel="stylesheet" />
+<script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=25&type=src"></script>
+    <script>
+        $(document).ready(function () {
+            plyr.setup();
+        });
+
+    </script>
+
+
+    
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=26&type=src"></script>
+    <script src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=27&type=src"></script>
+    <script>
+        new gnMenu(document.getElementById('gn-menu'));
+    </script>
+    
+</body>
+</html>

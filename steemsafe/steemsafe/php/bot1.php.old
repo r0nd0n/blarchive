@@ -1,0 +1,498 @@
+<?php
+function startsWith($a,$b) {return (substr($a,0,strlen($b))===$b);}
+
+function endsWith($a,$b) {
+if (strlen($b)==0) {return true;}
+return (substr($a,-strlen($b))===$b);}
+
+
+
+$servername="localhost";
+$username="testing";
+$password="nimda";
+$database="archive";
+$mod1=$argv[1]-1;
+$start2=$argv[2];
+$mod2=$argv[3];
+$appname=$argv[4];
+$user=$argv[5];
+//$accesstoken=$argv[6];
+sleep(60);
+$filename="conf.conf";
+$fp=fopen($filename,'r');
+$myfile=fread($fp,filesize($filename));
+fclose($fp);
+echo $myfile;
+echo "\n";
+
+
+$myfile=str_replace("\n","\r",$myfile);
+$linpath=substr($myfile,strpos($myfile,"\r#path\r")+8);
+$linpath=substr($linpath,0,strpos($linpath,"\r"));
+echo $linpath;
+echo "\n";
+
+if (startsWith($linpath,"\"")) {$linpath=substr($linpath,1);}
+if (endsWith($linpath,"\"")) {$linpath=substr($linpath,0,-1);}
+
+$result="";
+$fragment2="";
+$max=64950;
+$perma="-compressed-encoded-binary-data";
+
+function doquery($a,$conn,$b) {
+$result="";
+$kk[0]="";
+$kk[1]="";
+global $mod1,$mod2,$start2;
+if ($sql=$conn->prepare($a))
+{$sql->bind_param("sii",$start2,$mod2,$mod1);
+if ($sql->execute())
+{echo "\nsuccess select";
+$result=$sql->get_result();
+$kk = $result->fetch_array();
+$sql->close();}
+else {trigger_error("there was an error....".$conn->error, E_USER_WARNING);} 
+}
+else {echo "Error: " . $a . "" . mysqli_error($conn);}
+
+unset($sql);
+return $kk;
+}
+$conn=new mysqli($servername,$username,$password,"archive");
+$conn2=new mysqli($servername,$username,$password,"archive");
+if ($conn->connect_error) {die("connection to the database failed:". $conn->connect_error);}
+else {echo "\ndatabase connected";}
+if ($conn2->connect_error) {die("connection to the database failed:". $conn2->connect_error);}
+else {echo "\ndatabase connected";}
+
+
+
+
+while (true) 
+{
+
+$filename2=$user.".acc";
+$fp=fopen($filename2,'r');
+$myfile2=fread($fp,filesize($filename2));
+fclose($fp);
+
+$accesstoken=$myfile2;
+//echo $accesstoken;
+//sleep(1000000);
+
+
+$ok=true;
+$success=true;
+
+$ran=true;
+$time=time();
+$text="";
+echo "\n";
+echo $time;
+echo "\n";
+$index=0;
+$sindex=0;
+$tsql="SELECT stores.fileid, stores.fileindex FROM `stores` join lookup on lookup.fileid=stores.fileid WHERE `tickerid`='0' and strcmp(blockchain,\"0\")!=0 AND ".$time."-`filedate`>30 AND stores.fileid>? AND MOD(stores.fileid,?)=? LIMIT 1";
+$kk=doquery($tsql, $conn, $sindex);
+$sindex++;
+echo "\nfileid:".$kk[0];
+echo "\nindex:".$kk[1];
+if (strlen($kk[0])==0 || strlen($kk[1])==0) {$ran=false;}
+else {
+$filename=$linpath.$kk[0]."/".$kk[1].".mp4";
+$fk=fopen($filename,'r') or $ran=false;
+if (filesize($filename)==0) {$text="";}
+else {$text=fread($fk,filesize($filename)) or $ran=false;}
+$text=base64_encode(gzcompress($text));
+if (filesize($filename)==0) {$text="";}
+fclose($fk);
+$filename=$linpath.$kk[0]."/index.html";
+$fk=fopen($filename,'r') or $ran=false;
+$ext=fread($fk,filesize($filename));
+fclose($fk);
+$ar=explode("\n",$ext);
+echo "\nindex:".$kk[1]."ext".$ar[$kk[1]];
+if ($ar[$kk[1]]==="img" || $ar[$kk[1]]==="vid" || $ar[$kk[1]]==="snd")  {
+echo "made it";
+$save="local:".$kk[0]."/".$kk[1];
+$sql2 = $conn2->prepare( "UPDATE `stores` SET `tickerid`=? WHERE `fileid`=? AND `fileindex`=?");
+$sql2->bind_param("sii",$save,$kk[0],$kk[1]);
+if(!$sql2->execute()){trigger_error("there was an error....".$conn->error, E_USER_WARNING);} else {echo "sucess update";}
+$ran=false;
+}}
+//echo "\nran".($ran?"true":"false");
+if ($ran) {
+
+
+$url ='ssl://api.steemconnect.com';
+$path ="/api/broadcast";
+$pagetext="";
+
+
+echo strlen($text);
+$lab = $kk[0];
+$index=0;
+$data="";
+$start=0;
+$data2="";
+$end=strlen($text);
+$fragment="";
+
+//$data3="{\"operations\": [[\"custom_json\",{\"required_auths\":[], \"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"data\\\" : \\\"testing\\\" }\"}]]}";
+
+for ($start=0;$start<$end;$start+=$max) {
+if (($start+$max)>$end) {$data=substr($text,$start);}
+else {$data=substr($text,$start,$max);}
+//echo "strlen".strlen($data);
+//$data3="{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"data\\\" : \\\"testing\\\" }\"}]]}";
+//$json ="{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"a\\\" : \\\"" . $lab. "\\\", \\\"c\\\" :\\\"" . $index . "\\\",\\\"d\" :\\\"c\\\"}\"}]]}";
+//$json ="{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"a\\\" : \\\"" . $lab. "\\\", \\\"b\\\" :\\\"" . $kk[1] . "\\\", \\\"c\\\" :\\\"" . $index . "\\\",\\\"d\\\" :\\\"".$data."\\\"}\"}]]}";
+//$json ="{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"d\\\" :\\\"".$data."\\\"}\"}]]}";
+
+$json =  "{\"operations\": [[\"comment\",{\"parent_author\":\"".$user."\",\"parent_permlink\":";
+$json.="\"".$lab.$perma."\", \"author\" : \"".$user."\", \"permlink\" : \"".$lab.$perma."-".$kk[1]."-".$index;
+$json.="\",\"title\" : \"\", \"body\":";
+$json.="\"{\\\"d\\\" : \\\"".$data."\\\"}\", \"json_metadata\":\"{\\\"tags\\\":[\\\"datastores\\\"]}\"}]";
+$json.=",[\"comment_options\", {\"author\": \"".$user."\", \"permlink\":\"".$lab.$perma."-".$kk[1]."-".$index."\", \"title\":\"\",\"max_accepted_payout\": \"0.000 SBD\", \"percent_steem_dollars\": 0, \"allow_votes\": true,\"allow_curation_rewards\": true, \"extensions\": []}]]}";
+//echo "<br>".$json."<br>";
+
+//echo $json;
+//echo "strlenjson".strlen($json);
+
+$ch = curl_init("https://api.steemconnect.com/api/broadcast");
+curl_setopt($ch,CURLOPT_CUSTOMREQUEST, "POST");
+curl_setopt($ch,CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $json );
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('accept: application/json, text/plain, */*','authorization: '.$accesstoken,'content-type: application/json','DNT:1','Origin: http://127.0.0.1:8080/php.steem.php','','Sec-Fetch-Mode: cors','User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'));
+
+
+$result="";
+$resu="";
+echo "curl execute1";
+if (($result=curl_exec($ch)) === false) 
+{echo 'Curl error: ' . curl_error($ch);}
+else
+{echo '\nOperation completed.';
+if (strpos($result, "Bad Request")<105 && strpos($result, "Bad Request")>0 ) {echo "Bad Request";}
+else if (strpos($result, "Account: \${account} has \${rc_current} RC, needs \${rc_needed} RC")>0) {echo "Bad Request2 ";$success=false;$ok=false;sleep(36000);}
+else {
+echo "<br>";
+//echo $result;
+//echo "<br>";
+$resu=substr($result,strpos($result, "id")+5);
+$resu=substr($resu,0,strpos($resu, ",")-1);
+//echo "<br>";
+//echo $resu;
+$fragment.="tk;".$resu." ";
+//echo "<br>";
+//echo $fragment;
+//echo "<br>";
+}}
+
+sleep(3);
+$index++;
+}
+
+
+
+if (strpos($fragment,"undefined")>0  || strpos($fragment,"server_error")>0) {$success=false;$ok=false;}
+$ok=true;
+
+$zx=explode("tk;",$fragment);
+if (count($zx)==2) {$ok=false;} else {
+if (strlen($fragment)<$max) {
+$ok=false;
+//$json =  "{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"data\\\":\\\"".$fragment."\\\"}\"}]]}";
+
+
+$json =  "{\"operations\": [[\"comment\",{\"parent_author\":\"".$user."\",\"parent_permlink\":";
+$json.="\"".$lab.$perma."\", \"author\" : \"".$user."\", \"permlink\" : \"".$lab.$perma."-table1";
+$json.="\",\"title\" : \"\", \"body\":";
+$json.="\"{\\\"data\\\" : \\\"".$fragment."\\\"}\", \"json_metadata\":\"{\\\"tags\\\":[\\\"datastores\\\"]}\"}]";
+$json.=",[\"comment_options\", {\"author\": \"".$user."\", \"permlink\":\"".$lab.$perma."-table1\", \"title\":\"\",\"max_accepted_payout\": \"0.000 SBD\", \"percent_steem_dollars\": 0, \"allow_votes\": true,\"allow_curation_rewards\": true, \"extensions\": []}]]}";
+//echo "<br>".$json."<br>";
+
+
+echo "under 64950";
+$ch = curl_init("https://api.steemconnect.com/api/broadcast");
+curl_setopt($ch,CURLOPT_CUSTOMREQUEST, "POST");
+curl_setopt($ch,CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $json );
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('accept: application/json, text/plain, */*','authorization: '.$accesstoken,'content-type: application/json','DNT:1','Origin: http://127.0.0.1:8080/php.steem.php','','Sec-Fetch-Mode: cors','User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'));
+echo "\ncurl execute2";
+if(($result=curl_exec($ch)) === false) {echo 'Curl error: ' . curl_error($ch);$success=false;$ok=false;}
+else
+{echo '\nOperation completed.';
+if (strpos($result, "Bad Request")<105 && strpos($result, "Bad Request")>0 ) {echo "Bad Request";$success=false;$ok=false;}
+else if (strpos($result, "Account: \${account} has \${rc_current} RC, needs \${rc_needed} RC")>0) {echo "Bad Request2 ";$success=false;$ok=false;sleep(36000);}
+else {
+//echo "<br>";
+//echo $result;
+//echo "<br>";
+$resu=substr($result,strpos($result, "id")+5);
+$resu=substr($resu,0,strpos($resu, ",")-1);}
+//echo "<br>";
+//echo $resu;
+//echo "<br>";
+}}//end else/if
+else {
+echo "over 64950";
+$finaldata=str_split($fragment,$max);
+$uu=count($finaldata);
+for($pp=0;$pp<$uu;$pp++) {sleep(3);
+//$json =  "{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"data\\\":\\\"".$finaldata[$pp]."\\\"}\"}]]}";
+$json =  "{\"operations\": [[\"comment\",{\"parent_author\":\"".$user."\",\"parent_permlink\":";
+$json.="\"".$lab.$perma."\", \"author\" : \"".$user."\", \"permlink\" : \"".$lab.$perma."-table1-".$pp;
+$json.="\",\"title\" : \"\", \"body\":";
+$json.="\"{\\\"data\\\" : \\\"".$finaldata[$pp]."\\\"}\", \"json_metadata\":\"{\\\"tags\\\":[\\\"datastores\\\"]}\"}]";
+$json.=",[\"comment_options\", {\"author\": \"".$user."\", \"permlink\":\"".$lab.$perma."-table1-".$pp."\", \"title\":\"\",\"max_accepted_payout\": \"0.000 SBD\", \"percent_steem_dollars\": 0, \"allow_votes\": true,\"allow_curation_rewards\": true, \"extensions\": []}]]}";
+//echo "<br>".$json."<br>";
+
+//echo $json;
+$ch = curl_init("https://api.steemconnect.com/api/broadcast");
+curl_setopt($ch,CURLOPT_CUSTOMREQUEST, "POST");
+curl_setopt($ch,CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $json );
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('accept: application/json, text/plain, */*','authorization: '.$accesstoken,'content-type: application/json','DNT:1','Origin: http://127.0.0.1:8080/php.steem.php','','Sec-Fetch-Mode: cors','User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'));
+echo "\ncurl execute3";
+if(($result=curl_exec($ch)) === false) {echo 'Curl error: ' . curl_error($ch);$fragment2.=$resu." ";$success=false;$ok=false;}
+else
+{echo '\nOperation completed.';
+if (strpos($result, "Bad Request")<105 && strpos($result, "Bad Request")>0 ) {echo "Bad Request";$success=false;$ok=false;}
+else if (strpos($result, "Account: \${account} has \${rc_current} RC, needs \${rc_needed} RC")>0) {echo "Bad Request2 ";$success=false;$ok=false;sleep(36000);}
+else {
+//echo "<br>";
+//echo $result;
+//echo "<br>";
+$resu=substr($result,strpos($result, "id")+5);
+$resu=substr($resu,0,strpos($resu, ",")-1);}
+//echo "<br>";
+//echo $resu;
+//echo "<br>";
+
+$fragment2.=$resu." ";
+}}}
+//end else/else/for/else
+}//end count("tk");
+
+
+
+
+
+if (strpos($fragment2,"undefined")>0  || strpos($fragment2,"server_error")>0) {$success=false;$ok=false;}
+$finaldata=$fragment2;
+$fragment3="";
+
+if ($ok) {sleep(3);
+if (strlen($fragment2)<$max) {
+$ok=false;
+echo "second under 64950".$fragment2."fragmentsize:".strlen($fragment2);
+//$json =  "{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"data\\\":\\\"".$fragment2."\\\"}\"}]]}";
+$json =  "{\"operations\": [[\"comment\",{\"parent_author\":\"".$user."\",\"parent_permlink\":";
+$json.="\"".$lab.$perma."\", \"author\" : \"".$user."\", \"permlink\" : \"".$lab.$perma."-table2";
+$json.="\",\"title\" : \"\", \"body\":";
+$json.="\"{\\\"data\\\" : \\\"".$fragment2."\\\"}\", \"json_metadata\":\"{\\\"tags\\\":[\\\"datastores\\\"]}\"}]";
+$json.=",[\"comment_options\", {\"author\": \"".$user."\", \"permlink\":\"".$lab.$perma."-table2\", \"title\":\"\",\"max_accepted_payout\": \"0.000 SBD\", \"percent_steem_dollars\": 0, \"allow_votes\": true,\"allow_curation_rewards\": true, \"extensions\": []}]]}";
+//echo "<br>".$json."<br>";
+
+
+//echo $json;
+$ch = curl_init("https://api.steemconnect.com/api/broadcast");
+curl_setopt($ch,CURLOPT_CUSTOMREQUEST, "POST");
+curl_setopt($ch,CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $json );
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('accept: application/json, text/plain, */*','authorization: '.$accesstoken,'content-type: application/json','DNT:1','Origin: http://127.0.0.1:8080/php.steem.php','','Sec-Fetch-Mode: cors','User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'));
+echo "\ncurl execute4";
+if(($result=curl_exec($ch)) === false) {echo 'Curl error: ' . curl_error($ch);;$success=false;$ok=false;}
+else
+{echo '\nOperation completed without any errors';
+if (strpos($result, "Bad Request")<105 && strpos($result, "Bad Request")>0 ) {echo "Bad Request";$success=false;$ok=false;}
+else if (strpos($result, "Account: \${account} has \${rc_current} RC, needs \${rc_needed} RC")>0) {echo "Bad Request2 ";$success=false;$ok=false;sleep(36000);}
+else {
+//echo "<br>";
+//echo $result;
+//echo "<br>";
+$resu=substr($result,strpos($result, "id")+5);
+$resu=substr($resu,0,strpos($resu, ",")-1);}
+//echo "<br>";
+//echo $resu;
+//echo "<br>";
+}}//end else/if
+else {
+echo "second over 64950";
+$finaldata=str_split($fragment2,$max);
+$uu=count($finaldata);
+for($pp=0;$pp<$uu;$pp++) {sleep(3);
+//$json =  "{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"data\\\":\\\"".$finaldata[$pp]."\\\"}\"}]]}";
+$json =  "{\"operations\": [[\"comment\",{\"parent_author\":\"".$user."\",\"parent_permlink\":";
+$json.="\"".$lab.$perma."\", \"author\" : \"".$user."\", \"permlink\" : \"".$lab.$perma."-table2-".$pp;
+$json.="\",\"title\" : \"\", \"body\":";
+$json.="\"{\\\"data\\\" : \\\"".$finaldata[$pp]."\\\"}\", \"json_metadata\":\"{\\\"tags\\\":[\\\"datastores\\\"]}\"}]";
+$json.=",[\"comment_options\", {\"author\": \"".$user."\", \"permlink\":\"".$lab.$perma."-table12-".$pp."\", \"title\":\"\",\"max_accepted_payout\": \"0.000 SBD\", \"percent_steem_dollars\": 0, \"allow_votes\": true,\"allow_curation_rewards\": true, \"extensions\": []}]]}";
+//echo "<br>".$json."<br>";
+
+
+//echo $json;
+$ch = curl_init("https://api.steemconnect.com/api/broadcast");
+curl_setopt($ch,CURLOPT_CUSTOMREQUEST, "POST");
+curl_setopt($ch,CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $json );
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('accept: application/json, text/plain, */*','authorization: '.$accesstoken,'content-type: application/json','DNT:1','Origin: http://127.0.0.1:8080/php.steem.php','','Sec-Fetch-Mode: cors','User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'));
+echo "\ncurl execute5";
+if(($result=curl_exec($ch)) === false) {echo 'Curl error: ' . curl_error($ch);;$success=false;$ok=false;}
+else
+{echo '\nOperation completed.';
+if (strpos($result, "Bad Request")<105 && strpos($result, "Bad Request")>0 ) {echo "Bad Request";$success=false;$ok=false;}
+else if (strpos($result, "Account: \${account} has \${rc_current} RC, needs \${rc_needed} RC")>0) {echo "Bad Request2 ";$success=false;$ok=false;sleep(36000);}
+else {
+//echo "<br>";
+//echo $result;
+//echo "<br>";
+$resu=substr($result,strpos($result, "id")+5);
+$resu=substr($resu,0,strpos($resu, ",")-1);}
+//echo "<br>";
+//echo $resu;
+//echo "<br>";
+
+$fragment3.=$resu." ";
+
+}}}//end else/for/else
+
+}//end ok
+
+
+$finaldata=$fragment3;
+$fragment2="";
+if (strpos($fragment3,"undefined")>0 || strpos($fragment3,"server_error")>0) {$success=false;$ok=false;}
+
+
+
+if ($ok) {sleep(3);
+if (strlen($fragment3)<$max) {
+$ok=false;
+echo "fragment 3 under 64950<br>";
+//$json =  "{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"data\\\":\\\"".$fragment3."\\\"}\"}]]}";
+$json =  "{\"operations\": [[\"comment\",{\"parent_author\":\"".$user."\",\"parent_permlink\":";
+$json.="\"".$lab.$perma."\", \"author\" : \"".$user."\", \"permlink\" : \"".$lab.$perma."-table3";
+$json.="\",\"title\" : \"\", \"body\":";
+$json.="\"{\\\"data\\\" : \\\"".$fragment3."\\\"}\", \"json_metadata\":\"{\\\"tags\\\":[\\\"datastores\\\"]}\"}]";
+$json.=",[\"comment_options\", {\"author\": \"".$user."\", \"permlink\":\"".$lab.$perma."-table3\", \"title\":\"\",\"max_accepted_payout\": \"0.000 SBD\", \"percent_steem_dollars\": 0, \"allow_votes\": true,\"allow_curation_rewards\": true, \"extensions\": []}]]}";
+//echo "<br>".$json."<br>";
+
+
+//echo $json;
+$ch = curl_init("https://api.steemconnect.com/api/broadcast");
+curl_setopt($ch,CURLOPT_CUSTOMREQUEST, "POST");
+curl_setopt($ch,CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $json );
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('accept: application/json, text/plain, */*','authorization: '.$accesstoken,'content-type: application/json','DNT:1','Origin: http://127.0.0.1:8080/php.steem.php','','Sec-Fetch-Mode: cors','User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'));
+echo "\ncurl execute6";
+if(($result=curl_exec($ch)) === false) {echo 'Curl error: ' . curl_error($ch);;$success=false;$ok=false;}
+else
+{echo '\nOperation completed.';
+if (strpos($result, "Bad Request")<105 && strpos($result, "Bad Request")>0 ) {echo "Bad Request";$success=false;$ok=false;}
+else if (strpos($result, "Account: \${account} has \${rc_current} RC, needs \${rc_needed} RC")>0) {echo "Bad Request2 ";$success=false;$ok=false;sleep(36000);}
+else {
+//echo "<br>";
+//echo $result;
+//echo "<br>";
+$resu=substr($result,strpos($result, "id")+5);
+$resu=substr($resu,0,strpos($resu, ",")-1);}
+//echo "<br>";
+//echo $resu;
+//echo "<br>";
+}}  //end else/if
+else {
+echo "second over 64950";
+$finaldata=str_split($fragment3,$max);
+$uu=count($finaldata);
+for($pp=0;$pp<$uu;$pp++) {sleep(3);
+//$json =  "{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"data\\\":\\\"".$finaldata[$pp]."\\\"}\"}]]}";
+$json =  "{\"operations\": [[\"comment\",{\"parent_author\":\"".$user."\",\"parent_permlink\":";
+$json.="\"".$lab.$perma."\", \"author\" : \"".$user."\", \"permlink\" : \"".$lab.$perma."-table3-".$pp;
+$json.="\",\"title\" : \"\", \"body\":";
+$json.="\"{\\\"data\\\" : \\\"".$finaldata[$pp]."\\\"}\", \"json_metadata\":\"{\\\"tags\\\":[\\\"datastores\\\"]}\"}]";
+$json.=",[\"comment_options\", {\"author\": \"".$user."\", \"permlink\":\"".$lab.$perma."-table3-".$pp."\", \"title\":\"\",\"max_accepted_payout\": \"0.000 SBD\", \"percent_steem_dollars\": 0, \"allow_votes\": true,\"allow_curation_rewards\": true, \"extensions\": []}]]}";
+//echo "<br>".$json."<br>";
+
+//echo $json;
+$ch = curl_init("https://api.steemconnect.com/api/broadcast");
+curl_setopt($ch,CURLOPT_CUSTOMREQUEST, "POST");
+curl_setopt($ch,CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $json );
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('accept: application/json, text/plain, */*','authorization: '.$accesstoken,'content-type: application/json','DNT:1','Origin: http://127.0.0.1:8080/php.steem.php','','Sec-Fetch-Mode: cors','User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'));
+echo "\ncurl execute7";
+if(($result=curl_exec($ch)) === false) {echo 'Curl error: ' . curl_error($ch);;$success=false;$ok=false;}
+else
+{echo '\nOperation completed.';
+if (strpos($result, "Bad Request")<105 && strpos($result, "Bad Request")>0 ) {echo "Bad Request";$success=false;$ok=false;}
+else if (strpos($result, "Account: \${account} has \${rc_current} RC, needs \${rc_needed} RC")>0) {echo "Bad Request2 ";$success=false;$ok=false;sleep(36000);}
+else {
+//echo "<br>";
+//echo $result;
+//echo "<br>";
+$resu=substr($result,strpos($result, "id")+5);
+$resu=substr($resu,0,strpos($resu, ",")-1);}
+//echo "<br>";
+//echo $resu;
+//echo "<br>";
+
+$fragment2=$fragment2.$resu." ";
+
+}}}//end else/for/else
+}//end ok
+if (strpos($fragment2,"undefined")>0 || strpos($fragment2,"server_error")>0) {$success=false;$ok=false;}
+
+if ($ok) {sleep(3);
+if (strlen($fragment2)<$max) {
+$ok=false;
+echo "fourth over 64000".$fragment2."fragmentsize:".strlen($fragment2);
+//$json =  "{\"operations\": [[\"custom_json\",{\"required_auths\":[],\"required_posting_auths\": [\"".$user."\"], \"id\" : \"".$appname."\", \"json\":\"{\\\"data\\\":\\\"".$fragment2."\\\"}\"}]]}";
+$json =  "{\"operations\": [[\"comment\",{\"parent_author\":\"".$user."\",\"parent_permlink\":";
+$json.="\"".$lab.$perma."\", \"author\" : \"".$user."\", \"permlink\" : \"".$lab.$perma."-table4";
+$json.="\",\"title\" : \"\", \"body\":";
+$json.="\"{\\\"data\\\" : \\\"".$fragment2."\\\"}\", \"json_metadata\":\"{\\\"tags\\\":[\\\"datastores\\\"]}\"}]";
+$json.=",[\"comment_options\", {\"author\": \"".$user."\", \"permlink\":\"".$lab.$perma."-table4\", \"title\":\"\",\"max_accepted_payout\": \"0.000 SBD\", \"percent_steem_dollars\": 0, \"allow_votes\": true,\"allow_curation_rewards\": true, \"extensions\": []}]]}";
+//echo "<br>".$json."<br>";
+
+
+//echo $json;
+$ch = curl_init("https://api.steemconnect.com/api/broadcast");
+curl_setopt($ch,CURLOPT_CUSTOMREQUEST, "POST");
+curl_setopt($ch,CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $json );
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('accept: application/json, text/plain, */*','authorization: '.$accesstoken,'content-type: application/json','DNT:1','Origin: http://127.0.0.1:8080/php.steem.php','','Sec-Fetch-Mode: cors','User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'));
+echo "\ncurl execute8";
+if(($result=curl_exec($ch)) === false) {echo 'Curl error: ' . curl_error($ch);;$success=false;$ok=false;}
+else
+{echo '\nOperation completed.';
+if (strpos($result, "Bad Request")<105 && strpos($result, "Bad Request")>0 ) {echo "Bad Request";$success=false;$ok=false;}
+else if (strpos($result, "Account: \${account} has \${rc_current} RC, needs \${rc_needed} RC")>0) {echo "Bad Request2 ";$success=false;$ok=false;sleep(36000);}
+else {
+//echo "<br>";
+//echo $result;
+//echo "<br>";
+$resu=substr($result,strpos($result, "id")+5);
+$resu=substr($resu,0,strpos($resu, ",")-1);}
+//echo "<br>";
+//echo $resu;
+//echo "<br>";
+}}}//end else/else/if/ok
+
+
+if ($success) {
+$sql2 = $conn2->prepare( "UPDATE `stores` SET `tickerid`=? WHERE `fileid`=? AND `fileindex`=?");
+$sql2->bind_param("sii",$resu,$kk[0],$kk[1]);
+if(!$sql2->execute()){trigger_error("there was an error....".$conn->error, E_USER_WARNING);} else {echo "sucess update";}
+sleep(1);
+$sql2->close();
+//;unset($sql2);
+}//end success
+}//end ran
+
+sleep(3);
+}//end while
+
+
+?>

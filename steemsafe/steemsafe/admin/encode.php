@@ -1,0 +1,90 @@
+<?php
+function encode($a){
+$cipher_c2="";
+if (is_int($a)) {
+$encode_b[0]='0';
+$encode_b[1]='1';
+$encode_b[2]='2';
+$encode_b[3]='3';
+$encode_b[4]='4';
+$encode_b[5]='5';
+$encode_b[6]='6';
+$encode_b[7]='7';
+$encode_b[8]='8';
+$encode_b[9]='9';
+$encode_b[10]='b';
+$encode_b[11]='c';
+$encode_b[12]='d';
+$encode_b[13]='f';
+$encode_b[14]='g';
+$encode_b[15]='j';
+$encode_b[16]='k';
+$encode_b[17]='l';
+$encode_b[18]='m';
+$encode_b[19]='n';
+$encode_b[20]='p';
+$encode_b[21]='q';
+$encode_b[22]='r';
+$encode_b[23]='s';
+$encode_b[24]='t';
+$encode_b[25]='v';
+$encode_b[26]='w';
+$encode_b[27]='x';
+$encode_b[28]='y';
+$encode_b[29]='z';
+$encode_b[30]='B';
+$encode_b[31]='C';
+$encode_b[32]='D';
+$encode_b[33]='F';
+$encode_b[34]='G';
+$encode_b[35]='J';
+$encode_b[36]='K';
+$encode_b[37]='L';
+$encode_b[38]='M';
+$encode_b[39]='N';
+$encode_b[40]='P';
+$encode_b[41]='Q';
+$encode_b[42]='R';
+$encode_b[43]='S';
+$encode_b[44]='T';
+$encode_b[45]='V';
+$encode_b[46]='W';
+$encode_b[47]='X';
+$encode_b[48]='Y';
+$encode_b[49]='Z';
+$encode_b[50]='-';
+$encode_b[51]='.';
+$encode_b[52]='_';
+$encode_b[53]='~';
+$d=count($encode_b);
+$cipher_c[0]=0;
+$encode_place=0;
+$encode_places=0;
+if ($a>$d*$d*$d*$d) {
+$cipher_c[$encode_place]=(int)($a/($d*$d*$d));
+$a=$a-$cipher_c[$encode_place]*$d*$d*$d;
+$encode_place++;$encode_places=5;}
+if ($a>$d*$d*$d || $encode_places>0) {$cipher_c[$encode_place]=(int)($a/($d*$d*$d));$a=$a-$cipher_c[$encode_place]*$d*$d*$d;$encode_place++;if ($encode_places==0) {$encode_places=4;}}
+if ($a>$d*$d || $encode_places>0) {$cipher_c[$encode_place]=(int)($a/($d*$d));$a=$a-$cipher_c[$encode_place]*$d*$d;$encode_place++;if ($encode_places==0) {$encode_places=3;}}
+if ($a>$d || $encode_places>0) {$cipher_c[$encode_place]=(int)($a/($d));$a=$a-$cipher_c[$encode_place]*$d;$encode_place++;if ($encode_places==0) {$encode_places=2;}}
+if ($a>0 || $encode_places>0) {$cipher_c[$encode_place]=(int)($a);$encode_place++;if ($encode_places==0) {$encode_places=1;}}
+if ($encode_places>0) {
+$cipher_c2=$encode_b[$cipher_c[0]];
+//echo "\n<br>cipher places".$encode_places;
+//echo "\n<br>first place".$cipher_c[0];
+//echo "\n<br>first place".$cipher_c2;
+
+for ($encode_i=1;$encode_i<$encode_places;$encode_i++) {
+//echo $encode_b[$cipher_c[$encode_i]];
+$cipher_c2.=$encode_b[$cipher_c[$encode_i]];}}
+
+
+//echo "\ninside1:".$cipher_c2;
+}
+//echo "\ninside2:".$cipher_c2;
+
+return $cipher_c2;
+}
+
+//echo "\n<br>".encode(246)."<br>\n";
+?>

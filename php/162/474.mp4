@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=8199&type=css" />
+<link rel="stylesheet" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=8200&type=css" />
+<link rel="stylesheet" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=8201&type=css" />
+<link rel="stylesheet" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=8202&type=css" />
+<link rel="stylesheet" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=8203&type=css" />
+<link rel="stylesheet" href="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=8204&type=css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>GoDaddy Security - Access Denied</title>
+</head>
+<body>
+<header class="app-header clearfix">
+<div class="wrap"><a href="https://www.godaddy.com/" class="logo"></a>
+<span class="logo-neartext">Security</span>
+</div>
+</header>
+<section class="center clearfix"></section>
+
+<section class="app-content access-denied clearfix"><div class="box center width-max-940"><h1 class="brand-font font-size-xtra no-margin"><i class="icon-circle-red"></i>Access Denied - GoDaddy Website Firewall</h1>
+<p class="medium-text code-snippet">If you are the site owner (or you manage this site), please whitelist your IP or if you think this block is an error please <a href="https://supportx.sucuri.net/" class="color-green underline">open a support ticket</a> and make sure to include the block details (displayed in the box below), so we can assist you in troubleshooting the issue. </p><h2>Block details:</h1>
+<table class="property-table overflow-break-all line-height-16">
+<tr>
+<td>Your IP:</td>
+<td><span>185.130.44.167</span></td>
+</tr>
+<tr><td>URL:</td>
+<td><span>tiffanyfitzhenry.com/wp-content/plugins/download-manager/assets/js/"+wpdm_home_url+"?__wpdmlo="+$(this).data(</span></td>
+</tr>
+<tr>
+<td>Your Browser: </td>
+<td><span>Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36</span></td>
+</tr>
+<tr><td>Block ID:</td>
+<td><span>PHPi20</span></td>
+</tr>
+<tr>
+<td>Block reason:</td>
+<td><span>PHP injection was detected and blocked.</span></td>
+</tr>
+<tr>
+<td>Time:</td>
+<td><span>2020-01-04 18:32:18</span></td>
+</tr>
+<tr>
+<td>Server ID:</td>
+<td><span>19020</span></td></tr>
+</table>
+</div>
+</section>
+
+<footer class="app-footer clearfix"><span>Copyright &copy; 1999 &ndash; 2019 GoDaddy Operating Company, LLC. All rights reserved.</span>
+<span class="padding-left-25"><a href="https://www.godaddy.com/Agreements/Privacy.aspx" class="underline" target="_blank" rel="nofollow noopener">Privacy Policy</a></span>
+</footer>
+</div>
+</body>
+</html>

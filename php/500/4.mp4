@@ -1,0 +1,21 @@
+/* Wrapper for Gateway Pundit, generated on 2019-08-26T16:46:06-04:00 */
+(function() {
+    var w = window;
+    var h = 'clarium.global.ssl.fastly.net';
+    w._clrm = w._clrm || {};
+    w._clrm.gpt = {
+        propertyId: '8dAEU8YadOvPBy67klTwU3VEhVA',
+        confiantCdn: h,
+        sandbox: 0,
+        mapping: 'W3siaSI6MiwidCI6Int7b319Ont7d319eHt7aH19IiwicCI6MCwiRCI6MSwiciI6W119LHsiaSI6NiwidCI6Int7Y299fTp7e3d9fXh7e2h9fSIsInAiOjUwLCJEIjowLCJyIjpbeyJ0IjoiZXgiLCJzIjpudWxsLCJ2IjoiY28ifV19XQ==',
+        activation: '|||Mzk0NTUwOTI3,|||Mjc5ODYwMDg3,|||MjU4MzA2ODM3MQ==,|||MjU2MzA4MjYxNw==,|||MjU2MjU1NzQwNQ==,|||MjU2MjU2MzkyNA==,|||MjU2MzExNjIyOQ==',
+        callback: function(blockingType, blockingId, isBlocked, wrapperId, tagId, impressionData) {
+            console.log("w00t one more bad ad nixed.", arguments);
+        }
+    };
+    var e = document.createElement('script');
+    e.async = true;
+    e.src = '//' + h + '/gpt/a/wrap.js?v2_1';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(e, s);
+})();

@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>The WordPress.com Blog</title>
+	<atom:link href="https://en.blog.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://en.blog.wordpress.com</link>
+	<description>The latest news on WordPress.com and the WordPress community.</description>
+	<lastBuildDate>Fri, 20 Dec 2019 11:14:40 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='en.blog.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/e6392390e3bcfadff3671c5a5653d95b?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>The WordPress.com Blog</title>
+		<link>https://en.blog.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://en.blog.wordpress.com/osd.xml" title="The WordPress.com Blog" />
+	<atom:link rel='hub' href='https://en.blog.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Power Users Rejoice: You&#039;ve Got SFTP and Database Access</title>
+		<link>https://en.blog.wordpress.com/2019/12/18/power-users-rejoice-youve-got-sftp-and-database-access/</link>
+				<comments>https://en.blog.wordpress.com/2019/12/18/power-users-rejoice-youve-got-sftp-and-database-access/#comments</comments>
+				<pubDate>Wed, 18 Dec 2019 18:48:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ian M.]]></dc:creator>
+				<category><![CDATA[Features]]></category>
+
+		<guid isPermaLink="false">http://en.blog.wordpress.com/?p=41752</guid>
+				<description><![CDATA[Three new hosting management tools give you direct access to your site’s files and data.]]></description>
+								<content:encoded><![CDATA[
+<p>Three new hosting management tools give you direct access to your site&#8217;s files and data.</p>
+
+
+
+<p>Have a site on a Business or eCommerce plan? Now you have three new ways to customize your WordPress.com site: SFTP access, database access, and PHP version switching give you behind-the-scenes access to the nuts and bolts of your site, which means more freedom and flexibility than ever before. If you’ve ever gotten stuck trying to modify your WordPress.com site because you couldn’t manually upload file changes or delete something from your database, website management is about to get a lot easier.</p>
+
+
+
+<p>You’ll find all these features in a new section of your dashboard: <strong>Manage &gt; Hosting Configuration</strong>.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=619&type=img" alt="" /><figcaption>The Hosting Configuration Screen</figcaption></figure>
+
+
+
+<h1>SFTP credentials</h1>
+
+
+
+<p>SFTP is a secure way to access the files and folders on your WordPress.com site using a program on your local computer like Filezilla. Some custom plugins and themes ask you to create specific folders or add files via SFTP. While many of those tasks can be accomplished with tools already built into your WordPress.com dashboard, folks who like using SFTP can now have SFTP access so they can make these changes directly. Check out our <a href="https://en.support.wordpress.com/sftp/">step-by-step guide</a> to get started.</p>
+
+
+
+<h1>Database access</h1>
+
+
+
+<p>At WordPress.com, we regularly optimize your database so you don’t have to, but there might still be times when you need an efficient way to modify data, like purging all the tables created by a plugin you’ve decided to delete. Accessing your site’s database is an effective way to do this.&nbsp;</p>
+
+
+
+<p>Database access is a powerful tool, so if you’re at all unsure about working with a database, reach out to our<a href="https://wordpress.com/help/contact"> Happiness Engineers</a>! If you’re unfamiliar with databases, you can also find information on getting started in our <a href="https://en.support.wordpress.com/phpmyadmin-and-mysql/">help documentation</a>.</p>
+
+
+
+<h1>PHP version switching</h1>
+
+
+
+<p>PHP is still one of the key languages used to build the web, and a new version, PHP 7.4, was recently released. WordPress.com sites currently run PHP 7.3, which has been tested extensively across all of WordPress.com, but sites on Business or eCommerce plans can switch to version 7.4 immediately. <a href="https://en.blog.wordpress.com/2019/11/28/php-7-4-just-came-out-and-so-did-our-php-version-switcher/">Learn more.</a></p>
+
+
+
+<p>Since these new tools let you dig into some of the code and data the powers your site, you’ll find a link for our support team right from the dashboard so you can get help if you need it. Have fun getting under the hood, power users!<br></p>
+]]></content:encoded>
+							<wfw:commentRss>https://en.blog.wordpress.com/2019/12/18/power-users-rejoice-youve-got-sftp-and-database-access/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+						
+		<media:content url="https://0.gravatar.com/avatar/f1354167b52a2832a4aa0b0810376df8?s=96&#38;d=retro" medium="image">
+			<media:title type="html">crazywickedawesome</media:title>
+		</media:content>
+
+		<media:content url="https://lh5.googleusercontent.com/tMIFkvscIv18-jq201AXvjpXJiF2uCk2-mX47Kc9njjR9Wdi65JsB-zWaKXgkD-CtGuHFaSzA6MVYqy0FLcwRH-fYZpyGuy1DutfOq9jFZqYHoAP0Iy-uIYtQmPrOXxV5pQlqj4H" medium="image" />
+	</item>
+		<item>
+		<title>New Theme: Twenty Twenty</title>
+		<link>https://en.blog.wordpress.com/2019/12/10/twenty-twenty/</link>
+				<comments>https://en.blog.wordpress.com/2019/12/10/twenty-twenty/#comments</comments>
+				<pubDate>Tue, 10 Dec 2019 21:22:15 +0000</pubDate>
+		<dc:creator><![CDATA[Danny Dudzic]]></dc:creator>
+				<category><![CDATA[Themes]]></category>
+
+		<guid isPermaLink="false">http://en.blog.wordpress.com/?p=41732</guid>
+				<description><![CDATA[Meet <em>Twenty Twenty</em>, the brand new WordPress default theme.
+]]></description>
+								<content:encoded><![CDATA[
+<p>We’re pleased to announce that <em><a href="https://wordpress.com/themes/twentytwenty">Twenty Twenty</a></em> — the new WordPress default theme designed by <a rel="noreferrer noopener" href="https://profiles.wordpress.org/anlino/" target="_blank">Anders Norén</a>— is available to all WordPress.com sites.</p>
+
+
+
+<p><em>Twenty Twenty</em> was designed with the flexibility of the <a href="https://en.support.wordpress.com/wordpress-editor/">new WordPress Editor</a> at its core. If you want to use it for an organization or a business, you can combine columns, groups, and media to create dynamic layouts that show off your services or products. If you want to use it for a traditional blog, the centered content column and considered typography makes it perfect for that as well.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=620&type=img" alt="" /></figure>
+
+
+
+<p>It also has been designed and developed to take maximum advantage of the creative freedom enabled by the block editor. Extra care has been given to the Columns and Group blocks, which can be combined into impressive landing pages with intricate blocks layouts. <em>Twenty Twenty</em> includes full editor styles for the block editor, so what you see in the editor will almost exactly match the end result. </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=621&type=img" alt="" /></figure>
+
+
+
+<p>Learn more about WordPress’s latest default theme&nbsp;<a href="https://wordpress.com/theme/twentytwenty">here</a>, or check out the <a href="https://twentytwentydemo.wordpress.com">demo site</a>!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://en.blog.wordpress.com/2019/12/10/twenty-twenty/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+						
+		<media:thumbnail url="https://en-blog.files.wordpress.com/2019/12/twenty-twenty-screenshot-devices.png" />
+		<media:content url="https://en-blog.files.wordpress.com/2019/12/twenty-twenty-screenshot-devices.png" medium="image">
+			<media:title type="html">twenty-twenty-screenshot-devices</media:title>
+		</media:content>
+
+		<media:content url="https://2.gravatar.com/avatar/bd761dfe050a42c631d3eff0f7295aec?s=96&#38;d=retro" medium="image">
+			<media:title type="html">danieldudzic</media:title>
+		</media:content>
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/12/twenty-twenty-short-screenshot.png" medium="image" />
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/12/image-2560.png?w=1024" medium="image" />
+	</item>
+		<item>
+		<title>PHP 7.4 Just Came Out, and So Did Our PHP Version Switcher</title>
+		<link>https://en.blog.wordpress.com/2019/11/28/php-7-4-just-came-out-and-so-did-our-php-version-switcher/</link>
+				<comments>https://en.blog.wordpress.com/2019/11/28/php-7-4-just-came-out-and-so-did-our-php-version-switcher/#comments</comments>
+				<pubDate>Thu, 28 Nov 2019 15:51:41 +0000</pubDate>
+		<dc:creator><![CDATA[Andrija Vucinic]]></dc:creator>
+				<category><![CDATA[Customization]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Technical]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[settings]]></category>
+
+		<guid isPermaLink="false">http://en.blog.wordpress.com/?p=41715</guid>
+				<description><![CDATA[If your site is on the Business or eCommerce plan, you can switch to the newest version of PHP today.]]></description>
+								<content:encoded><![CDATA[
+<p>PHP is still one of the most popular languages used to build the web. The newest version, PHP 7.4, was released today — and Business and eCommerce plan customers can opt to start using it immediately.</p>
+
+
+
+<p>WordPress.com sites run PHP 7.3 by default — it’s still our recommended version, since it’s been stress-tested across all of WordPress.com — but if you have a site on the Business or eCommerce plan and want to be on the leading technological edge, you can opt to switch to version 7.4 immediately.</p>
+
+
+
+<p>Head to <strong>My Site &gt; Manage &gt; Hosting Configuration</strong> to find the new PHP Version Switcher:</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="41726" data-permalink="https://en.blog.wordpress.com/php-version-switcher/" data-orig-file="https://en-blog.files.wordpress.com/2019/11/php-version-switcher.gif" data-orig-size="821,564" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="php-version-switcher" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/11/php-version-switcher.gif?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/11/php-version-switcher.gif?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=622&type=img" alt="" class="wp-image-41726" /></figure>
+
+
+
+<p>Choose which version of PHP you want your site to run on, click the “Update PHP version” button, and voilà.</p>
+
+
+
+<p>(Note: All sites with eCommerce plans can make the switch right now. Sites on the Business plan need to have either an active plugin or a custom theme to use the PHP Version Switcher.)</p>
+
+
+
+<p>PHP’s evolved with each version 7 release, and PHP 7.4 promises to have the strongest performance yet. It will eventually power all WordPress.com sites, but Business and eCommerce customers can take advantage of the update today!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://en.blog.wordpress.com/2019/11/28/php-7-4-just-came-out-and-so-did-our-php-version-switcher/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+						
+		<media:thumbnail url="https://en-blog.files.wordpress.com/2019/11/wp-heart-php-1.png" />
+		<media:content url="https://en-blog.files.wordpress.com/2019/11/wp-heart-php-1.png" medium="image">
+			<media:title type="html">wp-heart-php</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/3462bba9b26e49bf86eb1b819b23e423?s=96&#38;d=retro" medium="image">
+			<media:title type="html">aidvu</media:title>
+		</media:content>
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/11/php-version-switcher.gif?w=821" medium="image" />
+	</item>
+		<item>
+		<title>A New Way to Earn Money on WordPress.com</title>
+		<link>https://en.blog.wordpress.com/2019/11/12/recurring-payments/</link>
+				<comments>https://en.blog.wordpress.com/2019/11/12/recurring-payments/#comments</comments>
+				<pubDate>Tue, 12 Nov 2019 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Artur Piszek]]></dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Earn from your site]]></category>
+		<category><![CDATA[Features]]></category>
+		<category><![CDATA[New Features]]></category>
+		<category><![CDATA[Earn]]></category>
+		<category><![CDATA[subscriptions]]></category>
+
+		<guid isPermaLink="false">http://en.blog.wordpress.com/?p=41687</guid>
+				<description><![CDATA[With Recurring Payments, your supporters become your sustainers, and a reliable income stream frees you to push your creative boundaries. ]]></description>
+								<content:encoded><![CDATA[
+<p>It’s hard to be creative when you’re worried about money. Running ads on your site helps, but for many creators, ad revenue isn’t enough. Top publishers and creators sustain their businesses by building reliable income streams through ongoing contributions.</p>
+
+
+
+<p>Our new <strong>Recurring Payments</strong> feature for WordPress.com and Jetpack-powered sites lets you do just that: it’s a monetization tool for content creators who want to collect repeat contributions from their supporters, and it’s available with any paid plan on WordPress.com.</p>
+
+
+
+<p>Let your followers support you with periodic, scheduled payments. Charge for your weekly newsletter, accept monthly donations, sell yearly access to exclusive content — and do it all with an automated payment system.</p>
+
+
+
+<h4>With recurring payments, you can:</h4>
+
+
+
+<ul><li>Accept ongoing payments from visitors directly on your site.</li><li>Bill supporters automatically, on a set schedule. Subscribers can cancel anytime from their WordPress.com account.</li><li>Offer ongoing subscriptions, site memberships, monthly donations, and more, growing your fan base with exclusive content.</li><li>Integrate your site with Stripe to process payments and collect funds.</li></ul>
+
+
+
+<h2>Enable Recurring Payments in three steps</h2>
+
+
+
+<p>Start accepting ongoing payments in just five minutes, without any technical background.&nbsp;</p>
+
+
+
+<h4>1. Connect (or create) a Stripe account</h4>
+
+
+
+<p>WordPress.com partners with <a href="https://stripe.com/">Stripe</a>, one of the internet’s biggest payment processors, to make sure transactions are fast and secure. You’ll need a Stripe account to use Recurring Payments.&nbsp;</p>
+
+
+
+<p>Head to your <a href="https://wordpress.com/earn/payments"><strong>Earn</strong></a> page and click <strong>Connect Stripe to Get Started</strong> &#8212; we’ll walk you through the setup and help you create a Stripe account if you don’t have one.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://en-blog.files.wordpress.com/2019/11/connect-stripe.jpg"><img data-attachment-id="41689" data-permalink="https://en.blog.wordpress.com/connect-stripe/" data-orig-file="https://en-blog.files.wordpress.com/2019/11/connect-stripe.jpg" data-orig-size="3421,2122" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="connect-stripe" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/11/connect-stripe.jpg?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/11/connect-stripe.jpg?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=623&type=img" alt="" class="wp-image-41689" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=484&type=img 1024w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=624&type=img 2048w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=625&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=626&type=img 300w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=627&type=img 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h4>2. Put a Recurring Payments button on your site</h4>
+
+
+
+<p>Recurring Payments takes advantage of the powerful <a href="https://en.support.wordpress.com/wordpress-editor/">block editor</a>. To start collecting revenue, open a post or page, click the (+) to add a new block, and insert a Recurring Payments button.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://en-blog.files.wordpress.com/2019/11/insert-block.jpg"><img data-attachment-id="41690" data-permalink="https://en.blog.wordpress.com/insert-block/" data-orig-file="https://en-blog.files.wordpress.com/2019/11/insert-block.jpg" data-orig-size="3421,2122" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="insert-block" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/11/insert-block.jpg?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/11/insert-block.jpg?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=628&type=img" alt="" class="wp-image-41690" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=489&type=img 1024w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=629&type=img 2048w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=630&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=631&type=img 300w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=632&type=img 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h4>3. Customize the details of the recurring payment</h4>
+
+
+
+<p>You can create as many payment plans for your site as you’d like—different currencies, amounts, payment frequencies, and names, so you can offer different tiers or subscriptions.</p>
+
+
+
+<p>You can also choose one of your previously created plans when you insert a new button.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://en-blog.files.wordpress.com/2019/11/new-block.jpg"><img data-attachment-id="41691" data-permalink="https://en.blog.wordpress.com/new-block/" data-orig-file="https://en-blog.files.wordpress.com/2019/11/new-block.jpg" data-orig-size="3421,2122" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="new-block" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/11/new-block.jpg?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/11/new-block.jpg?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=633&type=img" alt="" class="wp-image-41691" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=494&type=img 1024w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=634&type=img 2048w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=635&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=636&type=img 300w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=637&type=img 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p><strong>Bravo!</strong></p>
+
+
+
+<p>You just set up Recurring Payments for your site. Now your fans can support you, just like they do on <a href="https://longreads.com/">Longreads.com</a> and around the web.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>For more detailed setup instructions, visit the <a href="https://en.support.wordpress.com/recurring-payments-button/">Recurring Payments support page</a>.</em></p></blockquote>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="41692" data-permalink="https://en.blog.wordpress.com/site-front-end/" data-orig-file="https://en-blog.files.wordpress.com/2019/11/site-front-end.jpg" data-orig-size="3421,2122" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="site-front-end" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/11/site-front-end.jpg?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/11/site-front-end.jpg?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=638&type=img" alt="" class="wp-image-41692" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=499&type=img 1024w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=639&type=img 2048w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=640&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=641&type=img 300w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=642&type=img 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>So many options to grow your supporter base</h2>
+
+
+
+<p>With Recurring Payments, you can turn your content into revenue, accept donations, or fund your next big idea.&nbsp;</p>
+
+
+
+<ul><li>Sell access to members-only newsletters.</li><li>Collect club membership dues automatically.</li><li>Let fans fund your next art project.</li></ul>
+
+
+
+<p>Some people even collect rent with recurring payments!</p>
+
+
+
+<h2><strong>It&#8217;s easier than ever for your visitors to support your site</strong></h2>
+
+
+
+<p>Recurring Payments make it easy to purchase a subscription or become a supporter on any WordPress.com or Jetpack-connected site — your subscribers will be able to use the same payment information and manage all their subscriptions in one place. To do that, they&#8217;ll just need a WordPress.com account.</p>
+
+
+
+<p>During the checkout process, they will enter their email address. If they already have a WordPress.com account linked to that address, we will associate the purchase with that account. If they don’t, we’ll create an account for them. When they complete the purchase, they’ll receive an email with more info and login instructions for their new account.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><video  class='youtube-player' type='text/html' width='720' height='405'  allowfullscreen='true' style='border:0;' controls><source src='loadfile.php?fileid=162&index=643&type=vid'></video></></div>
+</div></figure>
+
+
+
+<p>The transaction is between you and your subscriber. WordPress.com only facilitates the processing and management of the subscription. We don’t save your subscribers&#8217; credit card information, either — it’s stored by Stripe, the payment processor, so that the charge can renew automatically. Your subscribers can manage, edit, or cancel their recurring payments on their own, without your intervention, by visiting <strong><a href="https://wordpress.com/me/purchases/other/">Me &gt; Manage Purchases &gt; Other sites</a></strong>. </p>
+
+
+
+<h2><strong>A competitive fee structure helps you share your work</strong> far and wide</h2>
+
+
+
+<p>Recurring Payments is available on all paid plans, for both WordPress.com and Jetpack-connected sites. You pay a percentage of the revenue your site generates through Recurring Payments, which varies depending on your plan. As you collect more subscribers, you might consider switching to a different plan in order to retain more revenue.</p>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table class=""><tbody><tr><td><strong>WordPress.com Plan</strong></td><td><strong>Jetpack plan</strong></td><td><strong>Related Fees</strong></td></tr><tr><td>WordPress.com eCommerce</td><td>&nbsp;&#8212;</td><td>None</td></tr><tr><td>WordPress.com Business</td><td>Jetpack Professional</td><td>2%</td></tr><tr><td>WordPress.com Premium</td><td>Jetpack Premium</td><td>4%</td></tr><tr><td>WordPress.com Personal</td><td>Jetpack Personal&nbsp;</td><td>8%</td></tr></tbody></table></figure>
+
+
+
+<p><em>In addition to the fees you pay us, Stripe collects 2.9% + $0.30 for each payment made to your Stripe account.</em></p>
+
+
+
+<h2>Make the most of our collection of monetizing tools</h2>
+
+
+
+<p>Recurring payments is the latest addition to the monetizing tools available on WordPress.com. Here are the other tools you can find by visiting<a href="http://wordpress.com/earn"> WordPress.com/earn</a>.</p>
+
+
+
+<ul><li>Use <a href="https://en.support.wordpress.com/wordpress-editor/blocks/simple-payments-block/">Simple Payments</a> to take one-time payments, or to sell digital or physical products with minimal configuration.</li><li>Add <a href="https://en.support.wordpress.com/wordads-and-earn/">WordAds</a> to run advertisements on your site, and earn revenue from your traffic.</li><li>Move to <a href="https://en.support.wordpress.com/store/">WooCommerce</a> when you’re ready to create a full shopping experience for visitors — it’s the most customizable online-store platform on the web, with thousands of extensions.</li></ul>
+
+
+
+<p>Ready to add Recurring Payments? <a href="https://wordpress.com/earn/">Head to your site’s <strong>Earn </strong>section right now</a>.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+							<wfw:commentRss>https://en.blog.wordpress.com/2019/11/12/recurring-payments/feed/</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+						
+		<media:thumbnail url="https://en-blog.files.wordpress.com/2019/11/anthony-delanoix-hzgs56ze49s-unsplash.jpg" />
+		<media:content url="https://en-blog.files.wordpress.com/2019/11/anthony-delanoix-hzgs56ze49s-unsplash.jpg" medium="image">
+			<media:title type="html">anthony-delanoix-hzgs56Ze49s-unsplash</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/c88872d732506446e8b44b677a6a20e0?s=96&#38;d=retro" medium="image">
+			<media:title type="html">akismet-b9d2d37b29cce0ade7e9dcc6b99b80de</media:title>
+		</media:content>
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/11/connect-stripe.jpg?w=1024" medium="image" />
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/11/insert-block.jpg?w=1024" medium="image" />
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/11/new-block.jpg?w=1024" medium="image" />
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/11/site-front-end.jpg?w=1024" medium="image" />
+	</item>
+		<item>
+		<title>Join us in a Digital Climate Strike</title>
+		<link>https://en.blog.wordpress.com/2019/09/12/digital-climate-strike/</link>
+				<comments>https://en.blog.wordpress.com/2019/09/12/digital-climate-strike/#comments</comments>
+				<pubDate>Thu, 12 Sep 2019 10:09:40 +0000</pubDate>
+		<dc:creator><![CDATA[Jack Lenox]]></dc:creator>
+				<category><![CDATA[Automattic]]></category>
+		<category><![CDATA[Community]]></category>
+
+		<guid isPermaLink="false">http://en.blog.wordpress.com/?p=41627</guid>
+				<description><![CDATA[This September, millions will take to the streets to demand an end to the age of fossil fuels. Show your solidarity by displaying a digital climate strike banner for the month.]]></description>
+								<content:encoded><![CDATA[
+<p>With fires raging in the Amazon, hurricanes ripping across the Atlantic, and typhoons flooding Japan, our planet and our climate are sending us a message: We can no longer continue with business as usual.</p>
+
+
+
+<p>The week starting September 20th, 350.org is organizing a <a href="https://href.li/?https://globalclimatestrike.net/">Global Climate Strike</a>, in association with <a href="https://www.fridaysforfuture.org/">Fridays For Future</a>, to show global leaders that the time to act is now. Alongside the people walking out of workplaces, schools, and homes around the world, 350.org is organizing <a href="https://digital.globalclimatestrike.net/">a digital climate strike</a>. Websites participating in the digital strike will promote the physical strikes in the lead-up to the date, and partially block themselves to users on September 20th itself. That is where you come in!</p>
+
+
+
+<p>Starting today, you can opt into the digital climate strike with your WordPress.com site, showing your commitment to this critical topic and spreading the word about the event. Between now and September 20th, your site will display a small climate strike banner. On the 20th, it will transform into a dismissible full-screen overlay.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=644&type=img" alt="" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="41632" data-permalink="https://en.blog.wordpress.com/screenshot_2019-09-10-site-settings-e280b9-jack-lenox-e28094-wordpress-com/" data-orig-file="https://en-blog.files.wordpress.com/2019/09/screenshot_2019-09-10-site-settings-e280b9-jack-lenox-e28094-wordpress-com.png" data-orig-size="1788,516" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="screenshot_2019-09-10-site-settings-e280b9-jack-lenox-e28094-wordpress-com" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/09/screenshot_2019-09-10-site-settings-e280b9-jack-lenox-e28094-wordpress-com.png?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/09/screenshot_2019-09-10-site-settings-e280b9-jack-lenox-e28094-wordpress-com.png?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=645&type=img" alt="" class="wp-image-41632" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=506&type=img 1024w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=646&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=647&type=img 300w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=648&type=img 768w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=649&type=img 1788w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>WordPress.com site owners can head to <strong>My Site &gt; Manage &gt; Settings</strong>. At the top of the Settings menu, you will see a toggle switch &#8212; flip it on to join the digital climate strike.</p>
+
+
+
+<p>Other WordPress sites can also join the movement by installing the <a href="https://wordpress.org/plugins/digital-climate-strike-wp/">Digital Climate Strike plugin</a> from the WordPress.org plugin repository.</p>
+
+
+
+<p>After the day of action, the banner will automatically disappear (or if you’ve installed the plugin, it will automatically disable) and your site will return to normal.</p>
+
+
+
+<p>Together we can make a difference, and we hope you’ll join us in supporting this movement.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://en.blog.wordpress.com/2019/09/12/digital-climate-strike/feed/</wfw:commentRss>
+		<slash:comments>50</slash:comments>
+						
+		<media:thumbnail url="https://en-blog.files.wordpress.com/2019/09/bob-blob-ycw4yxhrwhm-unsplash.jpg" />
+		<media:content url="https://en-blog.files.wordpress.com/2019/09/bob-blob-ycw4yxhrwhm-unsplash.jpg" medium="image">
+			<media:title type="html">bob-blob-ycW4YxhrWHM-unsplash</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/c9a5478931da1bbdcc0be2800daa2915?s=96&#38;d=retro" medium="image">
+			<media:title type="html">jacklenox</media:title>
+		</media:content>
+
+		<media:content url="https://lh4.googleusercontent.com/7V1FIuO2KbprREzSB_eXp23sBemN7h87stpvadL2P2EQ7kvOvqzjqrPJC1oghhXmFj1idpt-BvDLeenfZZttOZTBn6M24QJJmhV3bdNqad5tho7q7t1Yjc5uNdlfATbrQTssQlMh" medium="image" />
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/09/screenshot_2019-09-10-site-settings-e280b9-jack-lenox-e28094-wordpress-com.png?w=1024" medium="image" />
+	</item>
+		<item>
+		<title>WordPress.com and Fiverr Partner to Launch &#8220;WordPress.com Fundamentals&#8221; Course</title>
+		<link>https://en.blog.wordpress.com/2019/09/11/wordpress-com-fiverr-video-course/</link>
+				<comments>https://en.blog.wordpress.com/2019/09/11/wordpress-com-fiverr-video-course/#comments</comments>
+				<pubDate>Wed, 11 Sep 2019 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Marjorie]]></dc:creator>
+				<category><![CDATA[Customization]]></category>
+		<category><![CDATA[HowTo]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[WordPress.com]]></category>
+		<category><![CDATA[courses]]></category>
+		<category><![CDATA[Fiverr]]></category>
+		<category><![CDATA[tutorials]]></category>
+
+		<guid isPermaLink="false">http://en.blog.wordpress.com/?p=41608</guid>
+				<description><![CDATA[Looking for a step-by-step video course on how to build a website? We've got you covered.]]></description>
+								<content:encoded><![CDATA[<p>Getting your new business website ready for launch? Want a little hand-holding &#8212; a step-by-step tutorial on setting up a WordPress.com site from start to finish, that you can work on at your own pace and on your own time? “WordPress.com Fundamentals,” a comprehensive video course created with<span style="font-size:inherit;"> our friends over at Fiverr, walks you through all the fundamentals in 90 minutes.</span></p>
+<p>The course covers the basics of setting up a business website, but anyone new to WordPress.com can benefit from lessons on how to create an account, set up a site, customize a theme, publish content, and share it on social media. It was developed by WordPress.com Happiness Engineers with years of experience guiding thousands of new WordPress.com customers in chat, email, forums, and concierge sessions, so you know you&#8217;re getting expert guidance from people who know every WordPress.com tip and trick.</p>
+<p><a href="https://en-blog.files.wordpress.com/2019/08/img_20190628_084126.jpg"><img data-attachment-id="41610" data-permalink="https://en.blog.wordpress.com/2019/09/11/wordpress-com-fiverr-video-course/img_20190628_084126/" data-orig-file="https://en-blog.files.wordpress.com/2019/08/img_20190628_084126.jpg" data-orig-size="4048,3036" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Pixel&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1561711286&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.67&quot;,&quot;iso&quot;:&quot;72&quot;,&quot;shutter_speed&quot;:&quot;0.002923&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_20190628_084126" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/08/img_20190628_084126.jpg?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/08/img_20190628_084126.jpg?w=720" class="aligncenter wp-image-41610 size-large" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=650&type=img" alt="" width="720" height="540" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=511&type=img 720w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=651&type=img 1440w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=652&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=653&type=img 300w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=654&type=img 768w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=655&type=img 1024w" sizes="(max-width: 720px) 100vw, 720px"></a></p>
+<p>The entire course is just $31, which includes unlimited access to all the course materials, quizzes, and downloadable resources. Take it all at once, or learn at the pace that works for you &#8212; the course is divided into bite-sized chapters that you can refer to as many times as you need.</p>
+<p>Students are also eligible for a discount of 25% on WordPress.com plan upgrades! So if you’ve been hesitating to explore the advanced features in the Premium, Business, or eCommerce plans, the course gives you both a great introduction to the ease and power of WordPress.com and a lower-cost way to try them out.</p>
+<p>To get started, head over to <a href="https://learn.fiverr.com/courses/build-a-professional-website-with-wordpress-com">the course page on the <em>Learn from Fiverr</em> website</a><i>. </i>Click on the green &#8220;Buy Course&#8221; button, and follow the prompts to create an account and purchase the course. And until the end of September, get 30% off the course fee by entering coupon code <em><strong>learnwordpress</strong></em> at checkout.</p>
+<p>And if you do take the class, let us know what you think. Fiverr will send out a survey to all students after completing the class, so be sure to fill it out. We want to know what works for you, what you’d like to see more of, and where we can improve.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://en.blog.wordpress.com/2019/09/11/wordpress-com-fiverr-video-course/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+						
+		<media:thumbnail url="https://en-blog.files.wordpress.com/2019/09/bed-blogging-browsing-6356-e1568101248203.jpg" />
+		<media:content url="https://en-blog.files.wordpress.com/2019/09/bed-blogging-browsing-6356-e1568101248203.jpg" medium="image">
+			<media:title type="html">bed-blogging-browsing-6356</media:title>
+		</media:content>
+
+		<media:content url="https://2.gravatar.com/avatar/e47a13a0823b556c40ada2c812d3c120?s=96&#38;d=retro" medium="image">
+			<media:title type="html">marjorieasturias</media:title>
+		</media:content>
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/08/img_20190628_084126.jpg?w=720" medium="image" />
+	</item>
+		<item>
+		<title>When Experienced Women Engineers Look for New Jobs, They Prioritize Trust and Growth</title>
+		<link>https://en.blog.wordpress.com/2019/08/28/hiring-women-engineers/</link>
+				<comments>https://en.blog.wordpress.com/2019/08/28/hiring-women-engineers/#comments</comments>
+				<pubDate>Wed, 28 Aug 2019 15:24:31 +0000</pubDate>
+		<dc:creator><![CDATA[Cate Huston]]></dc:creator>
+				<category><![CDATA[Automattic]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Diversity & Inclusion]]></category>
+		<category><![CDATA[Hiring]]></category>
+		<category><![CDATA[Resources]]></category>
+
+		<guid isPermaLink="false">http://en.blog.wordpress.com/?p=41591</guid>
+				<description><![CDATA[Automattic, WordPress.com's parent company, set out to learn how to boost applications from women and non-binary developers.]]></description>
+								<content:encoded><![CDATA[
+<p>How can we increase gender representation in software engineering?</p>
+
+
+
+<p>Our Developer Hiring Experience team analyzed this topic in a recent user-research study. The issue resonated with women engineers and a strong response enabled the team to gain deeper insight than is currently available from online research projects.</p>
+
+
+
+<p>Seventy-one engineers who identified as women or non-binary responded to our request for feedback. Out of that pool, 24 answered a follow-up survey, and we carried out in-depth interviews with 14 people. This was a highly skilled group, with the majority having worked in software development for over 10 years.&nbsp;</p>
+
+
+
+<p>While some findings aligned with our expectations, we still uncovered a few surprises.&nbsp;</p>
+
+
+
+<h3><strong>The Job Hunt</strong></h3>
+
+
+
+<p>In initial job hunts, respondents were found to rely heavily on their existing networks and on personal outreach from companies.</p>
+
+
+
+<p>If they do not have a pre-existing connection with a company, they’ll likely scrutinize it for red flags before they submit an application. Job descriptions are searched for any discouraging language &#8212; for example, if parental leave descriptions only refer to mothers. Information &#8212; about the job, salary, team, and hiring process &#8212; is key for encouraging applications.</p>
+
+
+
+<p>Stack Overflow is a popular resource for job hunting; whereas Glassdoor is viewed as less useful, and more as a venting forum for former employees or unsuccessful candidates.&nbsp;</p>
+
+
+
+<h3><strong>The Hiring Process</strong></h3>
+
+
+
+<p>The most favorable hiring processes represent a growth opportunity, rather than being purely evaluative. Communication and responsiveness are important, as is the visibility of other women within the team. For some participants, interviewing is seen as a skill to maintain. These developers are continually keeping an eye on job listings to stay abreast of their options. However, the chance for growth was the most widespread reason for actually leaving a current position.&nbsp;</p>
+
+
+
+<h3><strong>Job Satisfaction&nbsp;</strong></h3>
+
+
+
+<p>Consistently being able to have an impact, including leadership opportunities, stood out as important; if this is lacking, experienced women engineers are likely to seek new employment. Dissatisfaction can also be caused by being pushed onto the management track and having to fight to continue to focus on technical work.&nbsp;</p>
+
+
+
+<p>The data showed women are looking for more communities focused on connecting to other senior-level women, and around more technical topics. Concerns around online harassment can put women off trying to build their network online.&nbsp;</p>
+
+
+
+<h3><strong>Changes at Automattic&nbsp;</strong></h3>
+
+
+
+<p>We are working on Automattic’s employment branding to reflect our findings. We are in the process of gathering resources to better describe work at Automattic, and we’re encouraging existing developers to increase their visibility outside of the company — whether through writing or engaging in their communities.&nbsp;</p>
+
+
+
+<p>In job postings, we have removed any gameplay or language that emphasizes hiring as a competitive process — for instance, we no longer mention application volume. Instead, job postings highlight learning and career opportunities for the candidate. Adding the term &#8220;Senior&#8221; to postings is also being tested. Although this implies a job ladder that does not necessarily exist here, the research clarified that its absence sent the message that all positions are mid-level roles, without the path to growth that women candidates tend to look for.&nbsp;</p>
+
+
+
+<p>We are also managing candidates’ expectations by making the whole hiring process more transparent, and have created a <a href="https://automattic.com/work-with-us/how-we-hire-developers/">public page</a> outlining the hiring process.</p>
+
+
+
+<p>We’ve made it easier for interested applicants to have casual chats with other women at Automattic. We also offer candidates the opportunity for one-on-one calls with a member of the Developer Experience team during the final stages of hiring; this has started with under-indexed candidates but with a view to rolling it out to everyone. These chats take place outside of the formal hiring process to provide an opportunity for the applicant to ask any questions they have and for the company to better understand their career goals and motivation.&nbsp;</p>
+
+
+
+<p>We are tracking the progress made and are excited to be able to contribute data to the field of gender representation in engineering. If you&#8217;d like to take a more in-depth look at our study, please do <a href="https://developer.wordpress.com/2019/08/28/sharing-the-data-how-technical-women-navigate-their-career/">read the more detailed write up on our developer blog</a>, or <a href="https://en-blog.files.wordpress.com/2019/08/trust-growth-inclusion-e28093-a-study-of-women-engineerse28099-job-search-priorities.pdf">download the PDF</a>!</p>
+
+
+
+<p><em>Interested to learn what positions are currently open at Automattic?</em> <a href="https://automattic.com/work-with-us/">We&#8217;re always hiring</a>.&nbsp;<br></p>
+]]></content:encoded>
+							<wfw:commentRss>https://en.blog.wordpress.com/2019/08/28/hiring-women-engineers/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+						
+		<media:thumbnail url="https://en-blog.files.wordpress.com/2019/08/apple-businesswoman-coding-7375.jpg" />
+		<media:content url="https://en-blog.files.wordpress.com/2019/08/apple-businesswoman-coding-7375.jpg" medium="image">
+			<media:title type="html">apple-businesswoman-coding-7375</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/f2a0eb6d0795695136a349fc4e9afd16?s=96&#38;d=retro" medium="image">
+			<media:title type="html">catehstn</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Second Edition of Our &#8220;Learn User Support&#8221; Workshop Is Open for Signups</title>
+		<link>https://en.blog.wordpress.com/2019/08/10/the-second-edition-of-our-learn-user-support-workshop-is-open-for-signups/</link>
+				<comments>https://en.blog.wordpress.com/2019/08/10/the-second-edition-of-our-learn-user-support-workshop-is-open-for-signups/#comments</comments>
+				<pubDate>Sat, 10 Aug 2019 02:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Rose P]]></dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Diversity & Inclusion]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Support]]></category>
+		<category><![CDATA[WordPress.com]]></category>
+
+		<guid isPermaLink="false">http://en.blog.wordpress.com/?p=41568</guid>
+				<description><![CDATA[Starting August 19, we'll offer another virtual course for women interested in a technical-support career.]]></description>
+								<content:encoded><![CDATA[
+<p>Back in January, we partnered with Support Driven and launched the <a href="https://en.blog.wordpress.com/2018/11/26/wordpress-support-workshops-for-women-in-the-asia-pacific-region/">first version of the Learn User Support Workshop</a>, which helps women in the Asia-Pacific region develop the skills they need to succeed in a technical support role. We had 24 students enrolled in our first cohort. </p>
+
+
+
+<p>Today, we’re happy to share that the next edition of the Learn User Support Workshop will launch on <strong>August 19, 2019</strong>. The course is entirely web-based &#8212; there’s no need to travel anywhere to attend &#8212; and completely free. So if you identify as a woman, are based in the Asia-Pacific region, and are serious about a career in user support, this might be a perfect match for you.</p>
+
+
+
+<h3>Building a better, bigger workshop</h3>
+
+
+
+<p>The strong positive feedback we received from our students earlier this year, as well as the increasingly long waitlist, inspired us to improve the course content and to design it to accommodate more learners.&nbsp;</p>
+
+
+
+<p>What topics will we cover? As a participant, expect to learn how to&#8230;</p>
+
+
+
+<ul><li>Develop your own support philosophy.</li><li>Build successful troubleshooting strategies.</li><li>Manage challenging interactions.</li><li>Implement productivity tools.</li><li>Optimize your approach to applying and interviewing for jobs in support.</li></ul>
+
+
+
+<p>This six-module course will start on August 19 and will run through September 29. We will publish a new module every Monday, and each learner will have one week to complete it. We’ll include lots of hands-on work, and by the end of the course, each participant will also develop a résumé and portfolio site on WordPress that they can then share with potential employers.</p>
+
+
+
+<h3>Meet your friendly organizers</h3>
+
+
+
+<p>As for your teachers, the people who lead this workshop are Automattic Happiness Engineers &#8212; master communicators with deep, wide-ranging experience in distributed technical support.&nbsp;</p>
+
+
+
+<p>Automattic, which offers the workshop, is a fully-distributed company &#8212; there are more than 930 full-time Automatticians spread across 70 countries and speaking 88 languages. We serve users from every corner of the world via products like WordPress.com, Jetpack, and WooCommerce, <a href="https://automattic.com/">among others</a>.&nbsp;</p>
+
+
+
+<p>As people who believe in the benefits of distributed work, we love helping remote professionals level up their skills. Our <a href="https://automattic.com/diversity-and-inclusion/">commitment to Diversity &amp; Inclusion</a> leads us to look for ways to make the tech sector more representative of the wide and varied world it serves. As a result, this virtual workshop will equip Asia-Pacific-based women who are &#8212; or want to become &#8212; support professionals with skills that are specifically tailored to the demands of remote work.&nbsp;&nbsp;</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p style="text-align:left;">Registration for this cohort is now <strong>closed</strong>. </p>
+
+
+
+<p style="text-align:left;" class="has-medium-font-size">Make sure to sign up to be notified about future course offerings from Automattic.</p>
+
+
+
+<a style="display:inline-block;padding:12px 24px;border:0;border-radius:10px;font-weight:bold;letter-spacing:.0625em;text-transform:uppercase;background:#D52C82;color:#fff;text-decoration:none;" href="https://mailchi.mp/f3e9809d7e4d/workshops">CLICK HERE TO GET NOTIFIED!</a>
+
+
+
+<hr class="wp-block-separator" />
+]]></content:encoded>
+							<wfw:commentRss>https://en.blog.wordpress.com/2019/08/10/the-second-edition-of-our-learn-user-support-workshop-is-open-for-signups/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+						
+		<media:thumbnail url="https://en-blog.files.wordpress.com/2019/08/3196.jpg" />
+		<media:content url="https://en-blog.files.wordpress.com/2019/08/3196.jpg" medium="image">
+			<media:title type="html">Cropped View of Hands Typing on Laptop</media:title>
+		</media:content>
+
+		<media:content url="https://1.gravatar.com/avatar/a654638c203a5260e28af2e0c2ee13d9?s=96&#38;d=retro" medium="image">
+			<media:title type="html">rosepajaroja</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Four New WordPress.com Color Schemes</title>
+		<link>https://en.blog.wordpress.com/2019/07/24/four-new-wordpress-com-color-schemes/</link>
+				<comments>https://en.blog.wordpress.com/2019/07/24/four-new-wordpress-com-color-schemes/#comments</comments>
+				<pubDate>Wed, 24 Jul 2019 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Caroline Moore]]></dc:creator>
+				<category><![CDATA[Dashboard]]></category>
+		<category><![CDATA[colors]]></category>
+
+		<guid isPermaLink="false">http://en.blog.wordpress.com/?p=41531</guid>
+				<description><![CDATA[We’ve added four new color schemes to customize your WordPress.com dashboard!]]></description>
+								<content:encoded><![CDATA[
+<p>We heard you: You want bolder and brighter colors on WordPress.com. Today we&#8217;re bringing your WordPress.com dashboard to life with four new color schemes: introducing Midnight, Sunset, Ocean, and Contrast.</p>
+
+
+
+<p>You may recognize some of these colors as old friends. Midnight, Sunset, and Ocean are based on early versions of WordPress — a nod to our roots as we evolve:</p>
+
+
+
+<ul data-carousel-extra='{"blog_id":3584907,"permalink":"https:\/\/en.blog.wordpress.com\/2019\/07\/24\/four-new-wordpress-com-color-schemes\/"}' class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><img data-attachment-id="41545" data-permalink="https://en.blog.wordpress.com/color-scheme-thumbnail-midnight/" data-orig-file="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-midnight.png" data-orig-size="1482,988" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-midnight.png?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-midnight.png?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=656&type=img" alt="Midnight color scheme" data-id="41545" data-link="https://en.blog.wordpress.com/color-scheme-thumbnail-midnight/" class="wp-image-41545" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=517&type=img 720w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=657&type=img 1440w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=658&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=659&type=img 300w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=660&type=img 768w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=661&type=img 1024w" sizes="(max-width: 720px) 100vw, 720px" /></figure></li><li class="blocks-gallery-item"><figure><img data-attachment-id="41547" data-permalink="https://en.blog.wordpress.com/color-scheme-thumbnail-sunset/" data-orig-file="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-sunset.png" data-orig-size="1482,988" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-sunset.png?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-sunset.png?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=662&type=img" alt="Sunset color scheme" data-id="41547" data-link="https://en.blog.wordpress.com/color-scheme-thumbnail-sunset/" class="wp-image-41547" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=523&type=img 720w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=663&type=img 1440w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=664&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=665&type=img 300w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=666&type=img 768w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=667&type=img 1024w" sizes="(max-width: 720px) 100vw, 720px" /></figure></li><li class="blocks-gallery-item"><figure><img data-attachment-id="41546" data-permalink="https://en.blog.wordpress.com/color-scheme-thumbnail-ocean/" data-orig-file="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-ocean.png" data-orig-size="1482,988" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-ocean.png?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-ocean.png?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=668&type=img" alt="Ocean color scheme" data-id="41546" data-link="https://en.blog.wordpress.com/color-scheme-thumbnail-ocean/" class="wp-image-41546" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=529&type=img 720w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=669&type=img 1440w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=670&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=671&type=img 300w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=672&type=img 768w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=673&type=img 1024w" sizes="(max-width: 720px) 100vw, 720px" /></figure></li></ul>
+
+
+
+<p>If bright and bold isn&#8217;t your jam, you might prefer Contrast, a black-and-white scheme meant to bring your WordPress.com dashboard into sharp focus:</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="41556" data-permalink="https://en.blog.wordpress.com/screen-shot-2019-07-17-at-11-59-13-am/" data-orig-file="https://en-blog.files.wordpress.com/2019/07/screen-shot-2019-07-17-at-11.59.13-am.png" data-orig-size="2560,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="screen-shot-2019-07-17-at-11.59.13-am" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/07/screen-shot-2019-07-17-at-11.59.13-am.png?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/07/screen-shot-2019-07-17-at-11.59.13-am.png?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=674&type=img" alt="Screenshot of the WordPress.com dashboard with Contrast color scheme applied." class="wp-image-41556" /></figure>
+
+
+
+<p>As part of our commitment to <a href="https://automattic.design/2018/12/22/13429/">inclusive design</a>, the new palettes are optimized for contrast and increased legibility. Whichever color scheme you choose, your dashboard remains stylish and readable.</p>
+
+
+
+<h3>Here’s how to customize your color scheme:</h3>
+
+
+
+<ol><li>On your desktop, sign in to the WordPress.com account that you’d like to customize.</li><li>Click your account avatar in the upper right corner.</li><li>Select <strong>Account Settings</strong></li><li>Select one of the options under <strong>Dashboard Color Scheme</strong></li><li>Click <strong>Save Account Settings</strong> to apply the change</li></ol>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="41555" data-permalink="https://en.blog.wordpress.com/screen-shot-2019-07-17-at-11-58-52-am/" data-orig-file="https://en-blog.files.wordpress.com/2019/07/screen-shot-2019-07-17-at-11.58.52-am.png" data-orig-size="2560,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="screen-shot-2019-07-17-at-11.58.52-am" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/07/screen-shot-2019-07-17-at-11.58.52-am.png?w=300" data-large-file="https://en-blog.files.wordpress.com/2019/07/screen-shot-2019-07-17-at-11.58.52-am.png?w=720" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=675&type=img" alt="Screenshot of the WordPress.com Account Settings." class="wp-image-41555" /></figure>
+]]></content:encoded>
+							<wfw:commentRss>https://en.blog.wordpress.com/2019/07/24/four-new-wordpress-com-color-schemes/feed/</wfw:commentRss>
+		<slash:comments>34</slash:comments>
+						
+		<media:thumbnail url="https://en-blog.files.wordpress.com/2019/07/john-o-nolan-ykeltanuqye-unsplash.jpg" />
+		<media:content url="https://en-blog.files.wordpress.com/2019/07/john-o-nolan-ykeltanuqye-unsplash.jpg" medium="image">
+			<media:title type="html">john-o-nolan-ykeLTANUQyE-unsplash</media:title>
+		</media:content>
+
+		<media:content url="https://2.gravatar.com/avatar/57509a6de7585125357530e2f3c3af1b?s=96&#38;d=retro" medium="image">
+			<media:title type="html">sixhours</media:title>
+		</media:content>
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-midnight.png?w=720" medium="image">
+			<media:title type="html">Midnight color scheme</media:title>
+		</media:content>
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-sunset.png?w=720" medium="image">
+			<media:title type="html">Sunset color scheme</media:title>
+		</media:content>
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/07/color-scheme-thumbnail-ocean.png?w=720" medium="image">
+			<media:title type="html">Ocean color scheme</media:title>
+		</media:content>
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/07/screen-shot-2019-07-17-at-11.59.13-am.png" medium="image">
+			<media:title type="html">Screenshot of the WordPress.com dashboard with Contrast color scheme applied.</media:title>
+		</media:content>
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/07/screen-shot-2019-07-17-at-11.58.52-am.png" medium="image">
+			<media:title type="html">Screenshot of the WordPress.com Account Settings.</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>More Stats, Better Stats, Faster Stats: A Whole New Mobile Experience</title>
+		<link>https://en.blog.wordpress.com/2019/07/16/more-stats-better-stats-faster-stats-a-whole-new-mobile-experience/</link>
+				<comments>https://en.blog.wordpress.com/2019/07/16/more-stats-better-stats-faster-stats-a-whole-new-mobile-experience/#comments</comments>
+				<pubDate>Tue, 16 Jul 2019 16:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[Sylvester Wilmott]]></dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Stats]]></category>
+
+		<guid isPermaLink="false">http://en.blog.wordpress.com/?p=41452</guid>
+				<description><![CDATA[If you’re like me, Stats is one of your most-visited screens in your WordPress app &#8212; we all want to know people are reading! Whether you use iOS or Android, the latest versions have Stat updates that bring you more useful data, faster. Updates to the layout, available statistics, and &#8230;]]></description>
+								<content:encoded><![CDATA[
+<p>If you’re like me, Stats is one of your most-visited screens in your WordPress app &#8212; we all want to know people are reading! Whether you use iOS or Android, the latest versions have Stat updates that bring you more useful data, faster. Updates to the layout, available statistics, and how they’re handled behind the scenes mean you can hone in what’s most important to you and to your site’s growth.</p>
+
+
+
+<h2>What&#8217;s new?</h2>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<div class="wp-block-media-text alignwide is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img data-attachment-id="41505" data-permalink="https://en.blog.wordpress.com/2019/07/16/more-stats-better-stats-faster-stats-a-whole-new-mobile-experience/stats_countries/" data-orig-file="https://en-blog.files.wordpress.com/2019/06/stats_countries.png" data-orig-size="720,1560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="stats_countries" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/06/stats_countries.png?w=138" data-large-file="https://en-blog.files.wordpress.com/2019/06/stats_countries.png?w=473" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=676&type=img" alt="" class="wp-image-41505" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=537&type=img 473w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=677&type=img 69w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=678&type=img 138w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=679&type=img 720w" sizes="(max-width: 473px) 100vw, 473px" /></figure><div class="wp-block-media-text__content">
+<h4>All-new design</h4>
+
+
+
+<p>Stats got a facelift! The numbers are easier to read, easier to compare, and easier to track over time.</p>
+</div></div>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<div class="wp-block-media-text alignwide is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img data-attachment-id="41481" data-permalink="https://en.blog.wordpress.com/2019/07/16/more-stats-better-stats-faster-stats-a-whole-new-mobile-experience/stats_manage-2/" data-orig-file="https://en-blog.files.wordpress.com/2019/06/stats_manage-2.png" data-orig-size="720,1280" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="stats_manage" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/06/stats_manage-2.png?w=169" data-large-file="https://en-blog.files.wordpress.com/2019/06/stats_manage-2.png?w=576" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=680&type=img" alt="" class="wp-image-41481" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=541&type=img 576w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=681&type=img 84w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=682&type=img 169w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=683&type=img 720w" sizes="(max-width: 576px) 100vw, 576px" /></figure><div class="wp-block-media-text__content">
+<h4>Customise your stats</h4>
+
+
+
+<p style="text-align:left;">Blogger who wants to keep an eye on your follower count, a business owner who wants a quick update on daily views? Insights Management lets you choose what stats to include so your at-a-glance updates include what’s most important to you. (This feature is only available on Android at the moment, and is coming soon to iOS.)</p>
+</div></div>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<div class="wp-block-media-text alignwide is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img data-attachment-id="41493" data-permalink="https://en.blog.wordpress.com/2019/07/16/more-stats-better-stats-faster-stats-a-whole-new-mobile-experience/stats_date_bar/" data-orig-file="https://en-blog.files.wordpress.com/2019/06/stats_date_bar-5.png" data-orig-size="720,1560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="stats_date_bar" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/06/stats_date_bar-5.png?w=138" data-large-file="https://en-blog.files.wordpress.com/2019/06/stats_date_bar-5.png?w=473" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=684&type=img" alt="" class="wp-image-41493" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=545&type=img 473w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=685&type=img 69w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=686&type=img 138w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=687&type=img 720w" sizes="(max-width: 473px) 100vw, 473px" /></figure><div class="wp-block-media-text__content">
+<h4><strong>Zero in on time periods</strong></h4>
+
+
+
+<p>Use the new dedicated date bar on the days, weeks, months and years tabs, to explore date ranges.</p>
+</div></div>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<div class="wp-block-media-text alignwide is-vertically-aligned-top"><figure class="wp-block-media-text__media"><img data-attachment-id="41482" data-permalink="https://en.blog.wordpress.com/2019/07/16/more-stats-better-stats-faster-stats-a-whole-new-mobile-experience/stats_glance/" data-orig-file="https://en-blog.files.wordpress.com/2019/06/stats_glance.png" data-orig-size="720,1280" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="stats_glance" data-image-description="" data-medium-file="https://en-blog.files.wordpress.com/2019/06/stats_glance.png?w=169" data-large-file="https://en-blog.files.wordpress.com/2019/06/stats_glance.png?w=576" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=688&type=img" alt="" class="wp-image-41482" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=549&type=img 576w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=689&type=img 84w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=690&type=img 169w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=691&type=img 720w" sizes="(max-width: 576px) 100vw, 576px" /></figure><div class="wp-block-media-text__content">
+<h4>Stats at a glance</h4>
+
+
+
+<p>Your Insights tab is now optimised for quick updates so you can get key information about your site’s performance all on one screen.</p>
+</div></div>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<h2>How do I find this?</h2>
+
+
+
+<p>Update your app to the latest version. You can find them <a href="https://apps.wordpress.com/mobile/">here</a>, or in your Apple Store or Google Play. And that’s it! Head to Stats for any of your site for a new and improved analytics experience.</p>
+
+
+
+<p>We understand how important stats are &#8212; we run websites, too! &#8212; so we’re always working to develop and improve them. We’d love to hear about your experience with the latest and greatest!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://en.blog.wordpress.com/2019/07/16/more-stats-better-stats-faster-stats-a-whole-new-mobile-experience/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+						
+		<media:thumbnail url="https://en-blog.files.wordpress.com/2019/06/stats_featured_2.jpg" />
+		<media:content url="https://en-blog.files.wordpress.com/2019/06/stats_featured_2.jpg" medium="image">
+			<media:title type="html">stats_featured_2</media:title>
+		</media:content>
+
+		<media:content url="https://1.gravatar.com/avatar/12aca6fa162042696f2784b52472eb7e?s=96&#38;d=retro" medium="image">
+			<media:title type="html">sylvesterwilmott</media:title>
+		</media:content>
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/06/stats_countries.png?w=473" medium="image" />
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/06/stats_manage-2.png?w=576" medium="image" />
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/06/stats_date_bar-5.png?w=473" medium="image" />
+
+		<media:content url="https://en-blog.files.wordpress.com/2019/06/stats_glance.png?w=576" medium="image" />
+	</item>
+	</channel>
+</rss>

@@ -1,0 +1,9 @@
+var theme_url='/static/';var theme_name='default';function themeInit(url,name){theme_url=url;theme_name=name;}
+function themeDayMode(){$('#css-theme').attr('href',theme_url+'css/theme-'+theme_name+'-day.css');$('#day-theme').addClass('hidden');$('#night-theme').removeClass('hidden');if(Cookies.getJSON('preferences'))
+Cookies.set('preferences',{theme:'day',autoplay:Cookies.getJSON('preferences').autoplay},{expires:365,path:'/'});else
+Cookies.set('preferences',{theme:'day',autoplay:true},{expires:365,path:'/'});$('#nav-top-menu').css('background-image','url("'+theme_url+'images/menu-backdrop-light.png")');$('.logo-full').each(function(){$(this).attr('src',theme_url+'images/logo-full-day.png');});$('.logo-icon').each(function(){$(this).attr('src',theme_url+'images/logo-icon-day.png');});}
+function themeNightMode(){$('#css-theme').attr('href',theme_url+'css/theme-'+theme_name+'-night.css');$('#day-theme').removeClass('hidden');$('#night-theme').addClass('hidden');if(Cookies.getJSON('preferences'))
+Cookies.set('preferences',{theme:'night',autoplay:Cookies.getJSON('preferences').autoplay},{expires:365,path:'/'});else
+Cookies.set('preferences',{theme:'night',autoplay:true},{expires:365,path:'/'});$('#nav-top-menu').css('background-image','url("'+theme_url+'images/menu-backdrop-dark.png")');$('.logo-full').each(function(){$(this).attr('src',theme_url+'images/logo-full-night.png');});$('.logo-icon').each(function(){$(this).attr('src',theme_url+'images/logo-icon-night.png');});}
+function themeSetMode(){if(Cookies.getJSON('preferences')&&Cookies.getJSON('preferences').theme=='night')themeNightMode();else themeDayMode();}
+$(document).ready(function(){themeSetMode()});

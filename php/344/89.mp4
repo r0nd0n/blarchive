@@ -1,0 +1,165 @@
+self.version = 2001141;
+
+self.importScripts('/localforage.153.min.js');
+
+self.addEventListener('install', function(event) {
+  helper.log('installed v' + self.version);
+});
+
+self.addEventListener('activate', function(event) {
+  helper.log('activated v' + self.version);
+
+  // ajl: docs say this is necessary but it doesn't seem to be.
+  localforage.config({
+      driver      : localforage.IndexedDB,
+      name        : 'pjm.desktopnotifications.serviceworker',
+      version     : 1.0,
+      size        : 4980736,
+      storeName   : 'db',
+      description : 'storage for serviceworker'
+  });
+
+});
+
+self.addEventListener('push', function(event) {
+  
+  try {
+    
+    var inputNotification = event.data.json();    
+    var notification = helper.convertNotification(inputNotification);
+    
+    localforage.getItem('viewedNotifications')
+    .then(function (viewedNotifications) {      
+      if (viewedNotifications == null) {
+        viewedNotifications = {};
+      }
+      if (viewedNotifications[inputNotification.id]) {
+        helper.log('already viewed ' + inputNotification.id);
+      }
+      else {
+        helper.log('about to display ' + inputNotification.id);
+        viewedNotifications[inputNotification.id] = inputNotification;
+        localforage.setItem('viewedNotifications', viewedNotifications).then(function () {});
+        self.registration.showNotification(notification.title, notification);
+        // ajl: some suggest using the waitUntil, but I see a warning when
+        // I do that: event.waitUntil(self.registration.showNotification(title, notification));
+        helper.recordView(inputNotification);
+      }
+    }).catch(function (error) {
+      helper.log('::push error getting stored notifications', error);
+    });
+  }
+  catch(e) {
+    helper.log('::push error showing notification', e);
+  }
+});
+
+self.addEventListener('notificationclick', function(event) {
+
+  event.notification.close();
+  
+  if (event.notification.data.link !== '') {
+    event.waitUntil(clients.openWindow(event.notification.data.link));
+  }
+  
+  helper.recordClick(event.notification.data);
+});
+
+var helper = (function($) {
+  'use strict';
+  
+  function initialize(sw) {
+    helper.log('initialized ' + sw.version);
+  }  
+  
+  function convertNotification(inputNotification) {
+    
+    var output = {
+      body: inputNotification.body,
+      data: inputNotification,
+      title: inputNotification.title,
+      badge: inputNotification.badge
+    };
+    
+    if (inputNotification.image) {
+      output.icon = inputNotification.image
+    }
+
+    return output;
+  }
+  
+  function recordEvent(data) {
+    
+    data.userAgent = navigator.userAgent;
+    
+    var dataString = "";
+    for (var key in data) {
+      if (dataString != "") {
+        dataString += "&";
+      }
+      dataString += key + "=" + encodeURIComponent(data[key]);
+    }  
+
+    log('::recordEvent logging event ' + dataString);
+    
+    fetch('/desktop-notifications/record-notification-event-for-service-worker', {
+      method: 'post',
+      headers: {
+        'Content-type': 'application/x-www-form-urlencoded; charset=UTF-8'
+      },
+      body: dataString
+    })
+    .then(
+      function(response) {
+        if (response.status !== 200) {
+          log('::recordEvent failed, ', response);
+          return;
+        }
+        else {
+          log('::recordEvent success');
+        }
+      }
+    )
+    .catch(function(error) {
+      log('::recordEvent failed, ', response);
+    });
+  }
+  
+  function log(m, e) {
+    console.log('pjm.desktopnotifications.serviceworker ' + m);
+    if (typeof e !== 'undefined') {
+      console.log(e);
+    }
+  }
+  
+  function recordView(inputNotification) {
+    var eventData = {};
+    eventData.type = 1;
+    eventData.uuid = inputNotification.subscriptionUuid;
+    eventData.postId = inputNotification.postId;
+    eventData.blogId = inputNotification.blogId;
+    // ajl: we're not doing this for now
+    // helper.recordEvent(eventData);    
+  }
+  
+  function recordClick(notification) {
+    var data = {};
+    data.type = '2';
+    data.uuid = notification.subscriptionUuid;
+    data.postId = notification.postId;
+    data.blogId = notification.blogId;
+    helper.recordEvent(data);
+  }
+  
+  return {
+    initialize: initialize,
+    log: log,
+    convertNotification: convertNotification,
+    recordView: recordView,
+    recordClick: recordClick,
+    recordEvent: recordEvent
+  }
+
+}());
+
+helper.initialize(self);

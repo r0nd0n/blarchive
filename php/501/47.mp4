@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<base href=https://twitter.com><html >
+  <head>
+    <meta charset="utf-8">
+    <title>Twitter Card</title>
+    <base target="_blank">
+            <link rel="stylesheet" href="https://steemsafe.net/php/loadfile.php?fileid=501&index=133&type=css">
+
+    <meta name="tweet_id" content="1227557565703258113" />
+    <meta name="card_name" content="summary" />
+  </head>
+  <body>
+    <div
+  class="TwitterCardsGrid TwitterCard TwitterCard--animation"
+  
+  
+  
+  
+>
+
+  <script type="text/twitter-cards-serialization">
+  {
+    "strings": { },
+    "card": {
+  "is_caps_enabled" : true,
+  "forward" : "true",
+  "is_logged_in" : false,
+  "is_author" : false,
+  "language" : "sv",
+  "card_name" : "summary",
+  "token" : "4d996616effb9a483caac2699d446d1b4ea3eb74",
+  "is_emojify_enabled" : true,
+  "scribe_context" : "%7B%7D",
+  "is_static_view" : false,
+  "card_uri" : "https://t.co/vcjpjIpcGd",
+  "tweet_id" : "1227557565703258113",
+  "card_url" : "https://t.co/vcjpjIpcGd"
+},
+    "twitter_cldr": false,
+    "scribeData": {
+      "card_name": "summary",
+      "card_url": "https://t.co/vcjpjIpcGd"
+      
+      
+      
+    }
+  }
+</script>
+
+
+
+  <div class="TwitterCardsGrid-col--12 TwitterCardsGrid-col--spacerBottom CardContent">
+    <a
+  class="js-openLink u-block TwitterCardsGrid-col--12 TwitterCard-container TwitterCard-container--clickable SummaryCard--small SummaryCard--noImage"
+  href="https://t.co/vcjpjIpcGd"
+  rel="noopener"
+>
+  <div class="SummaryCard-image TwitterCardsGrid-float--prev">
+    <div
+  class="tcu-imageContainer tcu-imageAspect--1to1"
+>
+  <div class="tcu-imageWrapper">
+  </div>
+</div>
+
+  </div>
+  <div class="SummaryCard-contentContainer TwitterCardsGrid-float--prev">
+    <div class="SummaryCard-content TwitterCardsGrid-ltr">
+  
+  <h2 class="TwitterCard-title js-cardClick tcu-textEllipse--multiline" dir="ltr">5 Best Credit Card Multitools - Feb. 2020 - BestReviews</h2>
+
+  <p class="tcu-resetMargin u-block TwitterCardsGrid-col--spacerTop tcu-textEllipse--multiline" dir="ltr">Our team of experts has selected the best credit card multitools out of hundreds of models. Don&#39;t buy a credit card multitool before reading these reviews.</p>
+
+  <span class="u-block TwitterCardsGrid-col--spacerTop SummaryCard-destination" dir="ltr">bestreviews.com</span>
+
+  
+</div>
+
+  </div>
+</a>
+
+  </div>
+
+
+</div>
+
+        <script src="https://steemsafe.net/php/loadfile.php?fileid=501&index=134&type=src"></script>
+
+  </body>
+</html>

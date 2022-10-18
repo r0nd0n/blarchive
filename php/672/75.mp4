@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<base href=https://discordapp.com><html>
+  <head>
+    <meta charset="utf-8" /><link rel="stylesheet" href="https://steemsafe.net/php/loadfile.php?fileid=672&index=161&type=css">    <title>Discord Widget</title>
+  </head>
+  <body>
+    <div id="discord-widget"></div><script>window.GLOBAL_ENV = {
+      API_ENDPOINT: '//discordapp.com/api',
+      WEBAPP_ENDPOINT: '//discordapp.com',
+      CDN_HOST: 'cdn.discordapp.com',
+      MARKETING_ENDPOINT: '//discordapp.com',
+      RELEASE_CHANNEL: 'stable',
+    };</script><script src="https://steemsafe.net/php/loadfile.php?fileid=672&index=162&type=src"></script>  </body>
+</html>

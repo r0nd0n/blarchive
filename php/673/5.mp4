@@ -1,0 +1,48 @@
+// site-specific Javascript settings
+var HDN = HDN || {};
+HDN.property = "CT";
+HDN.site = "newstimes";
+HDN.domain = "newstimes.com";
+HDN.twitterAcc = "newstimes";
+HDN.cookieDomain = ".newstimes.com";
+HDN.regUrl = location.protocol + "//reg.newstimes.com/";
+HDN.regAuthCookie = "chron_user_auth";
+HDN.regDemoCookie = "hc_customize";
+HDN.siteUrl = location.protocol + "//www.newstimes.com/";
+HDN.imageServer = location.protocol + "//www.newstimes.com";
+HDN.jskEPBUrl = location.protocol + "//newstimes.com/profile/";
+HDN.zipcode = "06810";
+HDN.gtvt_partner_id = "r1+Ky+GTw0s=";
+HDN.slideshowEIW = 940;
+HDN.siteSearchIndex = "solr";
+
+// New implementation of HDN.dataLayer.site object -- WCM-1436
+if (!HDN.hasOwnProperty('dataLayer')) {
+    HDN.dataLayer = {}
+}
+
+HDN.dataLayer.site = HDN.dataLayer.site || {};
+HDN.dataLayer.site.name = "newstimes";
+HDN.dataLayer.site.domainRoot = "newstimes";
+HDN.dataLayer.site.domain = "newstimes.com";
+HDN.dataLayer.site.subDomain = "www";
+HDN.dataLayer.site.timeZone = "Eastern";
+HDN.dataLayer.site.property = "CT";
+HDN.dataLayer.site.twitterAcc = "newstimes";
+HDN.dataLayer.site.cookieDomain = ".newstimes.com";
+HDN.dataLayer.site.regUrl = location.protocol + "//reg.newstimes.com/";
+HDN.dataLayer.site.regAuthCookie = "chron_user_auth";
+HDN.dataLayer.site.regDemoCookie = "hc_customize";
+HDN.dataLayer.site.siteUrl = location.protocol + "//www.newstimes.com/";
+HDN.dataLayer.site.imageServer = location.protocol + "//www.newstimes.com";
+HDN.dataLayer.site.jskEPBUrl = location.protocol + "//newstimes.com/profile/";
+HDN.dataLayer.site.zipcode = "06810";
+HDN.dataLayer.site.gtvt_partner_id = "r1+Ky+GTw0s=";
+HDN.dataLayer.site.slideshowEIW = 940;
+HDN.dataLayer.site.siteSearchIndex = "solr";
+
+try {
+	document.domain = HDN.domain;
+} catch (e) {
+	console.log(e);
+}

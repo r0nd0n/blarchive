@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OpenSearch description document for nature.com OpenSearch Author: Interfaces 
+	<mailto:interfaces@nature.com> Date: 2009.09.18 Copyright (c) 2009 Nature 
+	Publishing Group. All rights reserved. -->
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+	xmlns:sru="http://www.nature.com/opensearch/ns/opensearch/extensions/sru/"
+	xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<!-- Admin Details -->
+	<ShortName>nature.com</ShortName>
+	<LongName>OpenSearch interface for nature.com</LongName>
+	<Description>The nature.com OpenSearch service provides a structured
+		resource discovery facility for content hosted on nature.com. The
+		service implements the SRU (Search and Retrieval via URL) protocol for
+		interacting with the nature.com database. It can be accessed both
+		natively using the SRU protocol as well as by means of the widely
+		adopted OpenSearch conventions.</Description>
+	<Tags>nature.com opensearch sru</Tags>
+	<Contact>interfaces@nature.com</Contact>
+	<!-- Images -->
+	<Image width="16" height="16" type="image/x-icon">http://www.nature.com/favicon.ico</Image>
+	<Image width="64" height="64" type="image/jpeg">http://www.nature.com/opensearch/common/imgs/npg_icon.jpg</Image>
+	<!-- URL Template for HTML -->
+	<Url type="text/html" indexOffset="1"
+    template="http://www.nature.com/search?q={searchTerms}" />
+	<!-- URL Template for XML -->
+	<Url type="application/xml" indexOffset="1"
+		template="http://www.nature.com/opensearch/request?interface=opensearch&amp;operation=searchRetrieve&amp;query={searchTerms}&amp;queryType={sru:queryType?}&amp;startRecord={startIndex?}&amp;maximumRecords={count?}&amp;sortKeys={sru:sortKeys?}&amp;stylesheet={sru:stylesheet?}" />
+	<!-- URL Template for SRU -->
+	<Url type="application/sru+xml" indexOffset="1"
+		template="http://www.nature.com/opensearch/request?interface=opensearch&amp;operation=searchRetrieve&amp;query={searchTerms}&amp;queryType={sru:queryType?}&amp;httpAccept=application/sru%2Bxml&amp;startRecord={startIndex?}&amp;maximumRecords={count?}&amp;sortKeys={sru:sortKeys?}&amp;stylesheet={sru:stylesheet?}" />
+	<!-- URL Template for RSS -->
+	<Url type="application/rss+xml" indexOffset="1"
+		template="http://www.nature.com/opensearch/request?interface=opensearch&amp;operation=searchRetrieve&amp;query={searchTerms}&amp;queryType={sru:queryType?}&amp;httpAccept=application/rss%2Bxml&amp;recordPacking=unpacked&amp;startRecord={startIndex?}&amp;maximumRecords={count?}&amp;sortKeys={sru:sortKeys?}&amp;stylesheet={sru:stylesheet?}" />
+	<!-- URL Template for ATOM -->
+	<Url type="application/atom+xml" indexOffset="1"
+		template="http://www.nature.com/opensearch/request?interface=opensearch&amp;operation=searchRetrieve&amp;query={searchTerms}&amp;queryType={sru:queryType?}&amp;httpAccept=application/atom%2Bxml&amp;recordPacking=unpacked&amp;startRecord={startIndex?}&amp;maximumRecords={count?}&amp;sortKeys={sru:sortKeys?}&amp;stylesheet={sru:stylesheet?}" />
+	<!-- URL Template for JSON -->
+	<Url type="application/json" indexOffset="1"
+		template="http://www.nature.com/opensearch/request?interface=opensearch&amp;operation=searchRetrieve&amp;query={searchTerms}&amp;queryType={sru:queryType?}&amp;httpAccept=application/json&amp;recordPacking=unpacked&amp;startRecord={startIndex?}&amp;maximumRecords={count?}&amp;sortKeys={sru:sortKeys?}&amp;stylesheet={sru:stylesheet?}" />
+	<!-- URL Template for JSONP -->
+	<Url type="text/javascript" indexOffset="1"
+		template="http://www.nature.com/opensearch/request?interface=opensearch&amp;operation=searchRetrieve&amp;query={searchTerms}&amp;queryType={sru:queryType?}&amp;httpAccept=text/javascript&amp;recordPacking=unpacked&amp;startRecord={startIndex?}&amp;maximumRecords={count?}&amp;sortKeys={sru:sortKeys?}&amp;stylesheet={sru:stylesheet?}" />
+	<!-- Example Queries -->
+	<Query role="example" searchTerms="vampire" />
+	<Query role="example" searchTerms="vampire bat" />
+	<Query role="example" searchTerms="&quot;vampire bat&quot;" />
+	<Query role="example" searchTerms="common vampire bat" />
+	<Query role="example" searchTerms="&quot;common vampire bat&quot;" />
+	<Query role="example" searchTerms="blood &quot;common vampire bat&quot;" />
+	<Query role="example" sru:queryType="searchTerms" searchTerms="vampire" />
+	<Query role="example" sru:queryType="cql" searchTerms="vampire" />
+	<Query role="example" sru:queryType="cql" searchTerms="cql.keywords=vampire" />
+	<Query role="example" sru:queryType="cql" sru:sortKeys="title,pam,1"
+		searchTerms="cql.keywords=vampire" />
+	<Query role="example" sru:queryType="cql"
+		sru:stylesheet="http://example.org/example.xsl" searchTerms="cql.keywords=vampire" />
+	<!-- Control Params -->
+	<Language>en-us</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Attribution>&#169; 2009 Nature Publishing Group.</Attribution>
+</OpenSearchDescription>

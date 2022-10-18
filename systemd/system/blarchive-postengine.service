@@ -1,0 +1,15 @@
+[Unit]
+Description=acccounting
+After=mysql.d
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=3
+User=webadmin
+ExecStart=/usr/bin/env php /var/www/blarchive/admin/postengine.php 1 1 1 blarchive blarchive https://blarchive.net
+
+[Install]
+WantedBy=multi-user.target
+

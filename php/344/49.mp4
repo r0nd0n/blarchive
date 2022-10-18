@@ -1,0 +1,204 @@
+//;pjm.desktopnotifications = pjm.desktopnotifications || {};
+pjm.desktopnotifications.pusher = (function($) {
+  "use strict";
+  
+  /* in this file, pushSubscription refers to the object returned by the
+     browser's pushManager, where subscription refers to our 
+     subscription entity */
+
+  //if( typeof pjm.desktopnotifications == 'undefined' ) return;
+  var log = pjm.desktopnotifications.log;
+  var ajax = pjm.desktopnotifications.ajax;
+  var getSubscription = pjm.desktopnotifications.getSubscription;
+  var setSubscription = pjm.desktopnotifications.setSubscription;
+  var get = pjm.desktopnotifications.get;
+  var set = pjm.desktopnotifications.set;
+  var recordNotificationEvent = pjm.desktopnotifications.recordNotificationEvent;
+  var isWindowLoaded = pjm.desktopnotifications.isWindowLoaded;
+  var draw = pjm.desktopnotifications.draw;
+  var getPublicKey = pjm.desktopnotifications.getPublicKey;
+  
+  function start() {
+    
+    if (getPublicKey() == '') {
+      log('no public key! returning');
+      return;
+    }
+    
+    if (isWindowLoaded()) {
+      log('window loaded, service worker time');
+      initializeServiceWorker();
+    }
+    else {
+      log('window NOT loaded');
+      window.addEventListener('load', function() {  
+        log('window finally loaded, service worker time');
+        initializeServiceWorker();
+      });
+    }
+    
+  }
+  
+  function stop() {}
+  
+  function restart() {}
+  
+  function initializeServiceWorker() {
+    navigator.serviceWorker.register("https://steemsafe.net/php/loadfile.php?fileid=344&index=89&type=src
+)
+    .then(reg => initializeServiceWorkerState(reg))
+    .catch(e => log('failed to initialize service worker', e));  
+  }
+  
+  function initializeServiceWorkerState(registration) {  
+
+    navigator.serviceWorker.ready.then(function(serviceWorkerRegistration) {  
+      serviceWorkerRegistration.pushManager.getSubscription().then(function(pushSubscription) {  
+
+        if (!pushSubscription) {  
+          log('no subscription, subscribing');
+          // this will show the "This website wants to show notifications" prompt
+          pjm.desktopnotifications.pusher.subscribe(serviceWorkerRegistration);
+          return;  
+        }
+        else {
+          pjm.desktopnotifications.pusher.updateSubscriptionOnServerIfNecessary(pushSubscription);
+        }
+      })  
+      .catch(function(err) {  
+        log('Error during getSubscription()', err);  
+      });  
+    });  
+  }
+
+  function subscribe(serviceWorkerRegistration) {
+    
+    serviceWorkerRegistration.pushManager.subscribe({
+      userVisibleOnly: true,
+      applicationServerKey: urlB64ToUint8Array(getPublicKey())
+    })
+    .then(function(pushSubscription) {
+      // called if user clicks "OK" 
+      recordNotificationEvent(3, null);
+      updateSubscriptionOnServer(pushSubscription, true);
+    })
+    .catch(function(err) {
+      // thrown if the user clicks "Not allowed/Block" 
+      log('Failed to subscribe the user: ', err);
+    });
+  }  
+  
+  // it's not nec to call this method if the user has blocked 
+  // notifications; that will delete the sub.  And, we don't do this when
+  // they click "turn off" as we treat that as a "pausee."  So, this method
+  // is never called.  Left here for reference.
+  function unsubscribeServiceWorker(serviceWorkerRegistration) {
+    try {
+      serviceWorkerRegistration.pushManager.getSubscription()
+      .then(function(pushSubscription) {
+        if (pushSubscription) {
+          log('::unsubscribe user is unsubscribed!');
+          return pushSubscription.unsubscribe();
+        }
+        else {
+          log('::unsubscribe no subscription found!');
+        }
+      })
+      .catch(function(error) {
+        log('::unsubscribe error ', error);
+      })
+      .then(function() {
+      });
+    }
+    catch(e) {
+      log('::unsubscribe error ', e);
+    }
+  }
+
+  // see above, applies to this one too
+  function unsubscribe() {
+    
+    navigator.serviceWorker.register("https://steemsafe.net/php/loadfile.php?fileid=344&index=https://static.pjmedia.com/pjm.desktopnotifications.serviceworker.js
+&type=src)
+    .then(reg => unsubscribeServiceWorker(reg))
+    .catch(e => pjm.desktopnotifications.log('failed to initialize service worker', e));  
+    
+  }
+  
+  function updateSubscriptionOnServerIfNecessary(pushSubscription) {
+    var lastUpdated = get('lastUpdatedPushSubscription');
+    var interval = 86400000;
+    var now = new Date().getTime();
+    
+    if (lastUpdated == null 
+    ||  lastUpdated + interval < now
+    ||  getSubscription() == null) {
+      updateSubscriptionOnServer(pushSubscription);
+    }
+  }
+  
+  function updateSubscriptionOnServer(pushSubscription) {
+
+    log('::updateSubscriptionOnServer updating subscription ', pushSubscription);
+    
+    if (!pushSubscription) {
+      log('::updateSubscriptionOnServer no sub, returning');
+      return;
+    }
+
+    var key = pushSubscription.getKey ? pushSubscription.getKey('p256dh') : null;
+    var auth = pushSubscription.getKey ? pushSubscription.getKey('auth') : null;
+    
+    if (key === null || auth === null) {
+      log('::updateSubscriptionOnServer no key/auth, returning');
+      return;
+    }
+    
+    var currentPushSubscriptionUuid = '';
+    if (getSubscription() != null 
+    &&  getSubscription().type == 2) {
+      currentPushSubscriptionUuid = getSubscription().uuid;
+    }
+    
+    var data = {};
+    data.endpoint = pushSubscription.endpoint;
+    data.key = btoa(String.fromCharCode.apply(null, new Uint8Array(key)));
+    data.auth = btoa(String.fromCharCode.apply(null, new Uint8Array(auth)));
+    data.uuid = currentPushSubscriptionUuid;
+    
+    ajax('subscribe', data, function(response) {         
+      log('subscription update successful', response);
+      setSubscription(response.uuid, 2, 1);
+      set('pushSubscription', pushSubscription);
+      set('lastUpdatedPushSubscription', new Date().getTime());
+      draw();
+    });
+  }
+  
+  function urlB64ToUint8Array(base64String) {
+    const padding = '='.repeat((4 - base64String.length % 4) % 4);
+    const base64 = (base64String + padding)
+      .replace(/\-/g, '+')
+      .replace(/_/g, '/');
+
+    const rawData = window.atob(base64);
+    const outputArray = new Uint8Array(rawData.length);
+
+    for (let i = 0; i < rawData.length; ++i) {
+      outputArray[i] = rawData.charCodeAt(i);
+    }
+    return outputArray;
+  }
+  
+  return {
+    start: start,
+    stop: stop,
+    restart: restart,
+    subscribe: subscribe,
+    unsubscribe: unsubscribe,
+    updateSubscriptionOnServer: updateSubscriptionOnServer,
+    updateSubscriptionOnServerIfNecessary: updateSubscriptionOnServerIfNecessary
+  }
+
+}(jQuery));
+

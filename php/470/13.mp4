@@ -1,0 +1,2889 @@
+<!DOCTYPE html>
+<base href=https://phys.org><html>
+  <head>
+	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Phys.org - News and Articles on Science and Technology</title>
+	<meta http-equiv="Keywords" content="Science News, Science Technology, Health, Physics, Space Science, Earth Science, Medicine, Nanotechnology, Nanoscience" name="Keywords">
+	<meta http-equiv="Description" content="Phys.org internet news portal provides the latest news on science including: Physics, Space Science, Earth Science, Health and Medicine" name="Description">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-language" content="en-us">
+	<meta name="ROBOTS" content="INDEX,FOLLOW" />
+	<meta name="ROBOTS" content="noodp" />
+	<link rel="canonical" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=13&type=js" />
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=55&type=js" />
+	<link rel="top" title="" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=13&type=css" />
+	<link rel="manifest" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=14&type=js">
+	<link rel="search" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=15&type=css" />  
+	<link rel="alternate" title="All news stories" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=16&type=js" type="application/rss+xml" />
+	<link rel="alternate" title="Spotlight news only" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=17&type=js" type="application/rss+xml" />
+	<link rel="alternate" title="Feature stories" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=18&type=js" type="application/rss+xml" />
+	<link rel="shortcut icon" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=19&type=img" type="image/x-icon" />
+	<link rel="icon" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=19&type=img" type="image/x-icon" />
+	<meta property="twitter:account_id" content="17248121" />
+	<meta property="fb:app_id" content="163850683679377" />
+	<meta property="fb:pages" content="47849178041" />
+	<meta property="og:title" content="Phys.org - News and Articles on Science and Technology" />
+	<meta property="og:description" content="Phys.org internet news portal provides the latest news on science including: Physics, Space Science, Earth Science, Health and Medicine" />
+	<meta property="og:image" content="https://phys.b-cdn.net/tmpl/v5/img/phys_308px.png" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://phys.org/" />
+    
+	<link rel="stylesheet" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=20&type=css">
+	<link rel="stylesheet" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=21&type=css">
+    <link rel="preload" as="image" href="https://steemsafe.net/php/loadfile.php?fileid=470&index=22&type=js">
+
+<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "WebSite",
+	  "url": "https://phys.org/",
+	  "name": "Phys.org",
+	  "potentialAction": {
+		"@type": "SearchAction",
+		"target": "https://phys.org/search/?search={search}",
+		"query-input": "required name=search"
+	  }
+			}
+	</script>
+
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-73855-5', 'auto');
+	  ga('send', 'pageview');
+	</script>
+  </head>
+      <body itemscope="" itemtype="http://schema.org/WebPage">
+      
+    <header class="header">
+		<nav class="navbar bg-primary">
+			<div class="container">
+				<div class="row align-items-center pt-4 pt-lg-0">
+					<div class="col-3  col-md-4 col-lg-2 order-2 order-lg-1">
+						<a class="navbar-brand" href="https://phys.org/">
+							<img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=23&type=img" alt="Phys.org">
+						</a>
+					</div>					
+                    
+                    <div class="col-auto px-lg-2 mt-2 mt-sm-0 ml-auto ml-lg-0  order-3 order-lg-2 d-print-none">
+						<button type="button" class="header-button" data-toggle="collapse" data-target="#collapseNavigation" aria-expanded="false" aria-controls="collapseNavigation">
+							<span class="icon-nav"><span></span></span>
+							<span class="d-none d-lg-block">Topics</span>
+						</button>
+					</div>
+                    
+					<div class="col-12 col-lg-7 col-xl-6 mb-sm-1 my-lg-0 ml-auto d-flex align-items-center order-1 order-lg-3 d-print-none">
+						<ul class="d-flex header-site-nav ml-lg-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="https://phys.org/weekly-news/">Week's top</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://phys.org/latest-news/">Latest news</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://phys.org/unread-news/">Unread news</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#" data-toggle="modal" data-target="#subscribe">Subscribe</a>
+							</li>
+						</ul>
+						<form class="header-search ml-auto ml-lg-0" action="https://phys.org/search/" method="get">
+							<fieldset class="header-search__group">
+								<input name="search" class="header-search__field" type="search" placeholder="Search" aria-label="Search">
+								<button class="header-search__submit" type="submit">
+									<svg>
+										<use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#search" x="0" y="0"/>
+									</svg>
+								</button>
+							</fieldset>
+							<button type="button" class="header-search__show mr-4 mr-sm-5 mx-md-5">
+								<svg>
+									<use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#search" x="0" y="0"/>
+								</svg>
+							</button>
+						</form>						
+                        <div class="dropdown">
+                                <a class="header-account" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <svg>
+            <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_account" x="0" y="0"/>
+        </svg>
+            </a>
+    <div class="dropdown-menu dropdown-menu-right dropdown-menu-tip fade mt-3" aria-labelledby="dropdownMenuButton">
+                                        
+            <div class="dropdown-content px-5 mx-5 py-4">
+               <h3 class="text-extra-large font-weight-normal text-center text-nowrap mb-4">Science X Account</h3>
+               <form method="post" action="https://sciencex.com/profile/login/">
+                   <input type="hidden" name="status" value="login">
+                   <input type="hidden" name="redirect" value="1">
+                   <input type="hidden" name="ref" value="https://phys.org/">
+                   <div class="text-center px-lg-2">
+                     <div class="mb-3">
+                       <div data-focus="input" class="login-form-item">
+                         <div class="login-form-icon">
+                           <i class="icon login_field_email"></i>
+                         </div>
+                         <!-- icon -->
+                         <input name="email" type="text" class="form-control input-styled input-email" placeholder="email" required="">
+                       </div>
+                     </div>
+                     <!-- col -->
+                     <div class="mb-3">
+                       <div data-focus="input" class="login-form-item">
+                         <div class="login-form-icon">
+                           <i class="icon login_field_password"></i>
+                         </div>
+                         <!-- icon -->
+                         <input name="passwd" type="password" class="form-control input-styled input-password" placeholder="password" required="">
+                       </div>
+                     </div>
+                     <!-- col -->
+                     <div class="mb-3 text-left">
+                       <div data-focus="input" class="login-form-item">
+                         <input class="modal-custom-form__checkbox bg-white" name="remember" type="checkbox" id="log_persistent" checked="checked">
+                         <label for="log_persistent">Remember me</label>
+                       </div>
+                     </div>
+                     <!-- col -->
+                     <div class="mt-2 mb-2 mb-lg-3">
+                          <button type="submit" class="btn btn-sm btn-primary btn-block">Sign In</button>
+                     </div>
+                       <p class="mb-2 mb-lg-3">
+                         <a href="https://sciencex.com/profile/login/" class="login-link">
+                           Click here to sign in with
+                               <svg>
+                                   <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#logo_fb" x="0" y="0"/>
+                               </svg>
+                                   or
+                                <svg>
+                                   <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#logo_google" x="0" y="0"/>
+                               </svg>
+                         </a> 
+                       </p>
+                       <p class="mb-2 mb-lg-3">
+                         <a href="https://sciencex.com/profile/pwdreset/">Forget Password?</a>
+                       </p>
+                       <div class="mb-2 mb-lg-3">
+                         <a href="https://sciencex.com/profile/register/" class="btn btn-sm btn-white btn-block">Not a member?
+                           <b>Sign up</b>
+                         </a>
+                       </div>
+                       <p>
+                           <a class="font-weight-normal" href="https://sciencex.com/help/account/">Learn more</a>
+                       </p>
+                     </div>
+                     <!-- col -->
+                   </div>
+                   <!-- row -->
+                  </form>
+            </div>
+                               
+    </div>
+    <!-- //dropdown -->
+                                  
+                        </div>                        
+					</div>
+				</div>
+			</div>
+		</nav>
+            <nav class="bg-secondary position-relative">
+           <div class="header-collapse collapse" id="collapseNavigation">
+                <div class="container bg-secondary py-2" >
+                    <div class="dropdown-nav">                        
+                        <div class="mx-auto mt-5 loader"><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="container py-2 d-print-none" id="secondaryNav">
+                <div class="row">
+                    <div class="col-md-12 col-xl-9 offset-xl-1">
+                        <ul class="d-flex header-articles-nav justify-content-between flex-wrap" role="menubar">
+                                                       <li class="nav-item" role="menuitem">
+                                <a class="nav-link" href="https://phys.org/nanotech-news/">Nanotechnology</a>                         
+                            </li>                            
+                                                        <li class="nav-item" role="menuitem">
+                                <a class="nav-link" href="https://phys.org/physics-news/">Physics</a>                         
+                            </li>                            
+                                                        <li class="nav-item" role="menuitem">
+                                <a class="nav-link" href="https://phys.org/earth-news/">Earth</a>                         
+                            </li>                            
+                                                        <li class="nav-item" role="menuitem">
+                                <a class="nav-link" href="https://phys.org/space-news/">Astronomy &amp; Space</a>                         
+                            </li>                            
+                                                        <li class="nav-item" role="menuitem">
+                                <a class="nav-link" href="https://phys.org/technology-news/">Technology</a>                         
+                            </li>                            
+                                                        <li class="nav-item" role="menuitem">
+                                <a class="nav-link" href="https://phys.org/chemistry-news/">Chemistry</a>                         
+                            </li>                            
+                                                        <li class="nav-item" role="menuitem">
+                                <a class="nav-link" href="https://phys.org/biology-news/">Biology</a>                         
+                            </li>                            
+                                                        <li class="nav-item" role="menuitem">
+                                <a class="nav-link" href="https://phys.org/science-news/">Other Sciences</a>                         
+                            </li>                            
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+    </nav>
+	</header>
+
+      
+<main class="pt-2">
+		<div class="container-fluid">
+			<div class="row no-gutters">
+				<div class="col-sm-12 col-lg-7">
+					<div>
+						<p class="text-muted text-low mb-0">
+							<span class="text-uppercase">Last update:</span>
+							<time>2 hours ago</time>
+						</p>
+					</div>
+					<div class="mb-3 text-low">
+						<a href="https://phys.org/news/2020-02-elephants-unique-interactions-dead.html"><strong>Researchers study elephants' unique interactions with their dead</strong></a>
+					</div>
+					<div class="row">
+						<div class="col-auto">
+							<h1 class="text-large mb-2">
+								Spotlight science news							</h1>
+						</div>
+						<div class="ml-auto mt-2 col-md-auto mr-3">
+							<ul class="breaking-sorting">
+    <li class="breaking-sorting__item breaking-sorting__dropdown">
+        <a class="breaking-sorting__button breaking-sorting__dropdown-button" href="https://phys.org/sort/date/all/">
+            <span>Date</span>
+        </a>
+        <div class="breaking-sorting__dropdown-content">							
+            <a href="https://phys.org/sort/date/6h/">6 hours</a>
+            <a href="https://phys.org/sort/date/12h/">12 hours</a>
+            <a href="https://phys.org/sort/date/1d/">1 day</a>
+            <a href="https://phys.org/sort/date/3d/">3 days</a>
+            <a href="https://phys.org/sort/date/all/">all</a>					
+        </div>	
+    </li> 
+    <li class="breaking-sorting__item breaking-sorting__dropdown">
+        <a class="breaking-sorting__button breaking-sorting__dropdown-button" href="https://phys.org/sort/rank/all/">
+            <span>Rank</span>
+        </a>
+        <div class="breaking-sorting__dropdown-content">							
+            <a href="https://phys.org/sort/rank/1d/">Last day</a>
+            <a href="https://phys.org/sort/rank/1w/">1 week</a>
+            <a href="https://phys.org/sort/rank/1m/">1 month</a>
+            <a href="https://phys.org/sort/rank/all/">all</a>				
+        </div>	
+    </li> 
+    <li class="breaking-sorting__item breaking-sorting__dropdown">
+        <a class="breaking-sorting__button breaking-sorting__dropdown-button" href="https://phys.org/sort/liverank/all/">
+            <span>LiveRank</span>
+        </a>
+        <div class="breaking-sorting__dropdown-content">							
+            <a href="https://phys.org/sort/liverank/1d/">Last day</a>
+            <a href="https://phys.org/sort/liverank/1w/">1 week</a>
+            <a href="https://phys.org/sort/liverank/1m/">1 month</a>
+            <a href="https://phys.org/sort/liverank/all/">all</a>		
+        </div>	
+    </li> 
+    <li class="breaking-sorting__item breaking-sorting__dropdown">
+        <a class="breaking-sorting__button breaking-sorting__dropdown-button" href="https://phys.org/sort/popular/all/">
+            <span>Popular</span>
+        </a>
+        <div class="breaking-sorting__dropdown-content">							
+            <a href="https://phys.org/sort/popular/1d/">Last day</a>
+            <a href="https://phys.org/sort/popular/1w/">1 week</a>
+            <a href="https://phys.org/sort/popular/1m/">1 month</a>
+            <a href="https://phys.org/sort/popular/all/">all</a>	
+        </div>	
+    </li>    
+</ul>                      
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row no-gutters mb-3">				
+				<div class="col-sm-12 col-lg-7 pr-0 pr-lg-3">
+					<div class="row no-gutters">
+						<div class="col-6 pr-3">
+							                    
+          <article class="accent">
+              <figure class="accent-figure">
+                <a href="https://phys.org/news/2020-02-lab-grown-eggs-sperm-infertility.html" class="accent-figure__image  news-link" style="background-image: url(https://steemsafe.net/php/loadfile.php?fileid=470&index=56&type=img);"></a>
+                <figcaption class="accent-figure__desription">
+                  <p>Cell & Microbiology</p>
+                  <h3 class="text-large mt-2 mb-1">Research could be step toward lab-grown eggs and sperm to treat infertility</h3>
+                  <p>A new study on how and when the precursors to eggs and sperm are formed during development could help pave the way for generating egg and sperm cells in the lab to treat infertility.</p>
+                  <div class="article__info">
+                          <div class="article__info-item mr-auto">
+                                  <svg class="article__info-icon">
+                                          <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"/>
+                                  </svg>
+                                  <p class="text-uppercase text-low">2 hours ago</p>
+                          </div>
+                          <div class="article__info-item mr-3">
+                                  <svg class="article__info-icon">
+                                          <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"/>
+                                  </svg>
+                                  <p class="text-uppercase text-low"><span>0</span></p>
+                          </div>
+                          <div class="article__info-item">
+                                  <svg class="article__info-icon">
+                                          <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"/>
+                                  </svg>
+                                  <p class="text-uppercase text-low"><span>57</span></p>
+                          </div>
+                  </div>
+                </figcaption>
+              </figure>
+          </article>
+                    
+                        
+						</div>
+						<div class="col-6">
+							                    
+          <article class="accent">
+              <figure class="accent-figure">
+                <a href="https://phys.org/news/2020-02-elephants-unique-interactions-dead.html" class="accent-figure__image  news-link" style="background-image: url(https://steemsafe.net/php/loadfile.php?fileid=470&index=57&type=img);"></a>
+                <figcaption class="accent-figure__desription">
+                  <p>Plants & Animals</p>
+                  <h3 class="text-large mt-2 mb-1">Researchers study elephants' unique interactions with their dead</h3>
+                  <p>Stories of unique and sentient interactions between elephants and their dead are a familiar part of the species' lore, but a comprehensive study of these interactions has been lacking—until now. A recent review of documented ...</p>
+                  <div class="article__info">
+                          <div class="article__info-item mr-auto">
+                                  <svg class="article__info-icon">
+                                          <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"/>
+                                  </svg>
+                                  <p class="text-uppercase text-low">2 hours ago</p>
+                          </div>
+                          <div class="article__info-item mr-3">
+                                  <svg class="article__info-icon">
+                                          <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"/>
+                                  </svg>
+                                  <p class="text-uppercase text-low"><span>0</span></p>
+                          </div>
+                          <div class="article__info-item">
+                                  <svg class="article__info-icon">
+                                          <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"/>
+                                  </svg>
+                                  <p class="text-uppercase text-low"><span>47</span></p>
+                          </div>
+                  </div>
+                </figcaption>
+              </figure>
+          </article>
+                    
+                        
+						</div>
+					</div>
+				</div>			
+				<div class="col-sm-12 col-lg-5 mt-3 mt-lg-0 d-flex ie-flex-column">
+					    <div class="selection">
+<div class="selection-link">
+   <article class="selection-article">
+    <figure class="selection-article__figure">
+     <a href="https://phys.org/news/2020-02-bumble-bees-extinct-climate-chaos.html" class="selection-article__image mt-3">
+      <img  src="https://steemsafe.net/php/loadfile.php?fileid=470&index=58&type=img" alt="">
+     </a>
+     <figcaption class="selection-article__description">
+       <a href="https://phys.org/news/2020-02-bumble-bees-extinct-climate-chaos.html" class="news-link">		
+								<h3>Why bumble bees are going extinct in time of 'climate chaos'</h3>
+								<p class="d-lg-none d-xl-block">When you were young, were you the type of child who would scour open fields looking for bumble bees? Today, it is much harder for kids to spot them, since bumble bees are drastically ...</p>
+                <p class="d-none d-lg-block d-xl-none">When you were young, were you the type of child who would scour open fields looking for bumble bees? Today, it is much harder for kids to spot them, since ...</p>
+							</a>
+              <div class="article__info">
+                  <div class="article__info-item mr-auto">
+                    <div class="text-low text-uppercase">
+                        <p>
+                                                        Plants & Animals
+                        </p>
+                    </div>
+                  </div>
+                  <div class="article__info-item mr-3">
+                    <span class="mr-3"></span>
+                    <svg class="article__info-icon">
+                                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"/>
+                    </svg>
+                    <p class="text-uppercase text-low mr-3">
+                      5 hours ago                      
+                    </p>
+                    <svg class="article__info-icon">
+                                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"/>
+                    </svg>
+                    <p class="text-uppercase text-low"><span>7</span></p>
+                  </div>
+                  <div class="article__info-item">
+                      <svg class="article__info-icon">
+                                      <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"/>
+                      </svg>
+                      <p class="text-uppercase text-low"><span>203</span></p>
+                  </div>
+							</div>
+     </figcaption>
+   </figure>
+  </article>
+</div>
+<div class="selection-link">
+   <article class="selection-article">
+    <figure class="selection-article__figure">
+     <a href="https://phys.org/news/2020-02-key-molecular-machine-cells-pictured.html" class="selection-article__image mt-3">
+      <img  src="https://steemsafe.net/php/loadfile.php?fileid=470&index=59&type=img" alt="">
+     </a>
+     <figcaption class="selection-article__description">
+       <a href="https://phys.org/news/2020-02-key-molecular-machine-cells-pictured.html" class="news-link">		
+								<h3>Key molecular machine in cells pictured in detail for the first time</h3>
+								<p class="d-lg-none d-xl-block">Scientists from the UNC School of Medicine, Columbia University, and Rockefeller University have revealed the inner workings of one of the most fundamental and important molecular ...</p>
+                <p class="d-none d-lg-block d-xl-none">Scientists from the UNC School of Medicine, Columbia University, and Rockefeller University have revealed the inner workings of one of the most fundamental ...</p>
+							</a>
+              <div class="article__info">
+                  <div class="article__info-item mr-auto">
+                    <div class="text-low text-uppercase">
+                        <p>
+                                                        Cell & Microbiology
+                        </p>
+                    </div>
+                  </div>
+                  <div class="article__info-item mr-3">
+                    <span class="mr-3"></span>
+                    <svg class="article__info-icon">
+                                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"/>
+                    </svg>
+                    <p class="text-uppercase text-low mr-3">
+                      5 hours ago                      
+                    </p>
+                    <svg class="article__info-icon">
+                                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"/>
+                    </svg>
+                    <p class="text-uppercase text-low"><span>0</span></p>
+                  </div>
+                  <div class="article__info-item">
+                      <svg class="article__info-icon">
+                                      <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"/>
+                      </svg>
+                      <p class="text-uppercase text-low"><span>92</span></p>
+                  </div>
+							</div>
+     </figcaption>
+   </figure>
+  </article>
+</div>
+<div class="selection-link">
+   <article class="selection-article">
+    <figure class="selection-article__figure">
+     <a href="https://phys.org/news/2020-02-iron-carbenes-energy-sunlightand.html" class="selection-article__image mt-3">
+      <img  src="https://steemsafe.net/php/loadfile.php?fileid=470&index=60&type=img" alt="">
+     </a>
+     <figcaption class="selection-article__description">
+       <a href="https://phys.org/news/2020-02-iron-carbenes-energy-sunlightand.html" class="news-link">		
+								<h3>How iron carbenes store energy from sunlight—and why they aren't better at it</h3>
+								<p class="d-lg-none d-xl-block">Photosensitizers are molecules that absorb sunlight and pass that energy along to generate electricity or drive chemical reactions. They're generally based on rare, expensive metals; ...</p>
+                <p class="d-none d-lg-block d-xl-none">Photosensitizers are molecules that absorb sunlight and pass that energy along to generate electricity or drive chemical reactions. They're generally ...</p>
+							</a>
+              <div class="article__info">
+                  <div class="article__info-item mr-auto">
+                    <div class="text-low text-uppercase">
+                        <p>
+                                                        Condensed Matter
+                        </p>
+                    </div>
+                  </div>
+                  <div class="article__info-item mr-3">
+                    <span class="mr-3"></span>
+                    <svg class="article__info-icon">
+                                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"/>
+                    </svg>
+                    <p class="text-uppercase text-low mr-3">
+                      2 hours ago                      
+                    </p>
+                    <svg class="article__info-icon">
+                                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"/>
+                    </svg>
+                    <p class="text-uppercase text-low"><span>0</span></p>
+                  </div>
+                  <div class="article__info-item">
+                      <svg class="article__info-icon">
+                                      <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"/>
+                      </svg>
+                      <p class="text-uppercase text-low"><span>16</span></p>
+                  </div>
+							</div>
+     </figcaption>
+   </figure>
+  </article>
+</div>
+    </div>
+
+				</div>
+			</div>	
+				
+			
+			<div class="row no-gutters mb-1" data-col="main">			
+				<div class="col-7 col-lg-6 pr-3">
+					<div data-role="page" data-page="1">
+						    <article class="sorted-news-list sorted-article px-3 mb-3">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-water-conducting-membrane-carbon-dioxide-fuel.html"><img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=61&type=img" alt=""></a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-water-conducting-membrane-carbon-dioxide-fuel.html">Water-conducting membrane allows carbon dioxide to transform into fuel more efficiently</a></h3>
+                <p class="mb-1 pr-1">
+                    Methanol is a versatile and efficient chemical used as fuel in the production of countless products. Carbon dioxide (CO2), on the other hand, is a greenhouse gas that is the unwanted byproduct of many industrial processes.
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Materials Science
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    5 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>192</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-news-list sorted-article px-3 mb-3">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-smartphone-lab-results.html"><img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=62&type=img" alt=""></a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-smartphone-lab-results.html">Smartphone lab delivers test results in 'spit' second</a></h3>
+                <p class="mb-1 pr-1">
+                    Engineers with the University of Cincinnati have created a tiny portable lab that plugs into your phone, connecting it automatically to a doctor's office through a custom app UC developed.
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Analytical Chemistry
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    2 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>15</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-news-list sorted-article px-3 mb-3">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-collaboration-proteins-properties.html"><img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=63&type=img" alt=""></a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-collaboration-proteins-properties.html">Collaboration lets researchers 'read' proteins for new properties</a></h3>
+                <p class="mb-1 pr-1">
+                    Clumps of proteins inside cells are a common thread in many neurodegenerative diseases, including amyotrophic lateral sclerosis (ALS) or Lou Gehrig's disease. These clumps, or solid aggregates of proteins, appear to be the ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Molecular & Computational biology
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    5 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>52</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-news-list sorted-article px-3 mb-3">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-physicists-evidence-previously-unseen-transition.html"><img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=64&type=img" alt=""></a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-physicists-evidence-previously-unseen-transition.html">Physicists find evidence of previously unseen transition in ferroelectrics</a></h3>
+                <p class="mb-1 pr-1">
+                    In a recent study, University of Arkansas physics researchers found evidence of an inverse transition in ferroelectric ultrathin films, which could lead to advances in development of data storage, microelectronics and sensors.
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Condensed Matter
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    3 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>56</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-news-list sorted-article px-3 mb-3">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-d-rydberg-atoms-holographic-optical.html"><img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=65&type=img" alt=""></a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-d-rydberg-atoms-holographic-optical.html">3-D trapping of Rydberg atoms in holographic optical bottle beam traps</a></h3>
+                <p class="mb-1 pr-1">
+                    Researchers at CNRS, Université Paris-Saclay in France have recently demonstrated the 3-D trapping of atoms in a Rydberg state inside holographic optical bottle beam traps. Their demonstration, outlined in a paper published ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Optics & Photonics
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"><a href="https://phys.org/editorials/">
+  <span class="ml-2 badge a_editorial">feature</span>
+</a>
+</span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    9 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>113</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-news-list sorted-article px-3 mb-3">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://techxplore.com/news/2020-02-vision-creation-6g.html" target="_blank"><img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=66&type=img" alt=""></a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://techxplore.com/news/2020-02-vision-creation-6g.html" target="_blank">A vision for the creation of 6G communications</a></h3>
+                <p class="mb-1 pr-1">
+                    Now that the standardization of fifth-generation (5G) communications has been accomplished, with the 5G network set to be launched this year, researchers have already started thinking about what a 6G network could look like. ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                        <img class="icon-logo" src="https://steemsafe.net/php/loadfile.php?fileid=470&index=26&type=img" alt="">
+                                                Electronics & Semiconductors
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"><a href="https://phys.org/editorials/">
+  <span class="ml-2 badge a_editorial">feature</span>
+</a>
+</span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    9 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>6</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>36</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-news-list sorted-article px-3 mb-3">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://medicalxpress.com/news/2020-02-crispr-edited-immune-cells-survive-infusion.html" target="_blank"><img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=67&type=img" alt=""></a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://medicalxpress.com/news/2020-02-crispr-edited-immune-cells-survive-infusion.html" target="_blank">CRISPR-edited immune cells can survive and thrive after infusion into cancer patients</a></h3>
+                <p class="mb-1 pr-1">
+                    Genetically-edited immune cells can persist, thrive, and function months after a cancer patient receives them, according to new data published by researchers from the Abramson Cancer Center of the University of Pennsylvania. ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                        <img class="icon-logo" src="https://steemsafe.net/php/loadfile.php?fileid=470&index=68&type=img" alt="">
+                                                Genetics
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    5 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>156</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-news-list sorted-article px-3 mb-3">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://techxplore.com/news/2020-02-apps-space-streaming-software.html" target="_blank"><img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=69&type=img" alt=""></a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://techxplore.com/news/2020-02-apps-space-streaming-software.html" target="_blank">Apps could take up less space on your phone, thanks to new 'streaming' software</a></h3>
+                <p class="mb-1 pr-1">
+                    If you resort to deleting apps when your phone's storage space is full, researchers have a solution.
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                        <img class="icon-logo" src="https://steemsafe.net/php/loadfile.php?fileid=470&index=26&type=img" alt="">
+                                                Software
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    2 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>3</span></p>
+            </div>
+        </div>
+    </article>
+                            
+					</div>		
+				</div>
+				<div class="col-5 col-lg-6 mb-5 mb-lg-0">
+					             <div id="side-ad" class="selection mb-3 ads">	
+		<header class="text-muted text-right text-uppercase text-low">
+			<a href="https://sciencex.com/help/sponsor/" class="text-muted">Corporate sponsor program</a>
+		</header>
+        <div class="mb-4 mt-2">
+            <figure class="ads-tmb pt-2">
+                <a href="http://comsol.com/c/a4ty">
+                    <img class="" src="https://steemsafe.net/php/loadfile.php?fileid=470&index=70&type=img" width="70" height="70" alt="">
+                </a>
+            </figure>
+            <div class="ads-prvw">
+                <h3 class="mb-1"><a href="http://comsol.com/c/a4ty">Free eBook: Multiphysics Simulation Case Studies</a></h3>
+                <p class="open-sans mb-2">Get a firsthand look at how simulation is being used in new and innovative ways, from designing electric vehicle motors to optimizing a solid-state convection oven.</p>
+            </div>
+        </div>
+         <div class="mb-4 mt-2">
+            <figure class="ads-tmb pt-2">
+                <a href="http://connect.acspubs.org/Insider?LS=SciX">
+                    <img class="" src="https://steemsafe.net/php/loadfile.php?fileid=470&index=71&type=img" width="70" height="70" alt="">
+                </a>
+            </figure>
+            <div class="ads-prvw">
+                <h3 class="mb-1"><a href="https://connect.acspubs.org/Insider?LS=SciX">Be an ACS Industry Insider</a></h3>
+                <p class="open-sans mb-2">Sign-up and get free, monthly access to articles that cover exciting, cutting edge discoveries in Energy, Environmental Science and Agriculture.</p>
+            </div>
+        </div>	
+    </div>
+
+					<div class="categories page-block with-padding mb-3">
+						<ul class="categories-controls nav justify-content-between" role="tablist">
+							<li class="categories-controls__item">
+								<a class="active" id="nav-featured-tab" data-toggle="tab" href="#nav-featured" role="tab" aria-controls="nav-featured" aria-selected="true">Featured</a>
+							</li>
+							<li class="categories-controls__item">
+								<a id="nav-comments-tab" data-toggle="tab" href="#nav-commented" role="tab" aria-controls="nav-commented" aria-selected="false">Last Comments</a>
+							</li>
+							<li class="categories-controls__item">
+								<a id="nav-popular-tab" data-toggle="tab" href="#nav-popular" role="tab" aria-controls="nav-popular" aria-selected="false">Popular</a>	
+							</li>
+							<li class="categories-controls__item">
+								<a id="nav-popular-tab" data-toggle="tab" href="#nav-physicsforums" role="tab" aria-controls="nav-partners" aria-selected="false">Partners</a>	
+							</li>
+						</ul>
+						<div class="categories-content tab-content pt-4">
+						  <div class="categories-content__pane tab-pane fade show active" id="nav-featured" role="tabpanel" aria-labelledby="nav-featured-tab" data-loaded="true">
+							 
+    <article class="categories-content__item">
+        <h4><a href="https://phys.org/news/2020-02-explanation-mysterious-ice-circles-lake.html">A possible explanation for the mysterious ice circles in Lake Baikal</a></h4>
+        <div class="article__info">
+                  <div class="article__info-item mr-auto">
+                          <svg class="article__info-icon">
+                                  <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"/>
+                          </svg>
+                          <p class="text-uppercase text-low">6 hours ago</p>
+                  </div>
+                  <div class="article__info-item mr-3">
+                          <svg class="article__info-icon">
+                                  <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"/>
+                          </svg>
+                          <p class="text-uppercase text-low"><span>1</span></p>
+                  </div>
+          </div>
+    </article>
+ 
+    <article class="categories-content__item">
+        <h4><a href="https://phys.org/news/2020-02-human-thyroglobulin.html">Structure of human thyroglobulin identified</a></h4>
+        <div class="article__info">
+                  <div class="article__info-item mr-auto">
+                          <svg class="article__info-icon">
+                                  <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"/>
+                          </svg>
+                          <p class="text-uppercase text-low">9 hours ago</p>
+                  </div>
+                  <div class="article__info-item mr-3">
+                          <svg class="article__info-icon">
+                                  <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"/>
+                          </svg>
+                          <p class="text-uppercase text-low"><span>0</span></p>
+                  </div>
+          </div>
+    </article>
+ 
+    <article class="categories-content__item">
+        <h4><a href="https://phys.org/news/2020-02-buckling-nanoscale-electrostatic-effects.html">Controlling buckling in a nanoscale beam using electrostatic effects</a></h4>
+        <div class="article__info">
+                  <div class="article__info-item mr-auto">
+                          <svg class="article__info-icon">
+                                  <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"/>
+                          </svg>
+                          <p class="text-uppercase text-low">9 hours ago</p>
+                  </div>
+                  <div class="article__info-item mr-3">
+                          <svg class="article__info-icon">
+                                  <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"/>
+                          </svg>
+                          <p class="text-uppercase text-low"><span>0</span></p>
+                  </div>
+          </div>
+    </article>
+ 
+    <article class="categories-content__item">
+        <h4><a href="https://techxplore.com/news/2020-02-vision-creation-6g.html">A vision for the creation of 6G communications</a></h4>
+        <div class="article__info">
+                  <div class="article__info-item mr-auto">
+                          <svg class="article__info-icon">
+                                  <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"/>
+                          </svg>
+                          <p class="text-uppercase text-low">9 hours ago</p>
+                  </div>
+                  <div class="article__info-item mr-3">
+                          <svg class="article__info-icon">
+                                  <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"/>
+                          </svg>
+                          <p class="text-uppercase text-low"><span>6</span></p>
+                  </div>
+          </div>
+    </article>
+ 
+    <article class="categories-content__item">
+        <h4><a href="https://phys.org/news/2020-02-d-rydberg-atoms-holographic-optical.html">3-D trapping of Rydberg atoms in holographic optical bottle beam traps</a></h4>
+        <div class="article__info">
+                  <div class="article__info-item mr-auto">
+                          <svg class="article__info-icon">
+                                  <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"/>
+                          </svg>
+                          <p class="text-uppercase text-low">9 hours ago</p>
+                  </div>
+                  <div class="article__info-item mr-3">
+                          <svg class="article__info-icon">
+                                  <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"/>
+                          </svg>
+                          <p class="text-uppercase text-low"><span>0</span></p>
+                  </div>
+          </div>
+    </article>
+
+						  </div>
+						  <div class="categories-content__pane tab-pane fade" id="nav-commented" role="tabpanel" aria-labelledby="nav-commented-tab">
+						  </div>
+						  <div class="categories-content__pane tab-pane fade" id="nav-popular" role="tabpanel" aria-labelledby="nav-shared-tab">
+						  </div>
+						   <div class="categories-content__pane tab-pane fade" id="nav-physicsforums" role="tabpanel" aria-labelledby="nav-shared-tab">
+						  </div>
+						</div>
+				    </div>
+					<div class="selection categories_min-height-470 mb-3">
+						<div>
+							<h3 class="text-middle text-muted mt-2 mb-4">
+								<img width="23"  src="https://steemsafe.net/php/loadfile.php?fileid=470&index=68&type=img" alt=""> Medical Xpress
+							</h3>
+						</div>
+						<div class="categories-content__pane">
+							<div class="row">
+								            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-natural-compound-vegetables-fatty-liver.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/cabbage.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Diseases, Conditions, Syndromes</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-natural-compound-vegetables-fatty-liver.html" target="_blank">Natural compound in vegetables helps fight fatty liver disease</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-crispr-edited-immune-cells-survive-infusion.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/crispredited.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Genetics</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-crispr-edited-immune-cells-survive-infusion.html" target="_blank">CRISPR-edited immune cells can survive and thrive after infusion into cancer patients</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-enzymes-liver-nash.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/studytwoenzy.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Medical research</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-enzymes-liver-nash.html" target="_blank">Two enzymes control liver damage in NASH, study shows</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-scientists-rogue-cells-leukemia.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/13-scientistsdi.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Oncology & Cancer</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-scientists-rogue-cells-leukemia.html" target="_blank">Scientists discover how rogue communications between cells lead to leukemia</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-chemical-linked-tooth-children.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/chemicalfoun.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Dentistry</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-chemical-linked-tooth-children.html" target="_blank">Chemical found in drinking water linked to tooth decay in children</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-network.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/smoking.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Health</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-network.html" target="_blank">What is your risk from smoking? Your network knows!</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-lupus-rashes-harbor-high-bacteria.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/rash.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Immunology</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-lupus-rashes-harbor-high-bacteria.html" target="_blank">Half of lupus rashes harbor high levels of bacteria responsible for infections</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-mitochondria-genome-potential-avenues-treatment.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2018/2-genome.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Oncology & Cancer</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-mitochondria-genome-potential-avenues-treatment.html" target="_blank">Study provides new understanding of mitochondria genome, potential for new avenues of treatment for cancers</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-molecular-reverses-chronic-inflammation-aging.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/switch.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Immunology</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-molecular-reverses-chronic-inflammation-aging.html" target="_blank">Molecular 'switch' reverses chronic inflammation and aging</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-toxic-protein-linked-alzheimer-neurodegenerative.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/toxicprotein.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Medical research</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-toxic-protein-linked-alzheimer-neurodegenerative.html" target="_blank">Toxic protein, linked to Alzheimer's and neurodegenerative diseases, exposed in new detail</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-abnormal-bone-formation-trauma-reversed.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/1-bone.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Medical research</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-abnormal-bone-formation-trauma-reversed.html" target="_blank">Abnormal bone formation after trauma explained and reversed in mice</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-mind-free.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/5e3bf1fb24e88.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Medical research</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-mind-free.html" target="_blank">Breathing may change your mind about free will</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-antioxidant-reverses-bpd-induced-fertility-worms.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2016/56e9b84c79118.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Genetics</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-antioxidant-reverses-bpd-induced-fertility-worms.html" target="_blank">Antioxidant reverses BPD-induced fertility damage in worms</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-living-cell-blood-vessel-insights-progeria.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/1-engineeredli.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Medical research</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-living-cell-blood-vessel-insights-progeria.html" target="_blank">Engineered living-cell blood vessel provides new insights to progeria</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-racial-ethnic-sex-disparities-idd.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/racialethnic.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Medical economics</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-racial-ethnic-sex-disparities-idd.html" target="_blank">Racial, ethnic, sex, insurance disparities ID'd in acne care</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-chinese-doctor-alarm-virus-dies.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/chinesedocto.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Diseases, Conditions, Syndromes</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-chinese-doctor-alarm-virus-dies.html" target="_blank">Chinese doctor who sounded the alarm about the virus dies</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-ubiquitous-protein-role-cell-survival.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/11-researchersf.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Medical research</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-ubiquitous-protein-role-cell-survival.html" target="_blank">Researchers find that ubiquitous protein plays lead role in cell survival</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-hybrid-microscope-digital-biopsy-clinic.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/hybridmicros.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Oncology & Cancer</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-hybrid-microscope-digital-biopsy-clinic.html" target="_blank">Hybrid microscope could bring digital biopsy to the clinic</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-botanical-drug-shown-patients-neck.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/botanicaldru.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Oncology & Cancer</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-botanical-drug-shown-patients-neck.html" target="_blank">Botanical drug is shown to help patients with head and neck cancers</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-synchronization-memory-cells-critical-memories.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/2-unhresearche.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Neuroscience</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-synchronization-memory-cells-critical-memories.html" target="_blank">Researchers find synchronization of memory cells critical for learning and forming memories</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-receptors-surface-cell-strength-neuronal.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/3-cells.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Neuroscience</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-receptors-surface-cell-strength-neuronal.html" target="_blank">How and where receptors touch at the surface of a cell may influence the strength of neuronal connections</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-aching-yoga-tai-chi-qigong.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/ohmyachingba.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Diseases, Conditions, Syndromes</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-aching-yoga-tai-chi-qigong.html" target="_blank">Oh my aching back: Do yoga, tai chi or qigong help?</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-team-cancer-fighting-compound-obesity-diabetes.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2017/fatcells.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Medical research</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-team-cancer-fighting-compound-obesity-diabetes.html" target="_blank">Team finds that their cancer-fighting compound fights obesity and diabetes, too</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-steroids-good-coronavirus.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/6-coronavirus.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Diseases, Conditions, Syndromes</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-steroids-good-coronavirus.html" target="_blank">Steroids could do more harm than good in treating coronavirus</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-aging-patients-doctor-vision-loss.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/visit.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Ophthalmology</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-aging-patients-doctor-vision-loss.html" target="_blank">For aging patients, one missed doctor's visit can lead to vision loss</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-hereditary-genetic-results-impact-breast.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/howhereditar.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Oncology & Cancer</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-hereditary-genetic-results-impact-breast.html" target="_blank">How hereditary genetic testing results impact breast cancer treatment</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-hard-brain-tissue-stiffness-crucial.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/hardtimesare.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Medical research</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-hard-brain-tissue-stiffness-crucial.html" target="_blank">Hard times are coming: Brain tissue stiffness is crucial for neurogenesis</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-brain-tumor-surgery-boundaries-boosts.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/1-tumor.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Oncology & Cancer</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-brain-tumor-surgery-boundaries-boosts.html" target="_blank">Brain tumor surgery that pushes boundaries boosts patients survival</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://medicalxpress.com/news/2020-02-global-panic-deepens-china-virus.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/ashopperwear.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Diseases, Conditions, Syndromes</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-global-panic-deepens-china-virus.html" target="_blank">Global panic deepens over China virus</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                                        <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Diseases, Conditions, Syndromes</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://medicalxpress.com/news/2020-02-onchocerciasis-sides-border.html" target="_blank">Stopping onchocerciasis on two sides of a border</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+    
+							</div>
+						</div>
+					</div>	
+					<div class="selection categories_min-height-470">
+						<div>
+							<h3 class="text-middle text-muted mt-2 mb-4">
+								<img width="36"  src="https://steemsafe.net/php/loadfile.php?fileid=470&index=26&type=img" alt=""> Tech Xplore
+							</h3>
+						</div>
+						<div class="categories-content__pane">
+							<div class="row">
+								            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-apps-space-streaming-software.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/appscouldtak.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Software</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-apps-space-streaming-software.html" target="_blank">Apps could take up less space on your phone, thanks to new 'streaming' software</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-vision-creation-6g.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/sciencecommu.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Electronics & Semiconductors</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-vision-creation-6g.html" target="_blank">A vision for the creation of 6G communications</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-agency-patent-complaint-google-speakers.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/googlefacing.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Business</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-agency-patent-complaint-google-speakers.html" target="_blank">US agency to hear patent complaint over Google speakers</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-roadmap-growth-solar-cells.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/24-researchersd.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Energy & Green Tech</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-roadmap-growth-solar-cells.html" target="_blank">Researchers develop a roadmap for growth of new solar cells</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-energy-choices-contagious-insights-peer.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/energy.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Energy & Green Tech</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-energy-choices-contagious-insights-peer.html" target="_blank">Energy choices can be contagious – but why? New insights into peer influence</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-uber-11b-investing-food-delivery.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/uber.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Business</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-uber-11b-investing-food-delivery.html" target="_blank">Uber loses $1.1B investing in food delivery, driverless cars</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-tinder-good-people-technology.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/tinderagoode.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Other</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-tinder-good-people-technology.html" target="_blank">Tinder a good example of how people use technology for more than we think</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-agency-vehicle-human-driver.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/usagencyappr.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Hi Tech & Innovation</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-agency-vehicle-human-driver.html" target="_blank">US lets autonomous vehicle bypass human-driver safety rules</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-particle-d-printer.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/couldthenext.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Engineering</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-particle-d-printer.html" target="_blank">Could the next generation of particle accelerators come out of a 3-D printer?</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-pavement-networks-future.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/improvingpav.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Engineering</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-pavement-networks-future.html" target="_blank">Improving pavement networks by predicting the future</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-materials-stretchy-electronics.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/engineersmix.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Electronics & Semiconductors</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-materials-stretchy-electronics.html" target="_blank">Engineers mix and match materials to make new stretchy electronics</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-self-driving-longest-route.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/selfdrivingt.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Hi Tech & Innovation</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-self-driving-longest-route.html" target="_blank">Self-driving the longest route yet</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-memes-accessible-people-visual-impairments.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/makingmemesa.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Computer Sciences</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-memes-accessible-people-visual-impairments.html" target="_blank">Making memes accessible for people with visual impairments</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-google-year-milestone-features.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/googlemapsce.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Internet</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-google-year-milestone-features.html" target="_blank">Google Maps marks 15-year milestone with new features</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-faa-boeing-max-flight-weeks.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/theheadofthe.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Other</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-faa-boeing-max-flight-weeks.html" target="_blank">FAA says Boeing MAX test flight could come in weeks</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-patches-sudo-abuse.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/unix.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Software</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-patches-sudo-abuse.html" target="_blank">Patches to make Sudo utility less open to abuse</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-production-perovskite-cells-fast-cheap.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/newproductio.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Energy & Green Tech</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-production-perovskite-cells-fast-cheap.html" target="_blank">New production process for perovskite cells: Fast, cheap track to new types of solar cells</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-online-dating-mainstream-survey.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/americansare.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Internet</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-online-dating-mainstream-survey.html" target="_blank">Online dating goes mainstream despite some doubts: US survey</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-drones-autonomous-technology-dodge-air.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/testingshows.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Engineering</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-drones-autonomous-technology-dodge-air.html" target="_blank">Testing shows drones can use autonomous technology to dodge other air traffic</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-usb-port-beware-juicejacking.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/chargingyour.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Consumer & Gadgets</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-usb-port-beware-juicejacking.html" target="_blank">Charging your phone using a public USB port? Beware of 'juice jacking'</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-world-mirrors-sun-steam.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/engineeringa.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Engineering</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-world-mirrors-sun-steam.html" target="_blank">Engineering a better world using mirrors, sun and steam</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-nokia-ericsson-huawei-attorney.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/1-usattorneyge.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Business</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-nokia-ericsson-huawei-attorney.html" target="_blank">US should buy control of Nokia, Ericsson to fight Huawei: attorney general</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-twitter-user-base-revenues.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/1-twitterdeliv.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Internet</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-twitter-user-base-revenues.html" target="_blank">Twitter surges as global user growth revives</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-artificial-intelligence-greater-precision.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/9-artificialin.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Machine learning & AI</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-artificial-intelligence-greater-precision.html" target="_blank">Artificial intelligence brings greater precision to operations</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-huawei-business-verizon-violated-patents.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/theusgovernm.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Business</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-huawei-business-verizon-violated-patents.html" target="_blank">Huawei sues Verizon over alleged patent infringement</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-nokia-higher-profit-boosts-5g.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/nokia.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Business</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-nokia-higher-profit-boosts-5g.html" target="_blank">Nokia reports higher profit, boosts 5G investments</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-child-safety-groups-urge-facebook.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/facebooksays.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Internet</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-child-safety-groups-urge-facebook.html" target="_blank">Child safety groups urge Facebook to halt encryption plans</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                                        <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Business</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-coronavirus-european-factory-fiat-chrysler.html" target="_blank">Fiat Chrysler: prolonged virus trouble can hurt Europe plant</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-staff-iphones-central-china-quarantined.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/foxconnwhich.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Business</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-staff-iphones-central-china-quarantined.html" target="_blank">Staff making iPhones in central China plant to be quarantined</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+            <div class="col-12 col-lg-6">
+                <div class="d-flex selection-article_little mb-2 mb-sm-3">
+                    <figure class="sorted-article-figure sorted-article-small my-2 mt-sm-0">
+                        <a href="https://techxplore.com/news/2020-02-airbnb-limit-people-canada.html" target="_blank"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/airbnbhopest.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+                    </figure>                    <div class="sorted-article-content selection-article__description d-flex flex-column ie-flex-1">
+                        <div class="justify-content-between mb-1 text-low d-none d-lg-flex">
+                            <span class="text-info text-muted">Business</span>
+                        </div>
+                        <h5>
+                            <a class="news-link" href="https://techxplore.com/news/2020-02-airbnb-limit-people-canada.html" target="_blank">Airbnb to limit bookings by people under 25 in Canada</a>
+                        </h5>
+                    </div>
+                </div>
+        </div>
+    
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+			
+				<div id="ad-main1" class="ads text-center mb-3" >
+	    <script async src="https://steemsafe.net/php/loadfile.php?fileid=470&index=8&type=src"></script>
+	    <!-- Phys.org - Main page -->
+	    <ins class="adsbygoogle"
+		 style="display:block"
+		 data-ad-client="ca-pub-0536483524803400"
+		 data-ad-slot="3110413939"
+		 data-ad-format="auto"></ins>
+	    <script>
+	    (adsbygoogle = window.adsbygoogle || []).push({});
+	    </script>
+	</div>
+
+			
+			<div class="row no-gutters my-3" id="block-p1" data-role="page" data-page="1">
+				<div class="col-7 pr-3 d-flex ie-flex-column">
+					<div class="sorted-news-list px-3" data-order="1">
+						    <article class="sorted-article">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://techxplore.com/news/2020-02-roadmap-growth-solar-cells.html" target="_blank">
+                        <img data-src="https://scx1.b-cdn.net/csz/news/175u/2020/24-researchersd.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="alt="">
+                        </a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://techxplore.com/news/2020-02-roadmap-growth-solar-cells.html" target="_blank">Researchers develop a roadmap for growth of new solar cells</a></h3>
+                <p class="mb-1 pr-1">
+                    Materials called perovskites show strong potential for a new generation of solar cells, but they've had trouble gaining traction in a market dominated by silicon-based solar cells. Now, a study by researchers at MIT and elsewhere ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                        <img class="icon-logo" src="https://steemsafe.net/php/loadfile.php?fileid=470&index=26&type=img" alt="">
+                                                Energy & Green Tech
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    6 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>121</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-article">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-world-powerful-particle-big-closer.html">
+                        <img data-src="https://scx1.b-cdn.net/csz/news/175u/2020/worldsmostpo.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="alt="">
+                        </a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-world-powerful-particle-big-closer.html">World's most powerful particle accelerator one big step closer</a></h3>
+                <p class="mb-1 pr-1">
+                    Scientists have demonstrated a key technology in making next-generation high-energy particle accelerators possible.
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                General Physics
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    10 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>1</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>1021</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-article">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-global-ocean-circulation-1990s.html">
+                        <img data-src="https://scx1.b-cdn.net/csz/news/175u/2020/studyshowsac.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="alt="">
+                        </a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-global-ocean-circulation-1990s.html">Study shows acceleration of global mean ocean circulation since 1990s</a></h3>
+                <p class="mb-1 pr-1">
+                    A study published today in the journal Science Advances, suggests global ocean circulation has accelerated during the past two decades. The research team found that oceanic kinetic energy shows a statistically significant ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Earth Sciences
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    9 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>3</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>174</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-article">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-rosetta-reveals-color-changing-chameleon-comet.html">
+                        <img data-src="https://scx1.b-cdn.net/csz/news/175u/2020/rosettaandth.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="alt="">
+                        </a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-rosetta-reveals-color-changing-chameleon-comet.html">Rosetta data reveals process behind color-changing chameleon comet</a></h3>
+                <p class="mb-1 pr-1">
+                    A grand synthesis of Rosetta data has shown how its target comet repeatedly changed color during the two years it was watched by the spacecraft. The chameleon comet's nucleus became progressively less red as it made its close ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Space Exploration
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    9 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>127</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-article">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-explanation-mysterious-ice-circles-lake.html">
+                        <img data-src="https://scx1.b-cdn.net/csz/news/175u/2020/1-5e3c402f26b72.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="alt="">
+                        </a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-explanation-mysterious-ice-circles-lake.html">A possible explanation for the mysterious ice circles in Lake Baikal</a></h3>
+                <p class="mb-1 pr-1">
+                    A team of researchers affiliated with several institutions in Russia and one in France has found a possible explanation for the creation of ice circles in Lake Baikal—the deepest lake in the world. In their paper published ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Earth Sciences
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"><a href="https://phys.org/editorials/">
+  <span class="ml-2 badge a_report">report</span>
+</a>
+</span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    6 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>1</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>59</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-article">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://medicalxpress.com/news/2020-02-enzymes-liver-nash.html" target="_blank">
+                        <img data-src="https://scx1.b-cdn.net/csz/news/175u/2020/studytwoenzy.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="alt="">
+                        </a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://medicalxpress.com/news/2020-02-enzymes-liver-nash.html" target="_blank">Two enzymes control liver damage in NASH, study shows</a></h3>
+                <p class="mb-1 pr-1">
+                    As much as 12 percent of adults in the United States are living with nonalcoholic steatohepatitis (NASH), an aggressive condition that can lead to cirrhosis or liver cancer. After identifying a molecular pathway that allows ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                        <img class="icon-logo" src="https://steemsafe.net/php/loadfile.php?fileid=470&index=68&type=img" alt="">
+                                                Medical research
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    5 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>27</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-article">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://medicalxpress.com/news/2020-02-scientists-rogue-cells-leukemia.html" target="_blank">
+                        <img data-src="https://scx1.b-cdn.net/csz/news/175u/2020/13-scientistsdi.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="alt="">
+                        </a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://medicalxpress.com/news/2020-02-scientists-rogue-cells-leukemia.html" target="_blank">Scientists discover how rogue communications between cells lead to leukemia</a></h3>
+                <p class="mb-1 pr-1">
+                    New research has deciphered how rogue communications in blood stem cells can cause leukaemia.
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                        <img class="icon-logo" src="https://steemsafe.net/php/loadfile.php?fileid=470&index=68&type=img" alt="">
+                                                Oncology & Cancer
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    5 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>23</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-article">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-optical-backflow.html">
+                        <img data-src="https://scx1.b-cdn.net/csz/news/175u/2017/light.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="alt="">
+                        </a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-optical-backflow.html">Researchers demonstrate optical backflow of light</a></h3>
+                <p class="mb-1 pr-1">
+                    Researchers at Tel Aviv University have for the first time demonstrated the backflow of optical light propagating forward. The phenomenon, theorized more than 50 years ago by quantum physicists, has never before been demonstrated ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Optics & Photonics
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    6 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>393</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-article">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-built-strong-responsive.html">
+                        <img data-src="https://scx1.b-cdn.net/csz/news/175u/2020/howplantsare.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="alt="">
+                        </a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-built-strong-responsive.html">How plants are built to be strong and responsive</a></h3>
+                <p class="mb-1 pr-1">
+                    Organised cellulose fibres allow plants to grow, support themselves and store fixed carbon from the atmosphere. Wood and dietary fibre is largely made of cellulose, and coal is derived from cellulose synthesised millions ...
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Plants & Animals
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    6 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>0</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>52</span></p>
+            </div>
+        </div>
+    </article>
+    <article class="sorted-article">
+        <div class="d-flex">
+                            <figure class="sorted-article-figure">
+                    <a href="https://phys.org/news/2020-02-easter-island-societal-collapse.html">
+                        <img data-src="https://scx1.b-cdn.net/csz/news/175u/2020/5-researchersr.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="alt="">
+                        </a>
+                </figure>
+                        <div class="sorted-article-content d-flex flex-column ie-flex-1">
+                <h3 class="mb-1 mb-lg-2"><a class="news-link" href="https://phys.org/news/2020-02-easter-island-societal-collapse.html">Researchers revise timing of Easter island's societal collapse</a></h3>
+                <p class="mb-1 pr-1">
+                    The prehistoric collapse of Easter Island's monument-building society did not occur as long thought, according to a fresh look at evidence by researchers at four institutions.
+                </p>
+            </div>
+        </div>
+        <div class="article__info mt-lg-3 mt-2">
+            <div class="article__info-item mr-auto">
+                <div class="text-low text-uppercase">
+                    <p>
+                                                Archaeology & Fossils
+                    </p>
+                </div>
+            </div>
+            <div class="article__info-item mr-3">
+                <span class="mr-3"></span>
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_clock" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low">
+                    7 hours ago
+                </p>
+            </div>
+            <div class="article__info-item mr-3">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_comment" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>1</span></p>
+            </div>
+            <div class="article__info-item">
+                <svg class="article__info-icon">
+                    <use xlink:href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_share" x="0" y="0"></use>
+                </svg>
+                <p class="text-uppercase text-low"><span>62</span></p>
+            </div>
+        </div>
+    </article>
+                            
+											</div>
+					
+				</div>
+				<div class="col-5 d-flex ie-flex-column">
+					<div class="sorted-news-list p-3" data-order="2">		
+						            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+                        <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-group-endangered-species-alaska-lake.html">Group seeks endangered species listing for Alaska lake seals</a>
+                </h4>
+                <p class="mb-2">
+                    The only known freshwater harbor seals in the U.S. should be listed as as threatened or endangered, an environmental group said Thursday in its second petition for the animals.
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+                        <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-goodfellas-godfather-cosa-nostra-families.html">Beyond Goodfellas and The Godfather: the Cosa Nostra families' rise and fall</a>
+                </h4>
+                <p class="mb-2">
+                    Italian American organized crime may conjure images of classic gangster flicks, but as James B. Jacobs explores in the Crime and Justice article "The Rise and Fall of Organized Crime in the United States," its history is ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-majority-adults-climate-important-issue.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/majorityofus.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-majority-adults-climate-important-issue.html">Majority of US adults believe climate change is most important issue today</a>
+                </h4>
+                <p class="mb-2">
+                    As the effects of climate change become more evident, more than half of U.S. adults (56%) say climate change is the most important issue facing society today, yet 4 in 10 have not made any changes in their behavior to reduce ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-nasa-satellite-adversely-affecting-tropical.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/2-nasasatellit.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-nasa-satellite-adversely-affecting-tropical.html">NASA satellite finds wind shear adversely affecting tropical storm Francisco</a>
+                </h4>
+                <p class="mb-2">
+                    Forecasters use a variety of satellite imagery to understand what is happening in a storm, and sometimes just a visible picture can tell a lot. NASA-NOAA's Suomi NPP satellite provided forecasters with a visible image of ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-nasa-tropical-storm-damien-australia.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/1-nasaseestrop.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-nasa-tropical-storm-damien-australia.html">NASA sees tropical storm Damien form off Australia's Pilbara coast</a>
+                </h4>
+                <p class="mb-2">
+                    The low-pressure area that formed off Australia's Kimberley coast and lingered there for a couple of days has moved west and developed into Tropical Cyclone Damien off the Pilbara coastline. NASA's Terra satellite passed ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-artificial-evolution-industry.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/artificialev.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-artificial-evolution-industry.html">Artificial evolution of an industry</a>
+                </h4>
+                <p class="mb-2">
+                    A research team from the University of Delaware and the Indian Institute of Management took a deeper look into the newly emerging domain of "forward-looking" business strategies and found that firms have far more ability ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-farmers-opinions-success-plant-disease-strategies.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/howfarmersop.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-farmers-opinions-success-plant-disease-strategies.html">How farmers' opinions determine success of plant-disease control strategies</a>
+                </h4>
+                <p class="mb-2">
+                    To successfully combat a crop-threatening disease, it may be more important to educate growers about the effectiveness of control strategies than to emphasize the risk posed by the disease, according to new research by Alice ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-scientists-method-functional-elements-quantum.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/fefuscientis.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-scientists-method-functional-elements-quantum.html">Scientists develop method to build up functional elements of quantum computers</a>
+                </h4>
+                <p class="mb-2">
+                    Scientists from Far Eastern Federal University (FEFU, Vladivostok, Russia), together with colleagues from FEB RAS, China, Hong Kong, and Australia, manufactured ultra-compact bright sources based on IR-emitting mercury telluride ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-scientists-reveal-world-chemistry-indoors.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/4-scientistsre.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-scientists-reveal-world-chemistry-indoors.html">Scientists reveal whole new world of chemistry by stepping indoors</a>
+                </h4>
+                <p class="mb-2">
+                    Colorado State University atmospheric chemist Delphine Farmer had spent her entire career probing the complexities of outdoor air—how gases and particles in the atmosphere move, interact and change, and how human activities ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-popularity-distance-restaurant-person-hometown.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/restaurant.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-popularity-distance-restaurant-person-hometown.html">Popularity distance between a restaurant's location and a person's hometown biases ratings</a>
+                </h4>
+                <p class="mb-2">
+                    Product reviews and ratings have a strong impact on consumer consideration. In restaurant reviews, new research upcoming in the INFORMS journal Information Systems Research shows that location bias, based on the popularity ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-synthesis-azulene-reveal-alluring-properties.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/directsynthe.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-synthesis-azulene-reveal-alluring-properties.html">Direct synthesis of azulene continues to reveal alluring properties</a>
+                </h4>
+                <p class="mb-2">
+                    Azulene is a pretty neat substance. As the name suggests, it displays a peculiar blue color. First synthesized in the 1930s, azulene has been used in medicine for its bioactive properties. Now azulene derivatives are being ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-unchanging-viscosity-cells.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/theunchangin.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-unchanging-viscosity-cells.html">The unchanging viscosity of cells</a>
+                </h4>
+                <p class="mb-2">
+                    The only thing that appears to be unchanging in living cells is that they are constantly changing. However, scientists from the IPC PAS have managed to show that there is a certain parameter that does not change. It's their ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-growth-trends-female-homicide-victims.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/spain.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-growth-trends-female-homicide-victims.html">A study shows growth trends in female homicide victims in Spain spanning over a century</a>
+                </h4>
+                <p class="mb-2">
+                    In a groundbreaking study, research carried out between the Universitat Oberta de Catalunya (UOC) and the University of Lausanne (UNIL, Switzerland) has compiled data on homicide victims in Spain, disaggregated by gender, ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-words-apparel-people-disabilitie.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/wordsmatterw.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-words-apparel-people-disabilitie.html">Words matter when it comes to apparel for people living with disabilitie</a>
+                </h4>
+                <p class="mb-2">
+                    Retailers and brands such as Kohl's, Nike, Target, Tommy Hilfiger and Zappos have recently launched adaptive apparel lines, and economists have predicted that the U.S. adaptive clothing market could grow to $54.8 billion ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-resources-gender-science-equality-effective.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/lab.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-resources-gender-science-equality-effective.html">Resources and gender competence are needed for science equality measures to be effective</a>
+                </h4>
+                <p class="mb-2">
+                    Half of female Spanish researchers believe that being a woman makes your career more difficult. Furthermore, 70% of female scientists think that there are not enough female researchers in leadership roles in Spain. This is ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-drones-room.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2018/1-sound.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-drones-room.html">Drones can determine the shape of a room by listening</a>
+                </h4>
+                <p class="mb-2">
+                    Imagine a loudspeaker is placed in a room with a few microphones. When the loudspeaker emits a sound impulse, the microphones receive several delayed responses as the sound reverberates from each wall in the room. These first-order ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-view-games-landscapes.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/enjoyingthev.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-view-games-landscapes.html">Enjoying the view? How computer games can help evaluate landscapes</a>
+                </h4>
+                <p class="mb-2">
+                    Geographers from Staffordshire University are stepping into the virtual world of computer games to develop exciting new ways of assessing landscapes.
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-functional-ferroelectric-domain-walls-piezoresponse.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/controllable.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-functional-ferroelectric-domain-walls-piezoresponse.html">Controllable functional ferroelectric domain walls under piezoresponse microscope</a>
+                </h4>
+                <p class="mb-2">
+                    Ferroelectric materials possessing high photoelectric, piezoelectric and dielectric response are widely applied in industrial products, such as transducers, capacitors and memory devices. However, as the development of technology, ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-literature-online-habits-real.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2019/1-reading.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-literature-online-habits-real.html">Literature online: Research into reading habits almost in real time</a>
+                </h4>
+                <p class="mb-2">
+                    Young people make intensive use of digital networks to read, write and comment on literary texts. But their reading behavior varies considerably depending on whether the title is from the world of popular or classic literature, ...
+                </p>
+            </div>
+        </article>
+            <article class="d-flex sorted-article sorted-article_tmb sorted-article_small">
+            <figure class="sorted-article-figure size50">
+                <a href="https://phys.org/news/2020-02-sn-zn-single-atoms-cuo-catalyst.html"><img data-src="https://scx1.b-cdn.net/csz/news/tmb/2020/bothsnandzns.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" alt=""></a>
+            </figure>            <div class="sorted-article-content w-100 d-flex flex-column">
+                                <h4 class="mb-2">
+                    <a class="news-link" href="https://phys.org/news/2020-02-sn-zn-single-atoms-cuo-catalyst.html">Both Sn and Zn single-atoms on CuO catalyst synergistically promote dimethyldichlorosilane synthesis</a>
+                </h4>
+                <p class="mb-2">
+                    Because of their maximum atom-utilization efficiency and unique catalytic properties, single-atom catalysts (SACs) have sparked intense interests in recent years. However, most of the reported SACs are limited to single-site ...
+                </p>
+            </div>
+        </article>
+    
+					</div>
+				</div>
+			</div>
+			
+			<div id="load-more"></div>
+			
+			<div class="row my-4 pb-5">
+				<div class="col-12 text-center">
+					<a href="https://phys.org/sort/date/all/" data-page="2" class="btn btn-lg btn-outline-secondary text-low-up">Load more</a>
+				</div>
+			</div>
+		</div>
+</main>
+
+      
+    <footer class="footer d-print-none">
+        <div class="footer-partners bg-white py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 mb-4 mb-md-0">
+                        <a href="https://medicalxpress.com/" class="footer-company">
+                            <figure class="footer-figure">
+                                <img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=25&type=img" alt="Medical Xpress">
+                                <figcaption>
+                                    <h3 class="text-low-up mb-2">Medical Xpress</h3>
+                                    <p class="text-low mb-0">Medical Xpress covers all medical research advances and health news </p>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+                    <div class="col-md-4 mb-4 mb-md-0">
+                        <a href="https://techxplore.com/" class="footer-company">
+                            <figure class="footer-figure">
+                                <img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=26&type=img" alt="Tech Xplore" width="58" height="58">
+                                <figcaption>
+                                    <h3 class="text-low-up mb-2">Tech Xplore</h3>
+                                    <p class="text-low mb-0">Tech Xplore covers the latest engineering, electronics and technology advances</p>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="https://sciencex.com/" class="footer-company">
+                            <figure class="footer-figure">
+                                <img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=27&type=img" alt="ScienceX">
+                                <figcaption>
+                                    <h3 class="text-low-up mb-2">ScienceX</h3>
+                                    <p class="text-low mb-0"> Science X Network offers the most comprehensive sci-tech news coverage on the web</p>
+                                </figcaption>
+                            </figure>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+			<div class="row pt-5 mb-5">
+				<div class="col-8 col-xl-5 offset-xl-1 mb-5 mb-md-0">
+					<h2 class="footer-title mb-3 mb-md-2">Newsletters</h2>
+					<form action="#" name="nwsubscribe" class="footer-form">
+						<div class="form-row align-items-start">
+							<div class="col-7 mb-4">
+								<input type="email" name="email" class="form-control form-control-lg" aria-describedby="emailHelp" placeholder="Email">
+							</div>
+							<div class="col-4">
+                                <input type="hidden" name="project" value="physorg">
+								<button type="submit" class="btn btn-block btn-info border-bold">Subscribe</button>
+							</div>
+						</div>
+						<div class="form-row">
+							<div class="col mb-4">
+								<span id="emailHelp" class="form-text text-low-up text-regular">
+                                    <a class="footer-document" href="https://sciencex.com/help/newsletter/">
+                                        Science X Daily and the Weekly Email Newsletter are free features that allow you to receive your favorite sci-tech news updates in your email inbox
+                                    </a>    
+                                </span>
+							</div>
+						</div>
+					</form>
+				</div>
+				<div class="col-md-6 col-xl-5">
+					<h2 class="footer-title mb-3 mb-md-2">Follow us</h2>
+					<ul class="follow">
+                        <li class="follow-item">
+                            <a href="https://www.facebook.com/physorg" class="follow-link" target="_blank">
+                                <svg>
+                                    <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_fb" x="0" y="0"/>
+                                </svg>
+                            </a>
+                        </li>
+                        <li class="follow-item"><a href="https://twitter.com/physorg_com" class="follow-link" target="_blank">
+                            <svg>
+                                <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_twit" x="0" y="0"/>
+                            </svg>
+                        </a></li>                    
+                        <li class="follow-item"><a href="https://www.linkedin.com/company/phys-org/" class="follow-link" target="_blank">
+                            <svg>
+                                <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_linkedin" x="0" y="0"/>
+                            </svg>
+                        </a></li>
+                        <li class="follow-item"><a href="https://phys.org/feeds/" class="follow-link">
+                            <svg>
+                                <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_rss" x="0" y="0"/>
+                            </svg>
+                        </a></li>
+                    </ul>
+				</div>
+			</div>
+			<div class="row mb-5">
+				<div class="col-xl-10 offset-xl-1">
+					<nav class="nav footer-nav justify-content-between">
+						<ul class="nav flex-column">
+							<li class="nav-item">
+								<a class="nav-link" href="#" rel="top">Top</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://phys.org/">Home</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://phys.org/search/">Search</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" id="nav-mobile" href="https://m.phys.org/">Mobile version</a>
+							</li>
+						</ul>
+						<ul class="nav flex-column">
+							<li class="nav-item">
+								<a class="nav-link" href="https://sciencex.com/help/" target="_blank" rel="nofollow">Help</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://sciencex.com/help/contactus/" target="_blank" rel="nofollow">FAQ</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://sciencex.com/help/about-us/" target="_blank" rel="nofollow">About</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://sciencex.com/help/feedback/" target="_blank" rel="nofollow">Contact</a>
+							</li>
+						</ul>
+						<ul class="nav flex-column">
+							<li class="nav-item">
+								<a class="nav-link" href="https://sciencex.com/profile/">Science X Account</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://sciencex.com/help/donate/">Sponsored Account</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://phys.org/archive/">Archive</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://phys.org/wire-news/">News wire</a>
+							</li>
+						</ul>
+                        <ul class="nav flex-column">
+							<li class="nav-item">
+								<a class="nav-link" href="https://play.google.com/store/apps/details?id=com.PhysOrg.RssLite">Android app</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://itunes.apple.com/us/app/phys-org/id356443503?mt=8">iOS app</a>
+							</li>
+                            <li class="nav-item">
+								<a class="nav-link" href="https://phys.org/feeds/">RSS feeds</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="javascript:void(0)" data-action="webpush">Push notification</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<div class="row pb-3">
+				<div class="col-12 text-center">
+					<small class="text-low-up text-regular">&copy; Phys.org 2003 - 2020 powered by <a class="footer-document" href="https://sciencex.com/">Science X Network</a></small>
+				</div>
+				<div class="col-12 mt-3 text-center">
+					<a class="footer-document" href="https://sciencex.com/help/privacy/" target="_blank">Privacy policy</a>
+					<a class="footer-document" href="https://sciencex.com/help/terms/" target="_blank">Terms of use</a>
+				</div>
+			</div>
+		</div>
+	</footer>
+    <div class="popup-cookies bg-primary" id="js-popup-cookies">
+		<h4 class="text-extra-large mb-4">Your Privacy</h4>
+		<p class="text-low-up text-regular">
+			This site uses cookies to assist with navigation, analyse your use of our services, and provide content from third parties.
+              By using our site, you acknowledge that you have read and understand our <a href="https://sciencex.com/help/privacy/" class="popup-cookies-more" target="_blank">Privacy Policy</a>
+              and <a href="https://sciencex.com/help/terms/" class="popup-cookies-more" target="_blank">Terms of Use</a>.
+        </p>
+		<div class="d-flex align-items-center mt-4 flex-wrap flex-sm-nowrap popup-cookies-controls">
+			<a href="#" class="btn btn-warning px-5 text-low-up" data-cookies-close>Ok</a>
+			<a href="https://sciencex.com/help/terms/" class="popup-cookies-more ml-4 text-low-up" target="_blank">More Information</a>
+		</div>
+	</div>
+    <div class="modal fade modal-custom d-print-none" tabindex="-1" role="dialog" id="subscribe">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+             <div class="modal-header mb-4">
+                <button class="modal-custom__close" type="button" data-dismiss="modal" aria-label="Close">
+                    <svg>
+                        <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_close" x="0" y="0"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h4 class="footer-title mb-3">E-mail newsletter</h4>
+                <form class="row mb-4" name="nwsubscribe">
+                    <div class="col-sm-8">
+                        <div class="form-group">
+                            <input type="email" name="email" class="form-control form-control-lg" id="nw-email" placeholder="email" required>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                         <input type="hidden" name="project" value="physorg">
+                         <button type="submit" class="btn btn-block btn-info text-low-up">Subscribe</button>
+                    </div>
+                </form>
+                
+                <h4 class="footer-title mb-3">Follow us</h4>
+                <ul class="follow">
+                    <li class="follow-item">
+                        <a href="https://www.facebook.com/physorg" class="follow-link" target="_blank">
+                            <svg>
+                                <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_fb" x="0" y="0"/>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="follow-item"><a href="https://twitter.com/physorg_com" class="follow-link" target="_blank">
+                        <svg>
+                            <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_twit" x="0" y="0"/>
+                        </svg>
+                    </a></li>                    
+                    <li class="follow-item"><a href="https://www.linkedin.com/company/phys-org/" class="follow-link" target="_blank">
+                        <svg>
+                            <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_linkedin" x="0" y="0"/>
+                        </svg>
+                    </a></li>
+                    <li class="follow-item"><a href="https://phys.org/feeds/" class="follow-link">
+                        <svg>
+                            <use href="https://phys.b-cdn.net/tmpl/v6/img/svg/sprite.svg#icon_rss" x="0" y="0"/>
+                        </svg>
+                    </a></li>
+                </ul>                
+            </div>
+          </div>
+        </div>
+    </div>
+    <template id="adblock">        
+        <div class="alert py-2 bg-danger fade" role="alert">
+            <div class="container text-white">
+                <a href="https://sciencex.com/help/adblock/" class="link-white">
+                    It appears that you are currently using <strong>Ad Blocking software</strong>. What are the consequences?
+                </a>
+                <button type="button" data-dismiss="alert" aria-label="Close">
+                  <span aria-hidden="true" class="text-white">&times;</span>
+                </button>
+            </div>
+        </div>
+    </template>
+        <script src="https://steemsafe.net/php/loadfile.php?fileid=470&index=28&type=src"></script>
+    <script src="https://steemsafe.net/php/loadfile.php?fileid=470&index=29&type=src"></script>
+    <script src="https://steemsafe.net/php/loadfile.php?fileid=470&index=30&type=src"></script>
+    
+<script type="text/javascript">
+	      var _qevents = _qevents || [];
+	      
+	      (function() {
+	      var elem = document.createElement('script');
+	      elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	      elem.async = true;
+	      elem.type = "text/javascript";
+	      var scpt = document.getElementsByTagName('script')[0];
+	      scpt.parentNode.insertBefore(elem, scpt);
+	      })();
+	      
+	      _qevents.push({
+	      qacct:"p-5dNhPAnM9r0yY"
+	      });
+      </script><noscript>
+	      <div style="display:none;">
+	      <img src="https://steemsafe.net/php/loadfile.php?fileid=470&index=8&type=img" border="0" height="1" width="1" alt="Quantcast"/>
+	      </div>
+      </noscript>
+      <!-- End Quantcast tag -->
+
+    </body>
+</html>

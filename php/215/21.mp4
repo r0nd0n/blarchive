@@ -1,0 +1,169 @@
+﻿function getElementOffsetTop(el) {
+    var boundingClientRect = el.getBoundingClientRect();
+    var bodyEl = document.body;
+    var docEl = document.documentElement;
+    var scrollTop = window.pageYOffset || docEl.scrollTop || bodyEl.scrollTop;
+    var clientTop = docEl.clientTop || bodyEl.clientTop || 0;
+    return Math.round(boundingClientRect.top + scrollTop - clientTop);
+}
+function getScrollTop() {
+    var docEl = document.documentElement;
+    return (window.pageYOffset || docEl.scrollTop) - (docEl.clientTop || 0);
+}
+(function ($) {
+    $.fn.MasPlayer = function (options) {
+        var settings = $.extend({
+            container: '.player-container',
+            player: 'player',
+            video: 'none',
+            image: 'none',
+            float: true,
+            ShareTitle: 'PressTV'
+        }, options);
+        var playerInstance = jwplayer(settings.player);
+        var playerContainerEl = document.querySelector(settings.container);
+        var playerVtt = settings.video.split("ptv");
+        //playerVtt = playerVtt[1].split(".smil");
+        //var Vtt = "https://preview.presstv.com/ptv" + playerVtt[0] + ".vtt";
+        var shareAddress = window.location.href;
+        //console.log(Vtt);
+        playerInstance.setup({
+            file: settings.video,         //video
+            //tracks: [{
+            //    kind: 'thumbnails',
+            //    file: Vtt
+            //}],
+            autostart: true,
+            width: '100%',
+            height: '70px',
+            aspectratio: '16:9',
+            image: settings.image,
+            padding: '2px',
+            skin: {
+                controlbar: {
+                    icons: 'rgba(153, 153, 153, 0.98)',
+                    iconsActive: '#FFFFFF'
+                },
+                timeslider: {
+                    progress: '#FFFFFF'
+                }
+            },
+            preload: "none",
+            sharing: {
+                "code": "%3Ciframe%20src%3D%22" + shareAddress + "%22%20width%3D%22480%22%20height%3D%22270%22%20frameborder%3D%220%22%20scrolling%3D%22auto%22%3E%3C/iframe%3E",
+                "sites": [
+                    {
+                        label: 'Facebook',
+                        icon: "/lib/jw/vod/jw/images/facebook.png",
+                        src: "https://www.facebook.com/sharer/sharer.php?u=" + shareAddress,
+                    },
+                    {
+                        label: 'Twitter',
+                        icon: "/lib/jw/vod/jw/images/twitter.png",
+                        src: "https://twitter.com/intent/tweet?text=" + settings.ShareTitle + "&url=" + shareAddress,
+                    },
+                    {
+                        label: 'Google+',
+                        icon: "/lib/jw/vod/jw/images/googleplus.png",
+                        src: "https://plus.google.com/up/?continue=https://plus.google.com/share?url%3D" + shareAddress,
+                    },
+                    {
+                        label: 'Pinterest',
+                        icon: "/lib/jw/vod/jw/images/pinterest.png",
+                        src: "https://www.pinterest.com/pin/create/button/?url=" + shareAddress + "&media=" + settings.image,
+                    },
+                    {
+                        label: 'reddit',
+                        icon: "/lib/jw/vod/jw/images/reddit.png",
+                        src: "https://www.reddit.com/url=" + shareAddress,
+                    },
+                    {
+                        label: 'Email',
+                        icon: "/lib/jw/vod/jw/images/email.png",
+                        src: "",
+                    },
+                ]
+            },
+        });
+        if (settings.float == true) {
+            playerInstance.on('ready', function () {
+                var config = playerInstance.getConfig();
+                var utils = playerInstance.utils;
+                var playerHeight = config.containerHeight;
+                var playerOffsetTop = getElementOffsetTop(playerContainerEl);
+                playerContainerEl.style.height = playerHeight + 'px';
+                function onScrollViewHandler() {
+                    var minimize = getScrollTop() >= playerOffsetTop;
+                    utils.toggleClass(playerContainerEl, 'player-minimize', minimize);
+                    playerInstance.resize();
+                }
+                var isScrollTimeout = false;
+                window.onscroll = function () {
+                    if (isScrollTimeout) return;
+                    isScrollTimeout = true;
+                    onScrollViewHandler();
+                    setTimeout(function () {
+                        isScrollTimeout = false;
+                    }, 80);
+                };
+            });
+
+        }
+    };
+})(jQuery);
+
+(function ($) {
+    $.fn.MasSwiper = function (options) {
+        var settings = $.extend({
+            class: '.swiper',
+            count: 'auto'
+        }, options);
+        var class_ = settings.class + ' .swiper-container';
+        var class_Scroll = settings.class + ' .swiper-scrollbar';
+        var swiper = new Swiper(class_, {
+            direction: 'vertical',
+            slidesPerView: settings.count,
+            freeMode: true,
+            scrollbar: {
+                el: class_Scroll,
+            },
+            mousewheel: true,
+        });
+    };
+})(jQuery);
+(function ($) {
+    $.fn.Masimage = function (options) {
+        var settings = $.extend({
+            class: '.lazy'
+        }, options);
+        var pervImage = "";
+        $(settings.class).parent().hover(function () {
+            var imageaddress = $(this).find('img').attr('video-src');
+            if (imageaddress != "") {
+                console.log(imageaddress);
+                pervImage = $(this).find('img').attr('src');
+                var playerWebp = imageaddress.split("ptv");
+                playerWebp = playerWebp[1].split(".smil");
+                var image = "https://preview.presstv.com/ptv" + playerWebp[0] + ".webp";
+                console.log(image);
+                var prent = $(this);
+                $(this).find('img').attr('src', image);
+                //$(this).append('<div class="loading-img"></div>');
+                $(prent).addClass('loading-img');
+                $(prent).find('img').load(function () {
+                    $(prent).removeClass('loading-img');
+                });
+                $('body').append('<img src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=78&type=img" style="display:none;">');
+            }
+
+        }, function () {
+            console.log(pervImage);
+            if (pervImage != "") {
+                $(this).find('img').attr('src', pervImage);
+                pervImage = "";
+                $(this).removeClass('loading-img');
+                $(this).addClass('loaded');
+            }
+        });
+    };
+})(jQuery);

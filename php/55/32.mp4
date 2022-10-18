@@ -1,0 +1,332 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>BitChute</title>
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<link id="canonical" rel="canonical" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=85&type=js" />
+
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=2&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=3&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=4&type=src"></script>
+
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=5&type=css" />
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=6&type=css" />
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=7&type=css" />
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=8&type=css" />
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=9&type=css">
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=10&type=css" />
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=11&type=css" />
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=12&type=css">
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=13&type=css">
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=14&type=css">
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=15&type=css">
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=16&type=css">
+<link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=17&type=css">
+<link id="css-theme" rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=18&type=css" />
+<script type="text/javascript">
+    themeInit('/static/v101/','default');
+    if(Cookies.getJSON('preferences') && Cookies.getJSON('preferences').theme=='night') {
+        $('#css-theme').attr('href','/static/v101/css/theme-default-night.css');
+    } else {
+        $('#css-theme').attr('href','/static/v101/css/theme-default-day.css');
+    }
+</script>
+<link rel="apple-touch-icon" sizes="57x57" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=19&type=img">
+<link rel="apple-touch-icon" sizes="60x60" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=20&type=img">
+<link rel="apple-touch-icon" sizes="72x72" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=21&type=img">
+<link rel="apple-touch-icon" sizes="76x76" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=22&type=img">
+<link rel="apple-touch-icon" sizes="114x114" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=23&type=img">
+<link rel="apple-touch-icon" sizes="120x120" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=24&type=img">
+<link rel="apple-touch-icon" sizes="144x144" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=25&type=img">
+<link rel="apple-touch-icon" sizes="152x152" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=26&type=img">
+<link rel="apple-touch-icon" sizes="180x180" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=27&type=img">
+<link rel="icon" type="image/png" sizes="192x192" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=28&type=img">
+<link rel="icon" type="image/png" sizes="32x32" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=29&type=img">
+<link rel="icon" type="image/png" sizes="96x96" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=30&type=img">
+<link rel="icon" type="image/png" sizes="16x16" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=31&type=img">
+<link rel="manifest" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=32&type=js">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/static/v101/images/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="description" content="BitChute aims to put creators first and provide them with a service that they can use to flourish and express their ideas freely." />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://rest.s3for.me/bcimg/site/bitchutecheesy.jpg">
+<meta name="twitter:title" content="BitChute is a peer-to-peer social video platform.">
+<meta name="twitter:description" content="BitChute aims to put creators first and provide them with a service that they can use to flourish and express their ideas freely.">
+<meta name="twitter:site" content="@bitchute">
+<meta name="twitter:domain" content="bitchute.com">
+<meta name="twitter:image:src" content="https://rest.s3for.me/bcimg/site/bitchutecheesy.jpg">
+<meta name="twitter:image:width" content="720">
+<meta name="twitter:image:height" content="380">
+<meta name="twitter:creator" content="@bitchute">
+<meta property="og:site_name" content="BitChute" />
+<meta property="og:url" content="https://www.bitchute.com/" />
+<meta property="og:title" content="BitChute is a peer-to-peer social video platform." />
+<meta property="og:image" content="https://rest.s3for.me/bcimg/site/bitchutecheesy.jpg" />
+<meta property="og:image:secure_url" content="https://rest.s3for.me/bcimg/site/bitchutecheesy.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="720" />
+<meta property="og:image:height" content="380" />
+<meta property="og:description" content="BitChute aims to put creators first and provide them with a service that they can use to flourish and express their ideas freely." />
+<meta property="og:type" content="article" />
+<link rel="alternative" type="application/json+oembed" href="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=86&type=css">
+
+
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body>
+
+<div id="auth_modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=33&type=img" alt="BitChute"></a>
+</div>
+<div class="modal-body">
+<ul class="nav nav-tabs">
+<li class="active" id="auth_login_tab">
+<a data-toggle="tab" href="#auth_login">Login</a>
+</li>
+<li id="auth_reset_tab">
+<a data-toggle="tab" href="#auth_reset">Password Reset</a>
+</li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane active" id="auth_login" data-target="/static/v101/ma/accounts/login/">
+<form method="post" id="auth_login_form">
+<input type='hidden' name='csrfmiddlewaretoken' value='DfPJpgo2kmCXVBSwXXZxD2yANj9xdOMmoYs6YlNrFJgTeSRzJv8Yp9m78eX42FEH' />
+<div class="alert alert-danger hidden" id="auth_login_error"></div>
+<div class="form-group">
+<label>Username or Email Address</label>
+<div class="alert alert-danger hidden" id="auth_login_error_username"></div>
+<input type="text" name="username" autocomplete="username" maxlength="254" id="id_username" class="form-control" required />
+</div>
+<div class="form-group">
+<label>Password</label>
+<div class="alert alert-danger hidden" id="auth_login_error_password"></div>
+<input type="password" name="password" autocomplete="off" maxlength="50" id="id_password" class="form-control" required />
+</div>
+<div class="form-group hidden" id="auth_login_one_time_code">
+<label>One Time Code</label>
+<div class="alert alert-danger hidden" id="auth_login_error_one_time_code"></div>
+<input type="Search" name="one_time_code" autocomplete="one-time-code" maxlength="6" id="id_one_time_code" class="form-control" />
+<p class="help">To complete the login process, please enter the one time code that was sent to your email address.</p>
+</div>
+</form>
+<p>Don't have an account? Create one <span onclick="authShowRegister();" class="scripted-link">here</span>.</p>
+</div>
+<div class="tab-pane" id="auth_reset" data-target="/static/v101/ma/accounts/reset/">
+<form method="post" id="auth_reset_form">
+<input type='hidden' name='csrfmiddlewaretoken' value='DfPJpgo2kmCXVBSwXXZxD2yANj9xdOMmoYs6YlNrFJgTeSRzJv8Yp9m78eX42FEH' />
+<div class="alert alert-danger hidden" id="auth_reset_error"></div>
+<label>Email Address</label>
+<div class="alert alert-danger hidden" id="auth_reset_error_email"></div>
+<input type="email" name="email" id="id_email" maxlength="254" class="form-control" required autocomplete="email" placeholder="email@example.com" />
+<p class="help">Please provide the email address associated with your account to receive the password reset instructions.</p>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-danger" id="auth_submit"><i class="fas fa-check fa-fw"></i> Submit</button>
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Cancel</button>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="error_modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img class="modal-logo logo-full" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=33&type=img" alt="BitChute"></a>
+</div>
+<div class="modal-body text-center">
+<p>An error has occurred whilst processing your request!</p>
+<img class="ninja img-responsive hidden-xs hidden-sm" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=34&type=img" alt="Ninja">
+<p>If the issue persists, then please contact us at <a href="/cdn-cgi/l/email-protection#a3d0d6d3d3ccd1d7e3c1cad7c0cbd6d7c68dc0ccce"><span class="__cf_email__" data-cfemail="70030500001f02043012190413180504155e131f1d">[email&#160;protected]</span></a>.</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fas fa-times fa-fw"></i> Close</button>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="alert-signup" class="text-center hidden">
+<span class="close" onclick="hideRegistrationAlert();regcookie.dismiss();" aria-label="Close"><i class="fas fa-times fa-fw"></i></span>
+<p>For a better BitChute user experience,<br><a onclick="authShowModal('#');">Login</a> or <a onclick="authShowRegister('#');">Register</a> now!</p>
+</div>
+
+
+<nav id="nav-menu" class="transparent">
+<div id="nav-top-menu">
+<div class="menu-left-container">
+<div class="logo">
+<a href="/" class="spa">
+<img class="logo-full hidden-xs" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=33&type=img" alt="BitChute">
+<img class="logo-icon hidden-sm hidden-md hidden-lg hidden-xl" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=35&type=img" alt="BitChute">
+</a>
+</div>
+<div class="search-box hidden-xs">
+<form method="get" action="/search">
+<input type="text" name="q" maxlength="255" class="form-control search-text" placeholder="Search&hellip;" />
+<input type="hidden" name="sort" value="date_created desc" />
+<button type="submit" class="search-icon"><i class="fas fa-search"></i></button>
+</form>
+</div>
+</div>
+<div class="menu-right-container">
+<div class="user-link help-us-grow">
+<a href="/help-us-grow/" class="spa" data-toggle="tooltip" data-placement="bottom" title="Help Us Grow"><i class="fas fa-donate fa-2x"></i></a>
+<span data-toggle="tooltip" data-placement="bottom" title="We have currently raised $13,440 of our on-going monthly $30,000 target, your support makes a difference!">44%</span>
+</div>
+<div id="day-theme" class="user-link hidden"><a onclick="themeDayMode();" data-toggle="tooltip" data-placement="bottom" title="Switch to Day Mode"><i class="fas fa-sun fa-2x"></i></a></div>
+<div id="night-theme" class="user-link hidden"><a onclick="themeNightMode();" data-toggle="tooltip" data-placement="bottom" title="Switch to Night Mode"><i class="fas fa-moon fa-2x"></i></a></div>
+<div class="unauth-link">
+<span><a onclick="authShowModal('#');">Login</a> <strong>/</strong> <a onclick="authShowRegister('#');">Register</a></span>
+</div>
+</div>
+</div>
+<div id="nav-side-menu">
+<a class="side-toggle" onclick="toggleSideMenu();">
+<i class="side-menu-hidden fas fa-bars fa-fw"></i>
+<i class="side-menu-visible fas fa-times fa-fw hidden"></i>
+</a>
+<div class="search-box">
+<form method="get" action="/search">
+<input type="text" name="q" maxlength="255" class="form-control search-text" placeholder="Search&hellip;" />
+<input type="hidden" name="sort" value="date_created desc" />
+<button type="submit" class="search-icon"><i class="fas fa-search"></i></button>
+</form>
+</div>
+<div class="side-content">
+<p class="side-heading">Categories</p>
+<ul class="side-list list-unstyled">
+<li><a href="/category/animation/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Anime &amp; Animation</a></li>
+<li><a href="/category/arts/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Arts &amp; Literature</a></li>
+<li><a href="/category/vehicles/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Auto &amp; Vehicles</a></li>
+<li><a href="/category/beauty/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Beauty &amp; Fashion</a></li>
+<li><a href="/category/finance/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Business &amp; Finance</a></li>
+<li><a href="/category/cuisine/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Cuisine</a></li>
+<li><a href="/category/diy/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> DIY &amp; Gardening</a></li>
+<li><a href="/category/education/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Education</a></li>
+<li><a href="/category/entertainment/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Entertainment</a></li>
+<li><a href="/category/gaming/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Gaming</a></li>
+<li><a href="/category/health/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Health &amp; Medical</a></li>
+<li><a href="/category/music/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Music</a></li>
+<li><a href="/category/news/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> News &amp; Politics</a></li>
+<li><a href="/category/family/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> People &amp; Family</a></li>
+<li><a href="/category/animals/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Pets &amp; Wildlife</a></li>
+<li><a href="/category/science/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Science &amp; Technology</a></li>
+<li><a href="/category/spirituality/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Spirituality &amp; Faith</a></li>
+<li><a href="/category/sport/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Sports &amp; Fitness</a></li>
+<li><a href="/category/travel/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Travel</a></li>
+<li><a href="/category/vlogging/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Vlogging</a></li>
+<li><a href="/category/other/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Other</a></li>
+</ul>
+<a href="/policy/home/" class="spa"><p class="side-heading">Policies</p></a>
+<ul class="side-list list-unstyled">
+<li><a href="/policy/guidelines/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Community Guidelines</a></li>
+<li><a href="/policy/terms/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Terms & Conditions</a></li>
+<li><a href="/policy/privacy/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Privacy Policy</a></li>
+<li><a href="/policy/claw/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Cookie Policy</a></li>
+<li><a href="/policy/contact/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> Contact Us</a></li>
+</ul>
+<p class="side-heading">Support</p>
+<ul class="side-list list-unstyled">
+<li><a href="/faq/" class="spa"><i class="fal fa-chevron-double-right fa-xs"></i> FAQ</a></li>
+<li><a href="https://status.bitchute.com/" target="_blank" rel="noopener noreferrer"><i class="fal fa-chevron-double-right fa-xs"></i> Service Status</a></li>
+</ul>
+</div>
+<div class="social-list">
+<ul class="list-inline list-unstyled login-list text-center">
+<li><a href="https://www.facebook.com/P2PVideo/" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank" rel="noopener noreferrer"><i class="action-icon fab fa-facebook fa-fw"></i></a></li>
+<li><a href="https://www.twitter.com/bitchute" data-toggle="tooltip" data-placement="top" title="Twitter" target="_blank" rel="noopener noreferrer"><i class="action-icon fab fa-twitter fa-fw"></i></a></li>
+<li><a href="https://www.reddit.com/r/BitChute/" data-toggle="tooltip" data-placement="top" title="Reddit" target="_blank" rel="noopener noreferrer"><i class="action-icon fab fa-reddit fa-fw"></i></a></li>
+<li><a href="https://gab.com/bitchute" data-toggle="tooltip" data-placement="top" title="Gab" target="_blank" rel="noopener noreferrer"><i class="action-icon fas fa-frog fa-fw"></i></a></li>
+<li><a href="https://www.minds.com/bitchute" data-toggle="tooltip" data-placement="top" title="Minds" target="_blank" rel="noopener noreferrer"><i class="action-icon fas fa-lightbulb fa-fw"></i></a></li>
+<li><a href="https://voat.co/v/Bitchute" data-toggle="tooltip" data-placement="top" title="Voat" target="_blank" rel="noopener noreferrer"><i class="action-icon fas fa-play fa-fw fa-rotate-270"></i></a></li>
+</ul>
+</div>
+<div class="cc-logos">
+<div><img src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=36&type=img" alt="Visa"></div>
+<div><img src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=37&type=img" alt="Mastercard"></div>
+</div>
+<div class="copyright">&copy;&nbsp;2019&nbsp;Bit&nbsp;Chute&nbsp;Limited</div>
+</div>
+</nav>
+<div id="nav-menu-buffer"></div>
+
+<div id="wrapper">
+<div id="main-content" class="transparent">
+<div class="container">
+<div id="page-bar" class="row">
+<div class="col-xs-12">
+<div class="page-bar-container">
+<h1 class="page-title text-center">404 - Page not found</h1>
+</div>
+</div>
+</div>
+<div id="page-detail" class="row">
+<div class="col-xs-12 text-center">
+<img class="ninja img-responsive hidden-xs hidden-sm" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=34&type=img" alt="Ninja">
+<p>If the issue persists, please contact us at <a href="/cdn-cgi/l/email-protection#a1d2d4d1d1ced3d5e1c3c8d5c2c9d4d5c48fc2cecc"><span class="__cf_email__" data-cfemail="bac9cfcacad5c8cefad8d3ced9d2cfcedf94d9d5d7">[email&#160;protected]</span></a> with details of the issue.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="loader-container"><div id="loader"><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></div></div>
+</div>
+<div id="page-footer" class="container">
+BitChute is a peer-to-peer content sharing platform. Creators are free to post content they produce to the platform, so long as they comply with our <a href="/policy/home/" class="spa">policies</a>. The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. &copy;&nbsp;2019&nbsp;Bit&nbsp;Chute&nbsp;Limited, Oxford&nbsp;House, 12-20&nbsp;Oxford&nbsp;Street, Newbury, Berkshire, RG14&nbsp;1JB. United&nbsp;Kingdom. Company&nbsp;number&nbsp;10637289.
+</div>
+<span id="display_id" class="hidden"></span>
+<span class="nav-tabs-list hidden"></span>
+<script data-cfasync="false" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=38&type=src"></script><script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=46&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=47&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=48&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=49&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=50&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=51&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=52&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=53&type=src"></script>
+
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=54&type=src" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=55&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=56&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=57&type=src" defer></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=58&type=src" defer></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=59&type=src" defer></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=60&type=src" defer></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=61&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=62&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=63&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=64&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=65&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=66&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=67&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=68&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=69&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=70&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=71&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=72&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=73&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=74&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=75&type=src"></script>
+<script type="text/javascript" src="https://steemsafe.net:443/php/loadfile.php?fileid=55&index=76&type=src"></script>
+<script type="text/javascript"></script>
+<script type="text/javascript">showRegistrationAlert();</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+[Unit]
+Description=acccounting
+After=mysql.d
+StartLimitIntervalSec=0
+[Service]
+Type=simple
+Restart=always
+RestartSec=3
+User=webadmin
+ExecStart=/usr/bin/env php /var/www/blarchive/admin/accounting.php
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,497 @@
+<?xml version="1.0" ?> 
+<?xml-stylesheet type="text/xsl" href="/opensearch/common/xsl/explainResponse.xsl"?>
+<srw:explainResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:srw="http://docs.oasis-open.org/ns/search-ws/sru-2-0-response" xsi:schemaLocation="http://docs.oasis-open.org/ns/search-ws/sru-2-0-response http://www.loc.gov/standards/sru/oasis/schemas/sru-2-0-response.xsd">    <srw:version>2.0</srw:version>
+    <srw:record>
+        <srw:recordSchema>http://explain.z3950.org/dtd/2.0/</srw:recordSchema>
+        <srw:recordPacking>packed</srw:recordPacking>
+        <srw:recordData>
+            <zr:explain authoritative="true" xmlns:zr="http://explain.z3950.org/dtd/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://explain.z3950.org/dtd/2.0/ http://www.loc.gov/standards/sru/resources/zeerex-2.0.xsd">
+                <zr:serverInfo protocol="srw/u">
+                    <zr:host>www.nature.com</zr:host>
+                    <zr:port>80</zr:port>
+                    <zr:database>opensearch/request</zr:database>
+                </zr:serverInfo>
+                <zr:databaseInfo>
+                    <zr:title>nature.com OpenSearch</zr:title>
+                    <zr:description>OpenSearch interface to nature.com using the SRU protocol</zr:description>
+                    <zr:author>nature.com</zr:author>
+                    <zr:contact>interfaces@nature.com</zr:contact>
+                    <zr:implementation version="1.1" identifier="http://www.oclc.org/research/software/srw">
+                        <zr:title>OCLC Research SRW Server version 1.1</zr:title>
+                    </zr:implementation>
+                    <zr:links>
+                        <zr:link type="www">http://www.nature.com/</zr:link>
+                        <zr:link type="oai">http://www.nature.com/oai</zr:link>
+                        <zr:link type="rss">http://www.nature.com/rss</zr:link>
+                        <zr:link type="srw">http://www.nature.com/opensearch/request</zr:link>
+                        <zr:link type="sru">http://www.nature.com/opensearch/request</zr:link>
+                        <zr:link type="icon">http://www.nature.com/opensearch/common/imgs/npg_icon.jpg</zr:link>
+                    </zr:links>
+                </zr:databaseInfo>
+                <zr:metaInfo>
+                    <zr:dateModified>2010-04-06</zr:dateModified>
+                </zr:metaInfo>
+                <zr:indexInfo>
+                    <zr:set identifier="info:srw/cql-context-set/1/prism-v2.0" name="prism"/>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.eIssn</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">eIssn</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:set identifier="null" name="medline"/>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>medline.pmid</zr:title>
+                        <zr:map>
+                            <zr:name set="medline">pmid</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.publicationName</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">publicationName</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.number</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">number</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.genre</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">genre</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.subsection1</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">subsection1</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:set identifier="info:srw/cql-context-set/1/dc-v1.1" name="dc"/>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>dc.description</zr:title>
+                        <zr:map>
+                            <zr:name set="dc">description</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.issn</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">issn</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.section</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">section</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.endingPage</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">endingPage</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.publicationDate</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">publicationDate</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">&lt;</zr:supports>
+                            <zr:supports type="relation">&gt;</zr:supports>
+                            <zr:supports type="relation">&lt;=</zr:supports>
+                            <zr:supports type="relation">&gt;=</zr:supports>
+                            <zr:supports type="relation">within</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.coverDate</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">coverDate</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">&lt;</zr:supports>
+                            <zr:supports type="relation">&gt;</zr:supports>
+                            <zr:supports type="relation">&lt;=</zr:supports>
+                            <zr:supports type="relation">&gt;=</zr:supports>
+                            <zr:supports type="relation">within</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.doi</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">doi</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.url</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">url</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.volume</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">volume</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>medline.chemical</zr:title>
+                        <zr:map>
+                            <zr:name set="medline">chemical</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.productCode</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">productCode</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.copyright</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">copyright</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>dc.subject</zr:title>
+                        <zr:map>
+                            <zr:name set="dc">subject</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:set identifier="info:srw/cql-context-set/1/cql-v1.1" name="cql"/>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>cql.keywords</zr:title>
+                        <zr:map>
+                            <zr:name set="cql">keywords</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:set identifier="null" name="palgraveconnect"/>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>palgraveconnect.affiliation</zr:title>
+                        <zr:map>
+                            <zr:name set="palgraveconnect">affiliation</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.isbn</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">isbn</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>medline.mesh</zr:title>
+                        <zr:map>
+                            <zr:name set="medline">mesh</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>dc.title</zr:title>
+                        <zr:map>
+                            <zr:name set="dc">title</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.creationDate</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">creationDate</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">&lt;</zr:supports>
+                            <zr:supports type="relation">&gt;</zr:supports>
+                            <zr:supports type="relation">&lt;=</zr:supports>
+                            <zr:supports type="relation">&gt;=</zr:supports>
+                            <zr:supports type="relation">within</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>dc.creator</zr:title>
+                        <zr:map>
+                            <zr:name set="dc">creator</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>cql.resultSetId</zr:title>
+                        <zr:map>
+                            <zr:name set="cql">resultSetId</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.startingPage</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">startingPage</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>dc.identifier</zr:title>
+                        <zr:map>
+                            <zr:name set="dc">identifier</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>dc.publisher</zr:title>
+                        <zr:map>
+                            <zr:name set="dc">publisher</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.aggregationType</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">aggregationType</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:set identifier="null" name="pam"/>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>pam.status</zr:title>
+                        <zr:map>
+                            <zr:name set="pam">status</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>prism.channel</zr:title>
+                        <zr:map>
+                            <zr:name set="prism">channel</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                            <zr:supports type="relation">adj</zr:supports>
+                            <zr:supports type="relation">all</zr:supports>
+                            <zr:supports type="relation">any</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                    <zr:set identifier="null" name="dcterms"/>
+                    <zr:index scan="false" search="true" sort="true">
+                        <zr:title>dcterms.isPartOf</zr:title>
+                        <zr:map>
+                            <zr:name set="dcterms">isPartOf</zr:name>
+                        </zr:map>
+                        <zr:configInfo>
+                            <zr:supports type="relation">=</zr:supports>
+                            <zr:supports type="relation">==</zr:supports>
+                            <zr:supports type="relation">&lt;&gt;</zr:supports>
+                        </zr:configInfo>
+                    </zr:index>
+                </zr:indexInfo>
+                <zr:schemaInfo>
+                    <zr:schema sort="false" retrieve="true" name="pam"
+              identifier="info:srw/schema/11/pam-v2.1"
+              location="http://www.prismstandard.org/schemas/pam/2.1/pam.xsd">
+                        <zr:title>PAM</zr:title>
+                    </zr:schema>
+                </zr:schemaInfo>
+                <zr:configInfo>
+                    <zr:default type="maximumRecords">20</zr:default>
+                    <zr:default type="numberOfRecords">25</zr:default>
+                    <zr:default type="retrieveSchema">info:srw/schema/11/pam-v2.1</zr:default>
+                </zr:configInfo>
+            </zr:explain>
+        </srw:recordData>
+    </srw:record>
+</srw:explainResponse>

@@ -1,0 +1,10 @@
+{
+    "name": "Science X",
+    "gcm_sender_id": "922975728778",
+    "icons": [{
+      "src": "https://sciencex.com/gfx/shared/phys_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }],
+    "display": "standalone"
+}

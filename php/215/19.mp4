@@ -1,0 +1,101 @@
+﻿$('.Search_').click(function () {
+    $('.search-panel').css('display', 'block').animate({
+        height: '100%'
+    }, 100, "linear").animate({
+        borderBottomLeftRadius: 0,
+        borderBottomRightRadius: 0
+    }, 100, "linear",
+        function () {
+            $('.search-panel').find(".container").css("opacity", "1");
+        }
+    );
+});
+var typingTimer;                //timer identifier
+var doneTypingInterval = 1000;  //time in ms, 5 second for example
+var $input = $('.search-panel .input_Search_');
+$input.on('keyup', function () {
+    clearTimeout(typingTimer);
+    typingTimer = setTimeout(doneTyping, doneTypingInterval);
+});
+$input.on('keydown', function () {
+    $(".search-panel .tools > div > i.fa-cog").css('display', 'block');
+    clearTimeout(typingTimer);
+});
+function doneTyping() {
+    $(".search-panel .tools > div > i.fa-cog").css('display', 'none');
+    var querstring = $input.val();
+    if (querstring.length >= 3) {
+        $.ajax({
+            type: "GET",
+            url: "/Home/Search",
+            contentType: "application/json; charset=utf-8",
+            data: { 'searchstring': querstring },
+            datatype: "json",
+            success: function (result) {
+                console.log(result);
+                $('.search-panel .panel-data_old.Old-data').css('display', 'none');
+                $('.search-panel .panel-data_old.New-data').css('display', 'block');
+                $('.search-panel .panel-data_old.New-data>div').html("");
+                if ($(result).length != 0) {
+                    $(result.data.items).each(function (index_) {
+                        var data = result.data.items[index_];
+                        var urlSeachItem = "/travel/Content/" + data.id + "/" + data.url;
+                        var tagname = "Tourism";
+                        var tagmainname = 'Iran';
+                        if (data.categoryId == 118) {
+                            if (data.Url == null)
+                               data.Url = "";
+                            urlSeachItem = "/News/Content/" +data.id + "/" +data.url;
+                            tagname = 'News';
+                            var tagmainname = 'News';
+                        }
+                        else if (data.categoryId == 119 || data.categoryId == 122 || data.categoryId == 123 || data.categoryId == 124 || data.categoryId == 125 || data.categoryId == 126) {
+                            if (data.Url == null)
+                                data.Url = "";
+                            urlSeachItem = "/videos/Content/" + data.id + "/" + data.url;
+                            tagname = 'News';
+                            var tagmainname = 'News';
+                        }
+                        var url_img = "";
+                        $(data.attach).each(function (index_1) {
+                            if (data.attach[index_1].type == "Banner") {
+                                url_img = data.attach[index_1].image.thumb;
+                            }
+                        });
+                        var html = '<a href="' + urlSeachItem + '" class=" col-md-3 panel-inner-small"><span class="tag-mas tag-' + tagmainname + '">' + data.categoryTitle + '</span><div class="grow-image"><div class="full-size Scale_"><img src="https://steemsafe.net:443/php/loadfile.php?fileid=215&index=77&type=img" class="fill-box"></div><div class="col-md-12"><h5>' + data.title + '</h5></div></div></a>';
+                        $('.search-panel .panel-data_old.New-data>div').append(html);
+                    });
+                }
+                else {
+                    $('.search-panel .panel-data_old.New-data>div').append("Not Found . :( ");
+                }
+
+            },
+            complete: function () {
+                $('.grow-image').MashoveGrow();
+                $('.fill-box').fillBox();
+
+            }
+        });
+    }
+    else
+    {
+        $('.search-panel .panel-data_old.Old-data').css('display', 'none');
+        $('.search-panel .panel-data_old.New-data').css('display', 'block');
+        $('.search-panel .panel-data_old.New-data>div').html("");
+        $('.search-panel .panel-data_old.New-data>div').append("Please enter the correct words.");
+    }
+
+}
+$(".search-panel .Close-search").click(function () {
+    $('.search-panel').find(".container").css("opacity", "0");
+    $('.search-panel').animate({
+        borderBottomLeftRadius: '50%',
+        borderBottomRightRadius: '50%'
+    }, 200, "linear").animate({
+        height: '0%'
+    }, 300, "swing", function () {
+            $('.search-panel').css('display', 'none');
+    });
+});
+

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["RedesignOldContentFonts"],{"./assets/fonts/OldNotoSans/font.less":function(n,s,o){}}]);
+//# sourceMappingURL=RedesignOldContentFonts.3e3b3ded5cf83c97048d.js.map

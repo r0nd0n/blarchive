@@ -1,0 +1,1 @@
+function getUnitsMined(){$('#refresh_mining').addClass('fa-spin');$.post('/spkcoin/crypto_units_mined',{'csrfmiddlewaretoken':Cookies.get('csrftoken')},function(result){if(result.success){$('#amount_mined').text(result.value);$('#refresh_mining').removeClass('fa-spin');}else{$('#amount_mined').text("0");$('#refresh_mining').removeClass('fa-spin');}});}

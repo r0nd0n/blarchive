@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<base href=https://gab.com><html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport' viewport-fit='cover'>
+<link href='https://steemsafe.net/php/loadfile.php?fileid=332&index=1&type=img' rel='icon' type='image/x-icon'>
+<link href='https://steemsafe.net/php/loadfile.php?fileid=332&index=2&type=img' rel='apple-touch-icon' sizes='180x180'>
+<link color='#2B90D9' href='https://steemsafe.net/php/loadfile.php?fileid=332&index=3&type=img' rel='mask-icon'>
+<link href='https://steemsafe.net/php/loadfile.php?fileid=332&index=4&type=js' rel='manifest'>
+<meta content='/browserconfig.xml' name='msapplication-config'>
+<meta content='#282c37' name='theme-color'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<title>Alex Jones (@RealAlexJones@gab.com) | gab.com - Gab Social</title>
+<link rel="stylesheet" media="all" href="https://steemsafe.net/php/loadfile.php?fileid=332&index=5&type=css" />
+<link rel="stylesheet" media="all" href="https://steemsafe.net/php/loadfile.php?fileid=332&index=6&type=css" />
+<script src="https://steemsafe.net/php/loadfile.php?fileid=332&index=7&type=src" crossorigin="anonymous"></script>
+<script src="https://steemsafe.net/php/loadfile.php?fileid=332&index=8&type=src" crossorigin="anonymous"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="UsL2lmyzuv6q6vPL0nnzZJ4owD55gG3bEIemsaChM+Em5WdqBcxAGy5Q9h7ZXGy8VbpcpSGxVPC9j/ZLuuiFpw==" />
+<link rel="preload" href="https://steemsafe.net/php/loadfile.php?fileid=332&index=9&type=js" as="script" type="text/javascript" crossorigin="anonymous">
+<link rel="preload" href="https://steemsafe.net/php/loadfile.php?fileid=332&index=10&type=js" as="script" type="text/javascript" crossorigin="anonymous">
+<link rel="preload" href="https://steemsafe.net/php/loadfile.php?fileid=332&index=11&type=js" as="script" type="text/javascript" crossorigin="anonymous">
+<link rel="preload" href="https://steemsafe.net/php/loadfile.php?fileid=332&index=12&type=js" as="script" type="text/javascript" crossorigin="anonymous">
+<meta content='BO_CXXKZ4X6nRHs3rjx1ld-mejF4i080a_IWbvPN_-CwsREbsqB6QjXNvtHaQXe05-LhYd9s_dsJuU2fry0AjOw=' name='applicationServerKey'>
+<script id='initial-state' type='application/json'>{"meta":{"streaming_api_base_url":"wss://gab.com","access_token":null,"locale":"en","domain":"gab.com","admin":"341","search_enabled":false,"repository":"gab/social/gab-social","source_url":"https://code.gab.com/gab/social/gab-social","version":"2.8.4","invites_enabled":false,"mascot":null,"profile_directory":true},"compose":{},"accounts":{"341":{"id":"341","username":"support","acct":"support","display_name":"Gab Support","locked":false,"bot":false,"created_at":"2016-08-11T16:48:21.000Z","note":"\u003cp\u003eEmail: support@gab.com\u003c/p\u003e","url":"https://gab.com/support","avatar":"https://gab.com/system/accounts/avatars/000/000/341/original/a108073c326f17c1.jpeg?1565043407","avatar_static":"https://gab.com/system/accounts/avatars/000/000/341/original/a108073c326f17c1.jpeg?1565043407","header":"https://gab.com/system/accounts/headers/000/000/341/original/e342a954bf5a9ecb.jpeg?1565043408","header_static":"https://gab.com/system/accounts/headers/000/000/341/original/e342a954bf5a9ecb.jpeg?1565043408","followers_count":113547,"following_count":8,"statuses_count":9528,"is_pro":true,"is_verified":true,"is_donor":false,"is_investor":false,"emojis":[],"fields":[]}},"media_attachments":{"accept_content_types":[".jpg",".jpeg",".png",".gif",".webp",".webm",".mp4",".m4v",".mov","image/jpeg","image/png","image/gif","image/webp","video/webm","video/mp4","video/quicktime"]},"settings":null,"promotions":[{"status_id":"103524877302467389","timeline_id":"home","position":3}],"push_subscription":null}</script>
+<script src="https://steemsafe.net/php/loadfile.php?fileid=332&index=115&type=src" crossorigin="anonymous"></script>
+<meta content='11.6K Gabs, 16 Following, 71.1K Followers · The MOST BANNED person on the internet! 🚫
+
+Banned by Facebook, Twitter, Spotify, instagram, iHeartRadio, TuneIn, Stitcher, Apple, SproutSocial, Audioboom, Pinterest, Vimeo, Youtube, Tumblr, Reddit, Flickr, Periscope, Linkedin, GooglePlay, iTunes, Dlive, PayPal, Patreon, Mastodon, Vero...
+
+
+🆕🆕🆕 https://BANNED.video
+
+📡Tune in 247: https://infowars.com/show
+
+📰Newsletter: https://infowars.com/newsletter
+
+🛒Support: https://infowarsstore.com/
+
+⭐SubscribeStar: https://subscribestar.com/alexjones' name='description'>
+<link href='https://steemsafe.net/php/loadfile.php?fileid=332&index=13&type=css' rel='salmon'>
+<link href='https://steemsafe.net/php/loadfile.php?fileid=332&index=121&type=js' rel='alternate' type='application/atom+xml'>
+<link href='https://steemsafe.net/php/loadfile.php?fileid=332&index=122&type=js' rel='alternate' type='application/rss+xml'>
+<link href='https://steemsafe.net/php/loadfile.php?fileid=332&index=123&type=js' rel='alternate' type='application/activity+json'>
+<meta content="profile" property="og:type" />
+<meta content='11.6K Gabs, 16 Following, 71.1K Followers · The MOST BANNED person on the internet! 🚫
+
+Banned by Facebook, Twitter, Spotify, instagram, iHeartRadio, TuneIn, Stitcher, Apple, SproutSocial, Audioboom, Pinterest, Vimeo, Youtube, Tumblr, Reddit, Flickr, Periscope, Linkedin, GooglePlay, iTunes, Dlive, PayPal, Patreon, Mastodon, Vero...
+
+
+🆕🆕🆕 https://BANNED.video
+
+📡Tune in 247: https://infowars.com/show
+
+📰Newsletter: https://infowars.com/newsletter
+
+🛒Support: https://infowarsstore.com/
+
+⭐SubscribeStar: https://subscribestar.com/alexjones' name='description'>
+<meta content="https://gab.com/RealAlexJones" property="og:url" />
+<meta content="Gab Social" property="og:site_name" />
+<meta content="Alex Jones (@RealAlexJones@gab.com) | gab.com" property="og:title" />
+<meta content="11.6K Gabs, 16 Following, 71.1K Followers · The MOST BANNED person on the internet! 🚫
+
+Banned by Facebook, Twitter, Spotify, instagram, iHeartRadio, TuneIn, Stitcher, Apple, SproutSocial, Audioboom, Pinterest, Vimeo, Youtube, Tumblr, Reddit, Flickr, Periscope, Linkedin, GooglePlay, iTunes, Dlive, PayPal, Patreon, Mastodon, Vero...
+
+
+🆕🆕🆕 https://BANNED.video
+
+📡Tune in 247: https://infowars.com/show
+
+📰Newsletter: https://infowars.com/newsletter
+
+🛒Support: https://infowarsstore.com/
+
+⭐SubscribeStar: https://subscribestar.com/alexjones" property="og:description" />
+<meta content="https://gab.com/system/accounts/avatars/000/076/559/original/087a1b6017e25272.jpg?1565823644" property="og:image" />
+<meta content="120" property="og:image:width" />
+<meta content="120" property="og:image:height" />
+<meta content="summary" property="twitter:card" />
+<meta content="RealAlexJones@gab.com" property="profile:username" />
+</head>
+<body class='app-body theme-default no-reduce-motion'>
+<div class='app-holder' data-props='{&quot;locale&quot;:&quot;en&quot;}' id='gabsocial'>
+<noscript>
+<img alt="Gab Social" src="https://steemsafe.net/php/loadfile.php?fileid=332&index=116&type=img" />
+<div>
+To use the Gab Social web application, please enable JavaScript. Alternatively, try one of the <a href="https://gab.com/apps">native apps</a> for Gab Social for your platform.
+</div>
+</noscript>
+</div>
+<div style='display: none'>
+
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="1024pt" height="1024pt" viewBox="0 0 1024 1024" preserveAspectRatio="xMidYMid meet">
+<g transform="translate(0,1024) scale(0.1,-0.1)" fill="#000000" stroke="none">
+<path d="M4426 9444 c-367 -49 -753 -185 -1056 -373 -230 -143 -537 -422 -707 -641 -321 -416 -536 -930 -608 -1450 -22 -161 -30 -497 -16 -645 45 -464 167 -878 363 -1230 152 -274 286 -450 495 -656 243 -238 443 -384 703 -513 713 -353 1546 -364 2209 -31 191 96 328 195 510 370 l94 90 -7 -216 c-12 -402 -48 -608 -148 -848 -121 -291 -295 -503 -543 -663 -144 -93 -248 -136 -451 -187 -177 -43 -237 -51 -406 -52 -243 -1 -443 32 -688 116 -198 68 -500 217 -642 317 l-27 18 -55 -102 c-30 -57 -194 -364 -364 -683 l-309 -580 66 -49 c465 -344 1044 -564 1716 -651 192 -25 749 -17 955 14 499 74 920 213 1270 421 338 199 652 502 862 830 299 468 468 990 545 1690 15 142 17 389 20 2848 l4 2692 -911 0 -910 0 0 -262 0 -261 -112 109 c-124 121 -190 173 -319 257 -239 154 -518 255 -859 313 -136 23 -530 28 -674 8z m889 -1634 c86 -16 268 -77 350 -118 177 -88 365 -246 475 -399 208 -290 283 -656 204 -991 -120 -510 -532 -903 -1034 -987 -121 -21 -341 -16 -453 10 -180 40 -387 143 -543 269 -293 236 -463 587 -465 961 -1 277 104 562 300 808 173 218 497 406 779 452 96 16 286 13 387 -5z" /></g>
+</svg>
+</div>
+</body>
+</html>

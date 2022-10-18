@@ -1,0 +1,55 @@
+/*
+demo styles
+*/
+
+.player-container {
+    background-color: black;
+    margin: 0px 20px 18px 0;
+    width: 100%;
+}
+
+.player-minimize .player-position {
+	background-color: white;
+	border-radius: 2px;
+	bottom: 20px;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.25);
+	left: 20px;
+	padding: 7px;
+	position: fixed;
+	width: 300px;
+	z-index: 47;
+}
+
+/*
+overrides for developer site defaults (for presentation only, non-demo styles)
+*/
+
+.demo-single .demo-layout-content .jwplayer {
+	margin: 0;
+}
+
+.demo-layout-content {
+	text-align: left;
+}
+
+.demo-single .demo-layout-content h2 {
+	font-size: 42px;
+	font-weight: 700;
+	margin-top: 20px;
+}
+
+.demo-single .demo-layout-content p,
+.demo-single .demo-layout-content p + p {
+	margin-top: 20px;
+}
+
+.demo-single .demo-layout-vertical .demo-layout-code {
+	max-width: 900px;
+	width: 100%;
+}
+.jw-rightclick.jw-reset, .jw-rightclick.jw-reset.jw-open {
+    display: none !important;
+}
+.player-container {
+    height: inherit !important;
+}

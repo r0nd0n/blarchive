@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Discover</title>
+	<atom:link href="https://discover.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://discover.wordpress.com</link>
+	<description>A daily selection of the best content published on WordPress, collected for you by humans who love to read.</description>
+	<lastBuildDate>Thu, 02 Jan 2020 08:29:21 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='discover.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9e4e04719c81ca4936a63ea2dce6ace?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>Discover</title>
+		<link>https://discover.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://discover.wordpress.com/osd.xml" title="Discover" />
+	<atom:link rel='hub' href='https://discover.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>The Slow Traveler</title>
+		<link>https://discover.wordpress.com/2020/01/03/the-slow-traveler/</link>
+				<pubDate>Fri, 03 Jan 2020 14:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Cheri Lucas Rowlands]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Literature]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Reading]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[travelers]]></category>
+
+		<guid isPermaLink="false">http://discover.wordpress.com/?p=39815</guid>
+				<description><![CDATA[Carolyn at <em>The Slow Traveler</em> is a UK-based photographer and blogger. She writes about photography, books, and the inner-workings of social media (especially Instagram).]]></description>
+								<content:encoded><![CDATA[<p>Carolyn at <em>The Slow Traveler</em> is a UK-based photographer and blogger. She writes about photography, books, and the inner-workings of social media (especially Instagram).  </p>
+]]></content:encoded>
+									
+		<media:thumbnail url="https://discover.files.wordpress.com/2019/12/screen-shot-2019-12-10-at-9.23.50-pm.png" />
+		<media:content url="https://discover.files.wordpress.com/2019/12/screen-shot-2019-12-10-at-9.23.50-pm.png" medium="image">
+			<media:title type="html">the slow traveler</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/36207d4c7c014b0999b995ca3971d383?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">CL</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Which Comics Should You Read in 2020? Here Are Some Ideas.</title>
+		<link>https://discover.wordpress.com/2020/01/02/which-comics-should-you-read-in-2020-here-are-some-ideas/</link>
+				<pubDate>Thu, 02 Jan 2020 14:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Ben Huberman]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Authors]]></category>
+		<category><![CDATA[Books]]></category>
+		<category><![CDATA[Comics]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Illustration]]></category>
+		<category><![CDATA[Popular Culture]]></category>
+		<category><![CDATA[Reading]]></category>
+		<category><![CDATA[Storytelling]]></category>
+		<category><![CDATA[Comic Books]]></category>
+		<category><![CDATA[graphic novel]]></category>
+		<category><![CDATA[visual storytelling]]></category>
+
+		<guid isPermaLink="false">http://discover.wordpress.com/?p=40096</guid>
+				<description><![CDATA[Comics and graphic-novels fans, rejoice! At <em>The Drunken Odyssey</em>, Drew Barth recommends some of the most anticipated titles of 2020 &#8212; the ones that will set the tone for an entire decade of visual storytelling.]]></description>
+								<content:encoded><![CDATA[<p>Comics and graphic-novels fans, rejoice! At <em>The Drunken Odyssey</em>, Drew Barth recommends some of the most anticipated titles of 2020 &#8212; the ones that will set the tone for an entire decade of visual storytelling.</p>
+]]></content:encoded>
+									
+		<media:thumbnail url="https://discover.files.wordpress.com/2020/01/ny1-e1577953724894.jpg" />
+		<media:content url="https://discover.files.wordpress.com/2020/01/ny1-e1577953724894.jpg" medium="image">
+			<media:title type="html">cover of Umma&#039;s Table by Yeon-Sik Hong</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/663dcd498e8c5f255bfb230a7ba07678?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">benhuberman</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Building a Dream Community: Daybreaker and Its Inclusive Global Dance Floor</title>
+		<link>https://discover.wordpress.com/2020/01/01/daybreaker/</link>
+				<comments>https://discover.wordpress.com/2020/01/01/daybreaker/#comments</comments>
+				<pubDate>Wed, 01 Jan 2020 15:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[Cheri Lucas Rowlands]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Exploration]]></category>
+		<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Mental Health]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[connection]]></category>
+		<category><![CDATA[Dance]]></category>
+		<category><![CDATA[dancing]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[mindfulness]]></category>
+		<category><![CDATA[networking]]></category>
+		<category><![CDATA[parties]]></category>
+		<category><![CDATA[party]]></category>
+		<category><![CDATA[sober]]></category>
+		<category><![CDATA[sobriety]]></category>
+		<category><![CDATA[wellness]]></category>
+		<category><![CDATA[yoga]]></category>
+
+		<guid isPermaLink="false">http://discover.wordpress.com/?p=39906</guid>
+				<description><![CDATA[Social entrepreneur Radha Agrawal launched a morning dance party, Daybreaker, that celebrates wellness, self-expression, and inclusion.]]></description>
+								<content:encoded><![CDATA[<p class="intro">&#8220;What could nightlife be if you actually took away all the vices and leave the good stuff, the magic, the joy, the self-expression &#8212; and do it in the morning?&#8221; asks <a href="https://www.radhaagrawal.com/">Radha Agrawal</a>, a founder, speaker, and the author of <em>Belong: Find Your People, Create Community, and Live a More Connected Life</em>. When Radha turned 30, she felt like she didn&#8217;t belong, and that she &#8220;sleepwalked and coasted through her twenties.&#8221; An entrepreneur who creates solutions to social problems, she had an <em>aha!</em> moment &#8212; and her morning dance party, <a href="https://www.daybreaker.com/">Daybreaker</a>, was born.</p>
+<p>Today, Daybreaker has grown into a network of 500,000+ members in 28 cities (and counting) around the world. Each event begins with an hour of yoga and fitness, followed by a few hours of dancing &#8212; all before you start your work day.</p>
+<p>These sober dance parties are about wellness, mindfulness, and self-expression, &#8220;across ages, across genders, across continents, across countries,&#8221; says Radha. Sound energizing? Oprah (yes, <em>that</em> Oprah) thinks so. In the new year, the talk show host will hit the road in a nine-city tour across the US called &#8220;Oprah’s 2020 Vision: Your Life in Focus&#8221; &#8212; and Daybreaker will open at every stop.</p>
+<figure data-shortcode="caption" id="attachment_39933" aria-describedby="caption-attachment-39933" style="width: 695px" class="wp-caption aligncenter fullbleed"><img data-attachment-id="39933" data-permalink="https://discover.wordpress.com/2020/01/01/daybreaker/4z0a1268/" data-orig-file="https://discover.files.wordpress.com/2019/12/4z0a1268.jpg" data-orig-size="2880,1920" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;4.5&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark III&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1560521025&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;50&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="4Z0A1268" data-image-description="" data-medium-file="https://discover.files.wordpress.com/2019/12/4z0a1268.jpg?w=315" data-large-file="https://discover.files.wordpress.com/2019/12/4z0a1268.jpg?w=685" class="size-large wp-image-39933" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=692&type=img" alt="" width="685" height="457" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=693&type=img 685w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=694&type=img 1370w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=695&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=696&type=img 315w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=697&type=img 768w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=698&type=img 1220w" sizes="(max-width: 685px) 100vw, 685px" /><figcaption id="caption-attachment-39933" class="wp-caption-text">Photograph by <a href="https://www.scoutlab.com/">Scout Lab</a></figcaption></figure>
+<hr />
+<p><video  class='youtube-player' type='text/html' width='685' height='386'  allowfullscreen='true' style='border:0;' controls><source src='loadfile.php?fileid=162&index=699&type=vid'></video></></p>
+<p>Through the Daybreaker experience, Radha has built a space for all, no matter who you are or where you&#8217;re from. &#8220;When you belong, you feel instantly safe, you feel instantly free to be fully yourself,&#8221; she says. &#8220;Daybreaker really is that inclusive dance floor for everyone, and WordPress has given us the opportunity to do that.&#8221;</p>
+<p>Daybreaker&#8217;s website is truly the hub of this community: it&#8217;s where you go to get details about <a href="https://www.daybreaker.com/world/">upcoming events</a>; explore <a href="https://www.daybreaker.com/communities">existing communities</a> from Boulder to Buenos Aires and Stockholm to Sydney; find out how to <a href="https://www.daybreaker.com/partners/">become a partner</a>; browse the <a href="https://www.daybreaker.com/shop/">shop</a> of clothing and accessories; and learn about <a href="https://www.daybreaker.com/adventures/">Daybreaker Adventures</a>, or small-group, dance-focused trips.</p>
+<figure data-shortcode="caption" id="attachment_39918" aria-describedby="caption-attachment-39918" style="width: 695px" class="wp-caption aligncenter fullbleed"><img data-attachment-id="39918" data-permalink="https://discover.wordpress.com/2020/01/01/daybreaker/4z0a1199/" data-orig-file="https://discover.files.wordpress.com/2019/12/4z0a1199.jpg" data-orig-size="2880,1920" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark III&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1560512718&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;50&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="4Z0A1199" data-image-description="" data-medium-file="https://discover.files.wordpress.com/2019/12/4z0a1199.jpg?w=315" data-large-file="https://discover.files.wordpress.com/2019/12/4z0a1199.jpg?w=685" class="size-large wp-image-39918" src="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=700&type=img" alt="" width="685" height="457" srcset="https://steemsafe.net:443/php/loadfile.php?fileid=162&index=701&type=img 685w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=702&type=img 1370w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=703&type=img 150w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=704&type=img 315w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=705&type=img 768w, https://steemsafe.net:443/php/loadfile.php?fileid=162&index=706&type=img 1220w" sizes="(max-width: 685px) 100vw, 685px" /><figcaption id="caption-attachment-39918" class="wp-caption-text">Photograph by <a href="https://www.scoutlab.com/">Scout Lab</a></figcaption></figure>
+<blockquote class="pullquote center"><p>When we were able to take Daybreaker onto WordPress, it was one of those moments where we went from this wild, experimental idea to now something that everybody in the whole world could access.</p></blockquote>
+<p>We&#8217;re excited for what&#8217;s to come for Radha and Daybreaker in 2020, as it continues to spread its message of positivity, acceptance, and self-expression in the new year. &#8220;It&#8217;s a really, really fun &#8212; and audacious &#8212; goal, but our new focus is now global unity — true unity,&#8221; says Radha.</p>
+<hr />
+<p style="text-align:center;"><strong>Inspired by Daybreaker? Upgrade to a paid plan today to launch the business or organization website you&#8217;ve always wanted.</strong></p>
+<p style="text-align:center;"><a class="button is-primary" href="https://wordpress.com/pricing/?utm_source=editorial&amp;utm_medium=discover&amp;utm_campaign=daybreaker&amp;utm_term=business&amp;utm_content=post_signoff_button" rel="nofollow">Compare plans</a></p>
+]]></content:encoded>
+							<wfw:commentRss>https://discover.wordpress.com/2020/01/01/daybreaker/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+						
+		<media:thumbnail url="https://discover.files.wordpress.com/2019/12/4z0a8457.jpg" />
+		<media:content url="https://discover.files.wordpress.com/2019/12/4z0a8457.jpg" medium="image">
+			<media:title type="html">4Z0A8457</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/36207d4c7c014b0999b995ca3971d383?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">CL</media:title>
+		</media:content>
+
+		<media:content url="https://discover.files.wordpress.com/2019/12/4z0a1268.jpg?w=685" medium="image" />
+
+		<media:content url="https://discover.files.wordpress.com/2019/12/4z0a1199.jpg?w=685" medium="image" />
+	</item>
+		<item>
+		<title>Stuck in a Book: My favourite books of the decade</title>
+		<link>https://discover.wordpress.com/2020/01/01/stuck-in-a-book-my-favourite-books-of-the-decade/</link>
+				<pubDate>Wed, 01 Jan 2020 14:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[Carolyn Wells]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Literature]]></category>
+		<category><![CDATA[Publishing]]></category>
+		<category><![CDATA[Storytelling]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[book club]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[literary]]></category>
+		<category><![CDATA[new decade]]></category>
+		<category><![CDATA[new year]]></category>
+		<category><![CDATA[PoweredByWordPress]]></category>
+		<category><![CDATA[stuck in a book]]></category>
+
+		<guid isPermaLink="false">http://discover.wordpress.com/?p=40060</guid>
+				<description><![CDATA[Welcome to 2020! On his blog <em>Stuck in a Book</em>, Simon Thomas reflects on his favorite books from the past ten years.]]></description>
+								<content:encoded><![CDATA[<p>Welcome to 2020! On his blog <em>Stuck in a Book</em>, Simon Thomas reflects on his favorite books from the past ten years.</p>
+]]></content:encoded>
+									
+		<media:thumbnail url="https://discover.files.wordpress.com/2019/12/00blog-pics4-e1430210337518.jpg" />
+		<media:content url="https://discover.files.wordpress.com/2019/12/00blog-pics4-e1430210337518.jpg" medium="image">
+			<media:title type="html">00blog-pics4-e1430210337518</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/c5e37740ae83e815e3c4e9ef94367509?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">carolynannewells</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Animalcouriers</title>
+		<link>https://discover.wordpress.com/2019/12/31/animalcouriers/</link>
+				<pubDate>Tue, 31 Dec 2019 14:00:15 +0000</pubDate>
+		<dc:creator><![CDATA[Carolyn Wells]]></dc:creator>
+				<category><![CDATA[Animals]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[#poweredbywordpress]]></category>
+		<category><![CDATA[couriers]]></category>
+		<category><![CDATA[pets]]></category>
+
+		<guid isPermaLink="false">http://discover.wordpress.com/?p=40046</guid>
+				<description><![CDATA[&#8220;We were pleased to have little canary Paris onboard for company during the journey from the UK to Greece.&#8221; Don&#8217;t want to leave your best friend behind? <em>Animalcouriers</em> can move your animals worldwide by air and by road through Europe — and keep you up to date on their travels on their blog!]]></description>
+								<content:encoded><![CDATA[<p>&#8220;We were pleased to have little canary Paris onboard for company during the journey from the UK to Greece.&#8221; Don&#8217;t want to leave your best friend behind? <em>Animalcouriers</em> can move your animals worldwide by air and by road through Europe — and keep you up to date on their travels on their blog!</p>
+]]></content:encoded>
+									
+		<media:thumbnail url="https://discover.files.wordpress.com/2019/12/travel-blog.jpg" />
+		<media:content url="https://discover.files.wordpress.com/2019/12/travel-blog.jpg" medium="image">
+			<media:title type="html">travel-blog</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/c5e37740ae83e815e3c4e9ef94367509?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">carolynannewells</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The New Food Economy</title>
+		<link>https://discover.wordpress.com/2019/12/30/the-new-food-economy/</link>
+				<pubDate>Mon, 30 Dec 2019 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Michelle Weber]]></dc:creator>
+				<category><![CDATA[Animals]]></category>
+		<category><![CDATA[Environment]]></category>
+		<category><![CDATA[Food]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Journals & Magazines]]></category>
+		<category><![CDATA[Nature]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[agriculture]]></category>
+		<category><![CDATA[Culinary history]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[farming]]></category>
+		<category><![CDATA[Food politics]]></category>
+		<category><![CDATA[food supply chain]]></category>
+		<category><![CDATA[PoweredByWordPress]]></category>
+
+		<guid isPermaLink="false">http://discover.wordpress.com/?p=39991</guid>
+				<description><![CDATA[We all have to eat. At <em>The New Food Economy</em>, a nonprofit newsroom, in-depth reporting helps us understand what we eat, why we&#8217;re eating it, and the forces that influence those choices, for better and worse.]]></description>
+								<content:encoded><![CDATA[<p>We all have to eat. At <em>The New Food Economy</em>, a nonprofit newsroom, in-depth reporting helps us understand what we eat, why we&#8217;re eating it, and the forces that influence those choices, for better and worse.</p>
+]]></content:encoded>
+									
+		<media:thumbnail url="https://discover.files.wordpress.com/2019/12/mcdonalds-reduce-greenhouse-gas-emissions-hamburger.png" />
+		<media:content url="https://discover.files.wordpress.com/2019/12/mcdonalds-reduce-greenhouse-gas-emissions-hamburger.png" medium="image">
+			<media:title type="html">mcdonalds-reduce-greenhouse-gas-emissions-hamburger</media:title>
+		</media:content>
+
+		<media:content url="https://2.gravatar.com/avatar/2367004060918e221dcb9799584e9279?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">Michelle, Communications</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>To What Place</title>
+		<link>https://discover.wordpress.com/2019/12/27/to-what-place/</link>
+				<pubDate>Fri, 27 Dec 2019 14:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[Cheri Lucas Rowlands]]></dc:creator>
+				<category><![CDATA[Cooking]]></category>
+		<category><![CDATA[Exploration]]></category>
+		<category><![CDATA[Food]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Wanderlust]]></category>
+		<category><![CDATA[culinary]]></category>
+		<category><![CDATA[expat]]></category>
+		<category><![CDATA[Expat life]]></category>
+		<category><![CDATA[Food blogging]]></category>
+		<category><![CDATA[food writing]]></category>
+		<category><![CDATA[travel blogging]]></category>
+		<category><![CDATA[travel writing]]></category>
+
+		<guid isPermaLink="false">http://discover.wordpress.com/?p=39689</guid>
+				<description><![CDATA[At T<em>o What Place</em>, expat Jaughna shares stories about food and travel from destinations less commonly explored. Her blog won the <em>Saveur</em> Reader&#8217;s Choice and Editor&#8217;s Choice awards for &#8220;Best Culinary Travel Blog&#8221; this year.]]></description>
+								<content:encoded><![CDATA[<p>At T<em>o What Place</em>, expat Jaughna shares stories about food and travel from destinations less commonly explored. Her blog won the <em>Saveur</em> Reader&#8217;s Choice and Editor&#8217;s Choice awards for &#8220;Best Culinary Travel Blog&#8221; this year.</p>
+]]></content:encoded>
+									
+		<media:thumbnail url="https://discover.files.wordpress.com/2019/12/screen-shot-2019-12-06-at-9.54.27-am.png" />
+		<media:content url="https://discover.files.wordpress.com/2019/12/screen-shot-2019-12-06-at-9.54.27-am.png" medium="image">
+			<media:title type="html">Screen Shot 2019-12-06 at 9.54.27 AM</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/36207d4c7c014b0999b995ca3971d383?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">CL</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Village Voice</title>
+		<link>https://discover.wordpress.com/2019/12/26/the-village-voice/</link>
+				<pubDate>Thu, 26 Dec 2019 13:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[Krista Stevens]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Books]]></category>
+		<category><![CDATA[Commentary]]></category>
+		<category><![CDATA[Essay]]></category>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[Journals & Magazines]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Archives]]></category>
+		<category><![CDATA[counter culture]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[New York City]]></category>
+		<category><![CDATA[PoweredByWordPress]]></category>
+		<category><![CDATA[Village Voice]]></category>
+
+		<guid isPermaLink="false">http://discover.wordpress.com/?p=39839</guid>
+				<description><![CDATA[Here, you&#8217;ll find the archives for the widely acclaimed <em>Village Voice</em>, the United States&#8217; first alternative weekly newspaper, covering counter-culture from 1955 to 2018.]]></description>
+								<content:encoded><![CDATA[<p>Here, you&#8217;ll find the archives for the widely acclaimed <em>Village Voice</em>, the United States&#8217; first alternative weekly newspaper, covering counter-culture from 1955 to 2018.</p>
+]]></content:encoded>
+									
+		<media:thumbnail url="https://discover.files.wordpress.com/2019/12/villagevoice.jpg" />
+		<media:content url="https://discover.files.wordpress.com/2019/12/villagevoice.jpg" medium="image">
+			<media:title type="html">villagevoice</media:title>
+		</media:content>
+
+		<media:content url="https://1.gravatar.com/avatar/4f39e362b21c41df5cea83b50e4172fb?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">kristastevens</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Summer Australia Burned</title>
+		<link>https://discover.wordpress.com/2019/12/25/the-summer-australia-burned/</link>
+				<pubDate>Wed, 25 Dec 2019 14:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Ben Huberman]]></dc:creator>
+				<category><![CDATA[Current Events]]></category>
+		<category><![CDATA[Environment]]></category>
+		<category><![CDATA[Landscape]]></category>
+		<category><![CDATA[Nature]]></category>
+		<category><![CDATA[Personal Musings]]></category>
+		<category><![CDATA[Place]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[natural disasters]]></category>
+		<category><![CDATA[wildfires]]></category>
+
+		<guid isPermaLink="false">http://discover.wordpress.com/?p=40065</guid>
+				<description><![CDATA[&#8220;My Christmas wish is for an end to these fires. For no more loss of life. And for rain.&#8221; As many in the Northern Hemisphere celebrate a white Christmas, Australia-based Lee Mylne mourns the devastation brought about by wildfires.]]></description>
+								<content:encoded><![CDATA[<p>&#8220;My Christmas wish is for an end to these fires. For no more loss of life. And for rain.&#8221; As many in the Northern Hemisphere celebrate a white Christmas, Australia-based Lee Mylne mourns the devastation brought about by wildfires.</p>
+]]></content:encoded>
+									
+		<media:thumbnail url="https://discover.files.wordpress.com/2019/12/dsc06867.jpg" />
+		<media:content url="https://discover.files.wordpress.com/2019/12/dsc06867.jpg" medium="image">
+			<media:title type="html">dsc06867</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/663dcd498e8c5f255bfb230a7ba07678?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">benhuberman</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Ladybird Education</title>
+		<link>https://discover.wordpress.com/2019/12/24/ladybird-education/</link>
+				<pubDate>Tue, 24 Dec 2019 14:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[Cheri Lucas Rowlands]]></dc:creator>
+				<category><![CDATA[Academia]]></category>
+		<category><![CDATA[Books]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Reading]]></category>
+		<category><![CDATA[Teaching]]></category>
+		<category><![CDATA[#poweredbywordpress]]></category>
+		<category><![CDATA[children]]></category>
+		<category><![CDATA[educators]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[PoweredByWordPress]]></category>
+		<category><![CDATA[resource]]></category>
+		<category><![CDATA[students]]></category>
+		<category><![CDATA[teachers]]></category>
+
+		<guid isPermaLink="false">http://discover.wordpress.com/?p=39868</guid>
+				<description><![CDATA[<em>Ladybird Education</em> is an international resource of teaching materials to help school children learn English. The large library of Ladybird books can each be unlocked to access more teaching resources and ebook versions of each publication.]]></description>
+								<content:encoded><![CDATA[<p><em>Ladybird Education</em> is an international resource of teaching materials to help school children learn English. The large library of Ladybird books can each be unlocked to access more teaching resources and ebook versions of each publication.</p>
+]]></content:encoded>
+									
+		<media:thumbnail url="https://discover.files.wordpress.com/2019/12/person-reading-a-book-1741230.jpg" />
+		<media:content url="https://discover.files.wordpress.com/2019/12/person-reading-a-book-1741230.jpg" medium="image">
+			<media:title type="html">person-reading-a-book-1741230</media:title>
+		</media:content>
+
+		<media:content url="https://0.gravatar.com/avatar/36207d4c7c014b0999b995ca3971d383?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">CL</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

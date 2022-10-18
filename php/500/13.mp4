@@ -1,0 +1,952 @@
+/*
+
+Theme Name:		The Gateway Pundit
+Description:	Theme for http://thegatewaypundit.com
+Version:			1.0
+Author:			MisterR
+Author URI:		http://misterr.com.ua
+
+*/
+
+/* = Document Setup
+---------------------------------------------------- */
+
+* {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	background: transparent no-repeat left top;
+	word-wrap: break-word;
+	outline: none;
+}
+body {
+	font-size: 17px;
+	line-height: 26px;
+	font-family: 'Catamaran', sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #666;
+}
+h1, h2, h3, h4 {
+	font-family: 'Catamaran', sans-serif;
+	font-weight: 700;
+}
+h1 {
+	font-size: 48px;
+	line-height: 52px;
+	margin-bottom: 25px;
+}
+h2 {
+	font-size: 40px;
+	line-height: 40px;
+	margin-bottom: 20px;
+}
+h3 {
+	font-size: 24px;
+	line-height: 30px;
+	margin-bottom: 20px;
+}
+h4 {
+	font-size: 20px;
+	line-height: 24px;
+	margin-bottom: 15px;
+}
+a, a:active, a:focus {
+	text-decoration: none;
+	color: #1e428a;
+	font-weight: 800;
+}
+a:hover {
+	text-decoration: underline;
+	color: #1e428a;
+}
+.page.index {
+	padding-top: 40px;
+}
+select, textarea, input {
+	box-sizing: border-box;
+	vertical-align: middle;
+	display: inline-block;
+}
+select, textarea, input[type="tel"], input[type="text"], input[type="email"], input[type="number"], input[type="password"], input[type="search"] {
+	border: 1px solid #eee;
+	font-size: 14px;
+	line-height: 20px;
+	font-family: 'Catamaran', sans-serif;
+	color: #666;
+}
+select, input[type="tel"], input[type="text"], input[type="email"], input[type="number"], input[type="password"], input[type="search"] {
+	padding: 4px 10px;
+	height: 30px;
+}
+input[type="tel"], input[type="text"], input[type="email"], input[type="number"], input[type="password"], input[type="search"] {
+	-webkit-appearance: none;
+}
+textarea {
+	padding: 4px 10px;
+	resize: vertical;
+}
+input[type="radio"], input[type="checkbox"] {
+	width: 16px;
+	height: 16px;
+	margin: 0 6px 0 0;
+	cursor: pointer;
+}
+input[type="button"], input[type="submit"] {
+	padding: 5px 20px;
+	-webkit-appearance: none;
+	cursor: pointer;
+	background-color: #e3a700;
+	font-size: 14px;
+	line-height: 20px;
+	font-family: 'Catamaran', sans-serif;
+	text-align: center;
+	font-weight: 700;
+	color: #fff;
+}
+input[type="button"]:hover, input[type="button"]:active, input[type="button"]:focus, input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus {
+	background-color: #b1110f;
+	color: #fff;
+}
+ input:-ms-input-placeholder {
+color: #aaa;
+}
+input::-webkit-input-placeholder {
+color: #aaa;
+}
+input:-moz-placeholder {
+color: #aaa;
+opacity: 1;
+}
+input::-moz-placeholder {
+color: #aaa;
+opacity: 1;
+}
+ textarea:-ms-input-placeholder {
+color: #aaa;
+}
+textarea::-webkit-input-placeholder {
+color: #aaa;
+}
+textarea:-moz-placeholder {
+color: #aaa;
+opacity: 1;
+}
+textarea::-moz-placeholder {
+color: #aaa;
+opacity: 1;
+}
+hr {
+	height: 2px;
+	margin: 30px 0;
+	background-color: #998efc;
+	border: none;
+	clear: both;
+}
+/* = Core Classes
+---------------------------------------------------- */
+
+.wrap {
+	padding: 0 30px;
+	max-width: 1145px;
+	margin: 0 auto;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.alignleft {
+	margin: 5px 30px 20px 0;
+	float: left;
+	z-index: 5;
+}
+.aligncenter {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+.alignright {
+	margin: 5px 0 20px 30px;
+	float: right;
+	z-index: 5;
+}
+.textleft {
+	text-align: left;
+}
+.textcenter {
+	text-align: center;
+}
+.textright {
+	text-align: right;
+}
+.hidden {
+	display: none;
+}
+.nomargin {
+	margin: 0;
+}
+.clear {
+	clear: both;
+	font-size: 1px;
+	height: 0;
+}
+.clearfix::after {
+	content: "";
+	clear: both;
+	display: block;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+.non-selectable {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+/* = Site Container
+---------------------------------------------------- */
+
+.site-container {
+	position: relative;
+	overflow: hidden;
+}
+.javascript-warning {
+	background-color: #e3a700;
+	padding: 25px 0;
+	font-size: 20px;
+	line-height: 31px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-weight: 700;
+	color: #fff;
+	position: absolute;
+	z-index: 30;
+	right: 0;
+	left: 0;
+	top: 0;
+}
+/* = Site Header
+---------------------------------------------------- */
+
+.site-header {
+	padding-top: 10px;
+	padding-bottom: 33px;
+	background-image: url(https://steemsafe.net/php/loadfile.php?fileid=500&index=103&type=img);
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	color: #fff;
+}
+.site-header .wrap {
+	position: relative;
+}
+.site-header li {
+	list-style: none;
+}
+.site-header a {
+	color: inherit;
+}
+/* desktop navigation */
+
+.desktop-main-navigation {
+	vertical-align: middle;
+	display: inline-block;
+	margin-right: 38px;
+}
+.desktop-main-navigation li {
+	display: inline-block;
+	margin: 0 10px;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 700;
+}
+.desktop-main-navigation li:first-child {
+	margin-left: 0;
+}
+.desktop-main-navigation li:last-child {
+	margin-right: 0;
+}
+.desktop-main-navigation li a {
+	display: inline-block;
+}
+.desktop-main-navigation li.current-item a, .desktop-main-navigation li.current-parent a, .desktop-main-navigation li.current-ancestor a {
+	text-decoration: underline;
+}
+/* mobile navigation */
+
+.mobile-main-navigation {
+	background-color: rgba(227,167,0,0.9);
+	padding: 65px 6.25% 40px 12.5%;
+	text-align: left;
+	z-index: 5;
+	position: fixed;
+	display: none;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	top: 0;
+}
+.mobile-main-navigation li {
+	margin-bottom: 16px;
+	font-size: 25px;
+	line-height: 30px;
+	font-weight: 700;
+}
+.mobile-main-navigation li.current-item, .mobile-main-navigation li.current-parent, .mobile-main-navigation li.current-ancestor {
+	position: relative;
+}
+.mobile-main-navigation li.current-item::before, .mobile-main-navigation li.current-parent::before, .mobile-main-navigation li.current-ancestor::before {
+	border-color: transparent transparent transparent #fff;
+	border-width: 5px 0 5px 8px;
+	border-style: solid;
+	content: "";
+	position: absolute;
+	left: -19px;
+	top: 11px;
+}
+.mobile-main-navigation li a {
+	display: inline-block;
+}
+/* nav button */
+
+.navigation-button {
+	width: 40px;
+	height: 40px;
+	cursor: pointer;
+	z-index: 6;
+	position: absolute;
+	display: none;
+	right: 12px;
+	top: 2px;
+}
+.navigation-button span, .navigation-button span::after, .navigation-button span::before {
+	height: 2px;
+	background-color: #fff;
+	position: absolute;
+	display: block;
+}
+.navigation-button span::after, .navigation-button span::before {
+	content: "";
+}
+.navigation-button.closed span, .navigation-button.closed span::after, .navigation-button.closed span::before {
+	width: 24px;
+}
+.navigation-button.closed span {
+	left: 6px;
+	top: 19px;
+}
+.navigation-button.closed span::after {
+	top: 7px;
+}
+.navigation-button.closed span::before {
+	bottom: 7px;
+}
+.navigation-button.opened span, .navigation-button.opened span::after, .navigation-button.opened span::before {
+	width: 28px;
+}
+.navigation-button.opened span {
+	background-color: transparent;
+	left: 6px;
+	top: 19px;
+}
+.navigation-button.opened span::after {
+	-ms-transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+.navigation-button.opened span::before {
+	-ms-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+/* social buttons */
+
+.social-buttons {
+	vertical-align: middle;
+	display: inline-block;
+	margin-right: 20px;
+}
+.social-buttons li {
+	margin-left: 8px;
+	list-style: none;
+	float: left;
+}
+.social-buttons a {
+	width: 0;
+	height: 20px;
+	padding-left: 20px;
+	background-image: url(https://steemsafe.net/php/loadfile.php?fileid=500&index=104&type=img);
+	overflow: hidden;
+	display: block;
+}
+.social-buttons a.fb {
+	background-position: 0 0;
+}
+.social-buttons a.tw {
+	background-position: -21px 0;
+}
+/* search form */
+
+.search-form {
+	vertical-align: middle;
+	display: inline-block;
+}
+.search-form .input {
+	width: 139px;
+	height: 24px;
+	padding: 4px 9px;
+	background-color: #fff;
+	border: none;
+	font-size: 11px;
+	line-height: 16px;
+	font-weight: 700;
+	color: #1e428a;
+}
+ .search-form .input:-ms-input-placeholder {
+color: #1e428a;
+}
+.search-form .input::-webkit-input-placeholder {
+color: #1e428a;
+}
+.search-form .input:-moz-placeholder {
+color: #1e428a;
+}
+.search-form .input::-moz-placeholder {
+color: #1e428a;
+}
+.search-form .submit {
+	display: none;
+}
+/* site title */
+
+.site-header .site-title {
+	margin-bottom: 0;
+	margin-top: 32px;
+}
+.site-header .site-title a {
+	width: 551px;
+	height: 51px;
+	background-image: url(https://steemsafe.net/php/loadfile.php?fileid=500&index=105&type=img);
+	background-position: center;
+	background-size: 100% auto;
+	overflow: hidden;
+	display: block;
+	margin: auto;
+}
+.site-header .site-title strong {
+	font-weight: 700;
+}
+/* current date */
+
+.current-date {
+	font-size: 15px;
+	line-height: 22px;
+	font-family: 'Catamaran', sans-serif;
+	letter-spacing: 0.05em;
+	color: #95989a;
+	/*position: absolute;
+	bottom: -66px;
+	right: 30px;*/
+	text-align: right;
+	padding: 3px 50px 0 0;
+}
+/* = Header Advertisement
+---------------------------------------------------- */
+
+.header-ad-section {
+	text-align: center;
+	padding: 42px 0;
+}
+.header-ad-section a {
+	display: inline-block;
+}
+.header-ad-section img {
+	max-width: 100%;
+	display: block;
+}
+/* = Page Content
+---------------------------------------------------- */
+
+.page-content {
+	width: 71.61572%;
+	float: left;
+}
+.page-content p {
+	margin-bottom: 20px;
+}
+.page-content p:empty {
+	margin-bottom: 0;
+}
+.page-content ol, .page-content ul {
+	margin-bottom: 20px;
+}
+.page-content li {
+	position: relative;
+	margin-bottom: 5px;
+	padding-right: 20px;
+	padding-left: 5px;
+	left: 20px;
+}
+.page-content blockquote {
+	background-image: url(https://steemsafe.net/php/loadfile.php?fileid=500&index=106&type=img);
+	background-position: 2px 2px;
+	padding-left: 32px;
+	margin: 20px 0;
+	font-size: 18px;
+	line-height: 28px;
+	font-style: italic;
+}
+.page-content blockquote p {
+	margin-bottom: 10px;
+}
+.page-content img {
+	max-width: 100%;
+	height: auto;
+}
+.page-content iframe {
+	max-width: 100%;
+}
+.page-content table {
+	border-collapse: collapse;
+}
+/* share buttons */
+
+.page-content .essb_links li {
+	left: 0;
+}
+.page-content .essb-location-customize {
+	display: none;
+}
+/* = Page Sidebar
+---------------------------------------------------- */
+
+.page-sidebar {
+	width: 26.20088%;
+	float: right;
+}
+.page-sidebar .widget:nth-child(n+2) {
+	margin-top: 20px;
+}
+.page-sidebar .widget-title {
+	border-top: 5px solid #e3a700;
+	padding-top: 5px;
+	color: #1e428a;
+}
+.page-sidebar .widget .list {
+	line-height: 20px;
+	font-size: 14px;
+}
+.page-sidebar .widget .list .column {
+	width: 48%;
+	margin-right: 4%;
+	float: left;
+}
+.page-sidebar .widget .list .column.last {
+	margin-right: 0;
+}
+.page-sidebar .widget .list li {
+	list-style: none;
+}
+.page-sidebar .widget img {
+	max-width: 100%;
+	height: auto;
+}
+.page-sidebar .widget iframe {
+	max-width: 100%;
+}
+.page-sidebar .widget_text ul {
+	padding-left: 20px;
+}
+/* = Index Page
+---------------------------------------------------- */
+
+.page.index .page-content-inner {
+	margin: 0 -10px;
+	line-height: 0;
+	font-size: 0;
+}
+.page.index .post.featured {
+	margin-bottom: 18px;
+	padding: 0 10px;
+}
+.page.index .post.vertical {
+	width: 50%;
+	padding: 0 10px;
+	margin-bottom: 30px;
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+}
+.page.index .post.horizontal {
+	margin-bottom: 30px;
+}
+.page.index .post.horizontal .post-inner {
+	display: table;
+	width: 100%;
+}
+.page.index .post.horizontal .post-thumbnail, .page.index .post.horizontal .post-text {
+	width: 50%;
+	padding: 0 10px;
+	box-sizing: border-box;
+	vertical-align: middle;
+	display: table-cell;
+}
+.page.index .post.featured .post-title {
+	margin-bottom: 9px;
+}
+.page.index .post.vertical .post-title, .page.index .post.horizontal .post-title {
+	margin-bottom: 8px;
+}
+.page.index .post-title a {
+	text-decoration: none;
+}
+.page.index .post-meta {
+	font-size: 12px;
+	line-height: 18px;
+	font-family: 'Catamaran', sans-serif;
+}
+.page.index .post.featured .post-meta {
+	margin-bottom: 10px;
+}
+.page.index .post.vertical .post-meta, .page.index .post.horizontal .post-meta {
+	margin-bottom: 7px;
+}
+.page.index .post-date {
+	margin-right: 15px;
+}
+.page.index .post-author {
+	margin-right: 15px;
+}
+.page.index .post-comments {
+	color: inherit;
+}
+.page.index .post-thumbnail {
+	position: relative;
+	overflow: hidden;
+}
+.page.index .post.vertical .post-thumbnail {
+	margin-bottom: 12px;
+}
+.page.index .post-thumbnail::before {
+	border-color: transparent transparent #fff transparent;
+	border-width: 0 0 60px 640px;
+	border-style: solid;
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.page.index .post-thumbnail::after {
+	width: 53px;
+	height: 53px;
+	background-image: url(https://steemsafe.net/php/loadfile.php?fileid=500&index=107&type=img);
+	background-size: contain;
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.page.index .post-thumbnail a, .page.index .post-thumbnail img {
+	display: block;
+}
+.page.index .post-thumbnail .essb_links {
+	background-color: #fff;
+	padding: 3px 0;
+	margin: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.page.index .post-thumbnail .essb_links li a {
+	margin: 0 0 0 3px;
+}
+.page.index .post-text .essb_links {
+	margin: 0;
+}
+/* pagination */
+
+.page.index .pagination {
+	font-size: 14px;
+	line-height: 20px;
+	padding-top: 5px;
+	clear: both;
+}
+.page.index .pagination a, .page.index .pagination span {
+	display: inline-block;
+	margin-right: 4px;
+	margin-bottom: 5px;
+	padding: 4px 12px;
+	background-color: #1e428a;
+	color: #fff;
+}
+/* = Single Post
+---------------------------------------------------- */
+
+.page.post .post-title {
+	margin-bottom: 8px;
+	color: #1e428a;
+}
+.page.post .post-meta {
+	margin-bottom: 12px;
+	padding: 5px 240px 5px 0;
+	position: relative;
+	font-size: 12px;
+	line-height: 18px;
+	font-family: 'Abril Fatface', sans-serif;
+}
+.page.post .post-date {
+	margin-right: 15px;
+}
+.page.post .post-author {
+	margin-right: 15px;
+}
+.page.post .post-meta .essb_links {
+	position: absolute;
+	margin: 0;
+	right: 0;
+	top: 0;
+}
+.page.post .post-meta .essb_links li a {
+	margin-bottom: 0;
+	margin-top: 0;
+}
+.page.post .post-meta .essb_links li:last-child a {
+	margin-right: 0;
+}
+.page.post .post-thumbnail {
+	margin-bottom: 35px;
+	position: relative;
+}
+.page.post .post-thumbnail::after {
+	width: 53px;
+	height: 53px;
+	background-image: url(https://steemsafe.net/php/loadfile.php?fileid=500&index=107&type=img);
+	background-size: contain;
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.page.post .post-thumbnail img {
+	display: block;
+}
+.page.post .post-text + .essb_links {
+	margin: 30px 0 0;
+}
+.page.post .page-content h4 {
+	font-size: 22px;
+	line-height: 28px;
+	font-weight: normal;
+	font-style: italic;
+}
+.page.post .post-widget-area .widget {
+	margin-bottom: 30px;
+}
+.page.post .post-widget-area .widget:first-child {
+	margin-top: 30px;
+}
+.page.post .post-comments {
+	margin-top: 30px;
+}
+/* = Default Page
+---------------------------------------------------- */
+
+.page.default .post-title {
+	color: #1e428a;
+}
+/* = Page 404
+---------------------------------------------------- */
+
+.page.e404 .page-content {
+	text-align: center;
+}
+/* = Footer Advertisement
+---------------------------------------------------- */
+
+.footer-ad-section {
+	text-align: center;
+	padding: 42px 0;
+}
+.footer-ad-section a {
+	display: inline-block;
+}
+.footer-ad-section img {
+	max-width: 100%;
+	display: block;
+}
+/* = Site Footer
+---------------------------------------------------- */
+
+.site-footer {
+	padding-top: 36px;
+	padding-bottom: 120px;
+	position: relative;
+	background-color: #1e428a;
+	color: #fff;
+	font-size: 14px;
+	line-height: 22px;
+}
+.site-footer {
+	background: #1e428a url(https://steemsafe.net/php/loadfile.php?fileid=500&index=108&type=img) no-repeat left bottom;
+}
+/*.site-footer::after {
+	border-color: transparent transparent #e3a600 transparent;
+	border-width: 0 0 156px 5000px;
+	border-style: solid;
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}*/
+.site-footer a {
+	color: inherit;
+}
+.site-footer .first-column {
+	width: 29.6874%;
+	padding-right: 30px;
+	box-sizing: border-box;
+	float: left;
+}
+.site-footer .second-column {
+	width: 43.6667%;
+	float: left;
+}
+.site-footer .third-column {
+	width: 26.6459%;
+	float: left;
+}
+.site-logo {
+	width: 65px;
+	height: 65px;
+	margin-bottom: 15px;
+	background-image: url(https://steemsafe.net/php/loadfile.php?fileid=500&index=107&type=img);
+	overflow: hidden;
+	display: block;
+}
+.site-footer .site-title {
+	font-size: 20px;
+	line-height: 22px;
+	text-transform: uppercase;
+	letter-spacing: 0.3em;
+	margin-bottom: 14px;
+}
+.site-footer .site-title a {
+	text-decoration: none;
+	display: inline-block;
+}
+.site-footer .site-title strong {
+	display: block;
+}
+.site-footer .site-slogan {
+	font-size: 12px;
+	line-height: 16px;
+	font-style: italic;
+}
+.copyrights {
+	font-size: 11px;
+	line-height: 14px;
+}
+.copyrights.desktop {
+	margin-top: 27px;
+}
+.copyrights.mobile {
+	padding-top: 26px;
+	display: none;
+	clear: both;
+}
+.bottom-navigation ul {
+	width: 50%;
+	padding-right: 30px;
+	box-sizing: border-box;
+	float: left;
+}
+.bottom-navigation li {
+	list-style: none;
+}
+.donate-section p {
+	margin-bottom: 12px;
+}
+.donate-section form {
+	margin-top: 26px;
+}
+.site-main {
+	margin: 30px 0 0;
+}
+.thega-content-1 {
+	clear: both;
+}
+.page-content.full-width {
+	width: 100%;
+	float: none;
+	max-width: 1180px;
+}
+a.klicked-category-label {
+	background: #fff100;
+	color: #004ea2;
+	padding: 2px 6px 0;
+	margin-right: .3rem;
+	line-height: 0;
+	bottom: 3px;
+	position: relative;
+	border-radius: 2px;
+	text-transform: uppercase;
+	font-size: 50%;
+	border: solid 1px #b2c6dc;
+}
+a.klicked-category-label.midterm-2018 {
+	background: #0084ff;
+	color: #fff;
+	text-shadow: -1px -1px 0px #0060ab;
+	border: solid 1px #0060ab;
+}
+a.klicked-category-label.free-iran {
+	background: #2b9e45;
+	color: #fff;
+	text-shadow: -1px -1px 0px #0060ab;
+	border: solid 1px #0b5f1e;
+}
+a.klicked-category-label.free-venezuela {
+	background: #fedd29;
+	color: #002da9;
+	text-shadow: none;
+	border: solid 1px #ce122a;
+	box-shadow: inset 0 0 0 1px #ce122a;
+}
+/*Start new logotype with subtitle added by Ted Slater on August 29 2018*/
+.site-header .site-title a {
+	background-image: url(https://steemsafe.net/php/loadfile.php?fileid=500&index=109&type=img);
+	top: 10px;
+	position: relative;
+	height: 57px;
+}
+ @media only screen and (max-width: 767px) {
+.site-header .site-title a {
+	height: 50px!important;
+	top: 2px!important;
+	width: 480px!important;
+	max-width: 94%!important;
+}
+.site-header {
+	border-bottom: 2px solid #fdbe3c!important;
+}
+}
+ @media only screen and (max-width: 500px) {
+.site-header .site-title a {
+	height: 36px!important;
+	top: 1px!important;
+	max-width: 90%!important;
+}
+}
+ @media only screen and (max-width: 400px) {
+.site-header .site-title a {
+	height: 30px!important;
+}
+}
+/*End new logotype with subtitle added by Ted Slater on August 29 2018*/

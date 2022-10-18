@@ -1,0 +1,136 @@
+#!/bin/bash
+
+strindex() { 
+  x="${1%%$2*}"
+  [[ "$x" = "$1" ]] && echo -1 || echo "${#x}"
+}
+
+echo $#;
+echo $1;
+
+if [ $# -eq 4 ] ; then
+echo "made it 1";
+
+if [ $1 == "start" ] ; then
+echo "made it 2";
+
+myfile=$(<conf.conf);
+#echo "$myfile";
+myfile="${myfile//$'\n'/$'>'}";
+myfile="${myfile//$'\r'/$'>'}";
+
+a= echo "$myfile"| grep -b -o ">#path>"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+linpath=${myfile:$a};
+linpath=${linpath:8};
+a= echo "$linpath"| grep -bo ">"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+linpath=${linpath:0:$a};
+
+a= echo "$myfile"| grep -b -o ">#server>"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+server=${myfile:$a};
+server=${server:10};
+a= echo "$server"| grep -bo ">"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+server=${server:0:$a};
+
+a= echo "$myfile"| grep -b -o ">#secret>"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+secret=${myfile:$a};
+secret=${secret:10};
+a= echo "$secret"| grep -bo ">"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+secret=${secret:0:$a};
+
+
+
+if [[ $linpath == \"* ]] ; then
+linpath=${linpath:1};
+fi
+echo $linpath |grep '"$'
+if [ $? -eq 0 ]; then 
+echo "$linpath";
+echo "hello world";
+linpath=${linpath:0:-1};
+echo "$linpath";
+fi
+a=$linpath;
+a+="archive.conf";
+#a+="\"";
+#a="\""$a;
+echo "$a";
+myfile=$(cat "$a");
+echo "$myfile";
+myfile="${myfile//$'\n'/$'>'}";
+myfile="${myfile//$'\r'/$'>'}";
+
+
+a= echo "$myfile"| grep -b -o ">#databasejump>"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+index=${myfile:$a};
+index=${index:16};
+echo "index";
+echo "$a";
+a= echo "$index"| grep -bo ">"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+
+index=${index:0:$a};
+
+a= echo "$myfile"| grep -b -o ">#appname>"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+appname=${myfile:$a};
+appname=${appname:11};
+echo "appnamep1";
+echo "$a";
+echo "$appname";
+a= echo "$appname"| grep -bo ">"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+appname=${appname:0:$a};
+echo "appnamep2";
+echo "$a";
+echo "$appname";
+a= echo "$myfile"| grep -b -o ">#number_of_reader_bots>"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+mod=${myfile:$a};
+mod=${mod:25};
+a= echo "$mod"| grep -bo ">"  | grep -oE '[0-9]+' | head -n 1 >linux.crap;
+a=$(<linux.crap);
+mod=${mod:0:$a};
+
+#echo "php postengine.php $2" "$index" "$mod" "$appname" "$3" "$server" &&;
+a=$2;
+a+=" ";
+a+=$index;
+a+=" ";
+a+=$mod;
+a+=" ";
+a+=$appname;
+a+=" ";
+a+=$3;
+a+=" ";
+a+=$server;
+echo "php postengine.php $a ";
+(php postengine.php $a ) &
+echo "php bot1.php $a ";
+(php bot1.php $a ) &
+
+
+a=$4;
+a+=" ";
+a+=$secret;
+a+=" ";
+a+=$appname;
+a+=" ";
+a+=$server;
+echo "(php refresh.php $a ) &"
+
+(php refresh.php $a ) &
+
+else 
+echo "botnumber starts at 1\nenter php startengines.php start botnumber user steemconnectkey";
+fi
+else 
+echo "count".$#;
+echo "botnumber starts at 1\nenter php startengines.php start botnumber user steemconnectkey";
+fi

@@ -1,0 +1,15 @@
+[Unit]
+Description=acccounting
+After=mysql.d
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=3
+User=webadmin
+ExecStart=/usr/bin/env php /var/www/blarchive/admin/refresh.php eyJzaWduZWRfbWVzc2FnZSI6eyJ0eXBlIjoiY29kZSIsImFwcCI6ImJsYXJjaGl2ZSJ9LCJhdXRob3JzIjpbImJsYXJjaGl2ZSJdLCJ0aW1lc3RhbXAiOjE1ODUxNDcwNTAsInNpZ25hdHVyZXMiOlsiMjA3ODA2MGFkMTlhZDU4NDFjNmFkNjgwYTgwZGMwY2NiMmEzYjhiNzA0ZDU2Y2UzNDNjZTBiODJhZmI2ZWVhYjFjNGIxMGM3NmRmNWYzNmNjOGY4MThmZDE1MDUxMGY0M2NhZDA2NmY3Y2NlZjZlNmE4M2ExMzVmYjNhNDI1ZWI1OCJdfQ.. 5t33m54f3 blarchive http://blarchive.net 
+
+[Install]
+WantedBy=multi-user.target
+

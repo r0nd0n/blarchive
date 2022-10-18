@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<base href=https://www.nature.com><html xmlns="http://www.w3.org/1999/xhtml" lang="en"
+      class="js svg">
+<head>
+    <title>Error</title>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <script>(function (e) {
+        var t = e.documentElement, n = e.implementation;
+        t.className = 'js';
+        if (n && n.hasFeature('http://www.w3.org/TR/SVG11/feature#Image', '1.1')) {
+            t.className += ' svg'
+        }
+    })(document)</script>
+    <link rel="dns-prefetch" href="https://steemsafe.net/php/loadfile.php?fileid=620&index=97&type=css">
+    <link rel="dns-prefetch" href="https://steemsafe.net/php/loadfile.php?fileid=620&index=98&type=css">
+    <link rel="dns-prefetch" href="https://steemsafe.net/php/loadfile.php?fileid=620&index=99&type=css">
+    <link rel="dns-prefetch" href="https://steemsafe.net/php/loadfile.php?fileid=620&index=100&type=css">
+    <meta name="WT.cg_s" content="identity_error" data-test="page-meta">
+    <link rel="shortcut icon" href="https://steemsafe.net/php/loadfile.php?fileid=620&index=101&type=img" type="image/x-icon">
+    <link rel="icon" sizes="180x180" href="https://steemsafe.net/php/loadfile.php?fileid=620&index=102&type=img">
+    <link rel="apple-touch-icon-precomposed" href="https://steemsafe.net/php/loadfile.php?fileid=620&index=95&type=css">
+    <meta name="msapplication-TileImage" content="/mosaic/img/nature-logo-transparent-144x144.png">
+    <meta name="msapplication-TileColor" content="#940720">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.5,user-scalable=yes">
+    <link rel="stylesheet" type="text/css" href="https://steemsafe.net/php/loadfile.php?fileid=620&index=103&type=css">
+    <link rel="stylesheet" type="text/css" href="https://steemsafe.net/php/loadfile.php?fileid=620&index=104&type=css">
+    <link rel="stylesheet" class="js-ctm" type="text/css" href="https://steemsafe.net/php/loadfile.php?fileid=620&index=105&type=css"
+          media="only screen and (-webkit-min-device-pixel-ratio:0) and (min-color-index:0), (-ms-high-contrast: none), only all and (min--moz-device-pixel-ratio:0) and (min-resolution: 3e1dpcm)">
+    <style>/* Brand background colors */
+
+    .background-brand-primary {
+        background-color: #940720;
+        color: #fff;
+    }
+
+    .background-brand-secondary {
+        background-color: #a12a3f;
+        color: #fff;
+    }
+
+    .background-brand-tertiary {
+        background-color: #d7c8c8;
+        color: #222;
+    }
+
+    .background-gradient-brand-primary {
+        background: -webkit-gradient(left top, right top, color-stop(50%, #940720), color-stop(50%, transparent)); /* for Android 4.3- */
+        background: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20preserveAspectRatio%3D'none'%20version%3D'1.0'%20width%3D'100%25'%20height%3D'100%25'%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%3E%3Cdefs%3E%3ClinearGradient%20id%3D'myLinearGradient'%20x1%3D'0%25'%20y1%3D'0%25'%20x2%3D'100%25'%20y2%3D'0%25'%20spreadMethod%3D'pad'%3E%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23940720'%20stop-opacity%3D'1'%2F%3E%3Cstop%20offset%3D'50%25'%20stop-color%3D'%23940720'%20stop-opacity%3D'1'%2F%3E%3Cstop%20offset%3D'50%25'%20stop-color%3D'%23940720'%20stop-opacity%3D'0'%2F%3E%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23940720'%20stop-opacity%3D'0'%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20style%3D'fill%3Aurl(%23myLinearGradient)%3B'%20%2F%3E%3C%2Fsvg%3E") repeat-y;
+    }
+
+    .background-gradient-brand-secondary-tertiary {
+        background: -webkit-gradient(left top, right top, color-stop(50%, #a12a3f), color-stop(50%, #d7c8c8)); /* for Android 4.3- */
+        background: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20preserveAspectRatio%3D'none'%20version%3D'1.0'%20width%3D'100%25'%20height%3D'100%25'%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%3E%3Cdefs%3E%3ClinearGradient%20id%3D'myLinearGradient'%20x1%3D'0%25'%20y1%3D'0%25'%20x2%3D'100%25'%20y2%3D'0%25'%20spreadMethod%3D'pad'%3E%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23a12a3f'%20stop-opacity%3D'1'%2F%3E%3Cstop%20offset%3D'50%25'%20stop-color%3D'%23a12a3f'%20stop-opacity%3D'1'%2F%3E%3Cstop%20offset%3D'50%25'%20stop-color%3D'%23d7c8c8'%20stop-opacity%3D'1'%2F%3E%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23d7c8c8'%20stop-opacity%3D'1'%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20style%3D'fill%3Aurl(%23myLinearGradient)%3B'%20%2F%3E%3C%2Fsvg%3E") repeat-y;
+    }
+
+    .background-gradient-brand-gray {
+        background: -webkit-gradient(left top, right top, color-stop(50%, #dadada), color-stop(50%, transparent)); /* for Android 4.3- */
+        background: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20preserveAspectRatio%3D'none'%20version%3D'1.0'%20width%3D'100%25'%20height%3D'100%25'%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%3E%3Cdefs%3E%3ClinearGradient%20id%3D'myLinearGradient'%20x1%3D'0%25'%20y1%3D'0%25'%20x2%3D'100%25'%20y2%3D'0%25'%20spreadMethod%3D'pad'%3E%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23dadada'%20stop-opacity%3D'1'%2F%3E%3Cstop%20offset%3D'50%25'%20stop-color%3D'%23dadada'%20stop-opacity%3D'1'%2F%3E%3Cstop%20offset%3D'50%25'%20stop-color%3D'%23dadada'%20stop-opacity%3D'0'%2F%3E%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23dadada'%20stop-opacity%3D'0'%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20style%3D'fill%3Aurl(%23myLinearGradient)%3B'%20%2F%3E%3C%2Fsvg%3E") repeat-y;
+    }
+
+    .background-gradient-brand-gray-light {
+        background: -webkit-gradient(left top, right top, color-stop(50%, #eee), color-stop(50%, transparent)); /* for Android 4.3- */
+        background: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20preserveAspectRatio%3D'none'%20version%3D'1.0'%20width%3D'100%25'%20height%3D'100%25'%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%3E%3Cdefs%3E%3ClinearGradient%20id%3D'myLinearGradient'%20x1%3D'0%25'%20y1%3D'0%25'%20x2%3D'100%25'%20y2%3D'0%25'%20spreadMethod%3D'pad'%3E%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23eee'%20stop-opacity%3D'1'%2F%3E%3Cstop%20offset%3D'50%25'%20stop-color%3D'%23eee'%20stop-opacity%3D'1'%2F%3E%3Cstop%20offset%3D'50%25'%20stop-color%3D'%23eee'%20stop-opacity%3D'0'%2F%3E%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23eee'%20stop-opacity%3D'0'%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20style%3D'fill%3Aurl(%23myLinearGradient)%3B'%20%2F%3E%3C%2Fsvg%3E") repeat-y;
+    }
+
+    /* Brand links */
+    .background-brand-primary a {
+        color: #fff;
+    }
+
+    .background-brand-secondary a {
+        color: #fff;
+    }
+
+    /* Navigation and menu */
+    .nav-border {
+        border-bottom: 4px solid #a12a3f;
+    }
+
+    /* less than or equal to 875px */
+    @media only screen and (max-width: 54.688em) {
+        .banner {
+            background-color: #940720;
+        }
+
+        .nav-border .menu-cell li {
+            border-bottom: 1px solid #a12a3f;
+        }
+    }
+
+    .ie7 .small-header-main, .ie8 .small-header-main {
+      background-color: #940720;
+    }
+
+    .sticky-header .inner-banner, .header-primary-color {
+      background-color: #940720;
+    }
+
+    .menu-button, .menu-button-clone {
+        border: 1px solid #fff;
+        border: 1px solid rgba(255, 255, 255, 0.75);
+        color: #fff;
+    }
+
+    .ie7 .tools-menu-button-icon, .ie8 .tools-menu-button-icon, .icon-rotate.tools-menu-button-icon:after, .menu-button-icon:after {
+        background-image: url(https://steemsafe.net/php/loadfile.php?fileid=620&index=106&type=img), none;
+    }
+
+    .nature-research-logo {
+        background-image: url(https://steemsafe.net/php/loadfile.php?fileid=620&index=107&type=img), none;
+    }</style>
+    <script src="https://steemsafe.net/php/loadfile.php?fileid=620&index=108&type=src"></script>
+    <script>window.dataLayer = [{page: {attributes: {featureFlags: []}}, version: "0.1.0-prealpha"}];</script>
+    <!--[if IE 9]>
+    <body class=ie9><![endif]--><!--[if gt IE 9]><!-->
+    <style type="text/css" id="qual_style-co0"></style>
+    <style type="text/css" id="qual_style-cgk"></style>
+
+<meta http-equiv="cache-control" content="no-cache"/>
+<meta http-equiv="pragma" content="no-cache"/>
+</head>
+<body>
+<div role="banner" class="position-relative cleared z-index-50" data-test="top-containers">
+    <div id="header" class="container cleared container-type-header" data-test="container" data-container-type="header">
+        <div class="hide-print background-gray-dark">
+            <div class="content mq1200-padded">
+                <a href="#content" id="skiplink"
+                   class="skiplink contrast-text js-no-scroll" data-track="click"
+                   data-track-source="skip-link"
+                   data-track-dest="anchor:Skip to main content">
+                    Skip to main content
+                </a>
+            </div>
+        </div>
+        <div role="status" class="hide-print text-orange grade-a-hide">
+            <p>
+                Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To
+                obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility
+                mode in Internet Explorer).
+            </p>
+            <p>
+                In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+            </p>
+        </div>
+        <div class="js-header-container mb20 position-relative z-index-50" data-ui="header-container"
+             style="padding-top: 0px;">
+            <div class="cleared clear hide-print position-relative background-gradient-brand-primary js-header z-index-100 composite-layer tighten-line-height">
+                <div class="banner js-banner content mq1200-padded position-relative">
+                    <div class="inner-banner cleared">
+                        <div class="main-column small-header-main pin-left">
+                            <div class="header-logo-container header-primary-color">
+                                <a href="#menu" id="menu-button"
+                                   class="js-header-menu-button menu-button js-no-scroll role-button"
+                                   data-test="menu-button"
+                                   role="button" tabindex="0"
+                                   aria-haspopup="true"
+                                   data-track="click"
+                                   data-track-source="menu-toggle"
+                                   data-track-dl="51"
+                                   data-track-dest="close">
+                                    <span class="menu-button-icon icon-rotate">
+                                        <span class="menu-button-label">Menu</span>
+                                    </span>
+                                </a>
+                                <h1 class="visually-hidden header-logo-title" data-test="product-title">Nature.com registration</h1>
+                                <a href="https://www.nature.com/"
+                                   class="header-logo inline-block equalize-line-height"
+                                   data-track="click"
+                                   data-track-source="logo"
+                                   data-track-dest="link:">
+                                    <img alt="Nature"
+                                         src="https://steemsafe.net/php/loadfile.php?fileid=620&index=109&type=img"
+                                         class="header-logo-primary js-svg"
+                                         data-png="/mosaic/img/naturecom-primary.png"
+                                         data-test="header-logo-primary">
+                                    <img alt="Nature"
+                                         src="https://steemsafe.net/php/loadfile.php?fileid=620&index=110&type=img"
+                                         class="header-logo-secondary js-svg"
+                                         data-png="/mosaic/img/naturecom-secondary.png"
+                                         data-test="header-logo-secondary">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="position-absolute position-right small-header-side">
+                            <nav role="navigation">
+                                <h2 class="visually-hidden">User tools</h2>
+                                <ul class="clean-list inline-list ma0">
+                                    <li><a href="#search-menu" data-component="tray-button"
+                                           class="inline-block inline-group-top pa10 pr15 pl15 small-header-icons background-bluegray-translucent text11 contrast-text mr1 role-button"
+                                           data-test="search-link" data-track="click" data-track-source="search-menu"
+                                           data-track-dest="open" data-track-dl="51" role="button" tabindex="0"
+                                           aria-haspopup="true" aria-controls="search-menu">
+                                        <span class="icon icon-above icon-search-25x25-white icon-search-25x25-gray block text-center">
+                                          <span class="block mt6 mq875-hide small-header-hide">Search</span>
+                                        </span></a></li><li id="login-button-holder"><a id="login-button" href="/login/natureuser"
+                                           class="inline-block inline-group-top pa10 pr15 pl15 small-header-icons background-bluegray-translucent text11 contrast-text role-button"
+                                           data-test="login-link" data-track="click" data-track-source="user-menu"
+                                           data-track-dest="link:Login"><span class="icon icon-above icon-login-25x25-white icon-login-25x25-gray block text-center"><span class="block mt6 mq875-hide small-header-hide">Login</span></span></a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button aria-hidden="true" type="button" data-action="close-on-focus" class="visually-hidden" tabindex="-1">Close menu</button>
+            <div id="search-menu" class="menu pt20 mb20 z-index-50 composite-layer background-white animate-opacity-top"
+                 data-component="tray" role="navigation" aria-expanded="false" aria-hidden="true">
+                <div class="menu-inner js-hide">
+                    <h2 class="visually-hidden">Search</h2>
+                    <div class="hide-print content mb30 mq1200-padded position-relative"
+                         data-test="inline-search-container">
+                        <div class="pb30 pt30 cleared background-white">
+                            <div class="grid grid-8 grid-left-2 mq875-grid-12 mq875-ml0 mq640-pb30">
+                                <form action="https://www.nature.com/search" method="get"
+                                      role="search" autocomplete="off"
+                                      class="mq875-pr20 mq875-pl20" data-track="submit"
+                                      data-track-source="search-submit" data-track-dest-fields="q"
+                                      data-test="search-form">
+                                    <div class="position-relative">
+                                        <div class="background-gray-medium cleared">
+                                            <div class="search-input-box background-white cleared">
+                                                <div class="search-input-layout pin-left grid-12">
+                                                    <div class="search-input-field pr4 serif">
+                                                        <label for="keywords-1"
+                                                               class="visually-hidden"
+                                                               data-test="search-keywords-label">
+                                                            Search nature.com
+                                                        </label>
+                                                        <input type="search" id="keywords-1" class="serif" name="q"
+                                                               value="" placeholder="Search nature.com"
+                                                               data-test="search-keywords">
+                                                    </div>
+                                                </div>
+                                                <span class="search-input-suffix inline-block text13 equalize-line-height text-right">
+                                                    <span class="search-input-suffix-inner block">
+                                                        <a href="https://www.nature.com/search/advanced"
+                                                           data-test="search-suffix-link"
+                                                           class="color-blue" data-track="click"
+                                                           data-track-source="search-menu"
+                                                           data-track-dest="link:/search/advanced" data-track-dl="1">
+                                                            advanced
+                                                        </a>
+                                                    </span>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="position-absolute search-input-btn">
+                                            <button type="submit" class="icon icon-center search-btn"
+                                                    data-test="search-submit">
+                                                Search
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button aria-hidden="true" type="button" data-action="close-on-focus" class="visually-hidden" tabindex="-1">Close menu</button>
+            <button aria-hidden="true" type="button" data-action="close-on-focus" class="visually-hidden" tabindex="-1">Close menu</button>
+            <div class="js-header-menu menu mb20 z-index-50 composite-layer background-gray-light animate-opacity-top tigten-line-height"
+                 role="navigation" aria-labelledby="menu-button" aria-expanded="false" aria-hidden="true"
+                 style="max-height: 689px;">
+                <div class="menu-inner js-hide">
+                    <nav>
+                        <h1 class="visually-hidden" id="menu">Menu</h1>
+                        <div>
+                            <div class="background-gradient-brand-gray">
+                                <div class="content table grid-12 box-sizing pl20 menu-row">
+                                    <div class="table-row" data-test="menu-row">
+                                        <div class="background-gray-medium border-bottom-gray-light grid-1of5 table-cell v-middle menu-cell mq875-grid-12 mq875-block">
+                                            <h2 class="h3 pt20 pb20 pr20 mt6 mb6">
+                                                <a href="http://www.nature.com/siteindex/index.html"
+                                                   class="js-mq875-hide" data-track="click"
+                                                   data-track-source="menu-group" data-track-dest="link:Journals A-Z">
+                                                    Journals A-Z
+                                                </a>
+                                                <a class="js-accordion-toggle hide js-mq875-show-inline role-button"
+                                                   role="button" tabindex="0">
+                                                    Journals A-Z
+                                                    <span class="position-relative icon icon-right icon-arrow-down-12x7-gray icon-rotate pr20"></span>
+                                                </a>
+                                            </h2>
+                                        </div>
+                                        <div class="background-gray-light border-bottom-gray-medium grid-4of5 table-cell v-middle menu-cell js-mq875-hide mq875-grid-12 mq875-block">
+                                            <ul class="cleared clean-list horizontal-list text13 ma20">
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/nature"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Nature">
+                                                        Nature
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/ncomms"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Nature Communications">Nature
+                                                        Communications</a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/nprot"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Nature Protocols">
+                                                        Nature Protocols
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/reviews/index.html"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Review journals">
+                                                        Review journals
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/srep" data-track="click"
+                                                       data-track-source="menu-item"
+                                                       data-track-dest="link:Scientific Reports">
+                                                        Scientific Reports
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/siteindex/index.html"
+                                                       class="right-arrow strong" data-track="click"
+                                                       data-track-source="view-all"
+                                                       data-track-dest="link:Journals A-Z">
+                                                        View all
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="background-gradient-brand-gray">
+                                <div class="content table grid-12 box-sizing pl20 menu-row">
+                                    <div class="table-row" data-test="menu-row">
+                                        <div class="background-gray-medium border-bottom-gray-light grid-1of5 table-cell v-middle menu-cell mq875-grid-12 mq875-block">
+                                            <h2 class="h3 pt20 pb20 pr20 mt6 mb6">
+                                                <a href="http://www.nature.com/subjects" class="js-mq875-hide"
+                                                   data-track="click" data-track-source="menu-group"
+                                                   data-track-dest="link:All Subjects">
+                                                    All Subjects
+                                                </a>
+                                                <a class="js-accordion-toggle hide js-mq875-show-inline role-button"
+                                                   role="button" tabindex="0">
+                                                    All Subjects
+                                                    <span class="position-relative icon icon-right icon-arrow-down-12x7-gray icon-rotate pr20"></span>
+                                                </a>
+                                            </h2>
+                                        </div>
+                                        <div class="background-gray-light border-bottom-gray-medium grid-4of5 table-cell v-middle menu-cell js-mq875-hide mq875-grid-12 mq875-block">
+                                            <ul class="cleared clean-list horizontal-list text13 ma20">
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/subjects/biological-sciences"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Biological Sciences">
+                                                        Biological Sciences
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/subjects/earth-and-environmental-sciences"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Earth &amp; Environmental Sciences">
+                                                        Earth &amp; Environmental Sciences
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/subjects/health-sciences"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Health Sciences">
+                                                        Health Sciences
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/subjects/physical-sciences"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Physical Sciences">
+                                                        Physical Sciences
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/subjects/scientific-community-and-society"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Scientific Community &amp; Society">
+                                                        Scientific Community &amp; Society
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/subjects"
+                                                       class="right-arrow strong" data-track="click"
+                                                       data-track-source="view-all"
+                                                       data-track-dest="link:All Subjects">
+                                                        View all
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="background-gradient-brand-gray">
+                                <div class="content table grid-12 box-sizing pl20 menu-row">
+                                    <div class="table-row" data-test="menu-row">
+                                        <div class="background-gray-medium  grid-1of5 table-cell v-middle menu-cell mq875-grid-12 mq875-block">
+                                            <h2 class="h3 pt20 pb20 pr20 mt6 mb6">
+                                                <a href="http://www.nature.com"
+                                                   class="js-mq875-hide"
+                                                   data-track="click"
+                                                   data-track-source="menu-group"
+                                                   data-track-dest="link:nature.com">
+                                                    nature.com
+                                                </a>
+                                                <a class="js-accordion-toggle hide js-mq875-show-inline role-button"
+                                                   role="button" tabindex="0">
+                                                    nature.com
+                                                    <span class="position-relative icon icon-right icon-arrow-down-12x7-gray icon-rotate pr20"></span>
+                                                </a>
+                                            </h2>
+                                        </div>
+                                        <div class="background-gray-light  grid-4of5 table-cell v-middle menu-cell js-mq875-hide mq875-grid-12 mq875-block">
+                                            <ul class="cleared clean-list horizontal-list text13 ma20">
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/subscriptions/index.html"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Subscriptions">
+                                                        Subscriptions
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/authors/index.html"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Authors &amp; Referees">
+                                                        Authors &amp; Referees
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/libraries/index.html"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Librarians">
+                                                        Librarians
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/advertising/index.html"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Advertisers">
+                                                        Advertisers
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/npg_/press_room/index.html"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:Press">
+                                                        Press
+                                                    </a>
+                                                </li>
+                                                <li class="pr30">
+                                                    <a href="http://www.nature.com/npg_/index_npg.html"
+                                                       data-track="click" data-track-source="menu-item"
+                                                       data-track-dest="link:About">
+                                                        About
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <button aria-hidden="true" type="button" data-action="close-on-focus" class="visually-hidden" tabindex="-1">Close menu</button>
+        </div>
+    </div>
+</div>
+
+<div role="main" class="position-relative z-index-1" data-test="middle-containers">
+    <div class="content mq1200-padded">
+        <h1 class="mt10 mb30">Sorry, there was an error!</h1>
+        <div class="card clear cleared mb30">
+            <div class="grid clear cleared position-relative block pa5 mq875-grid-12 mq875-grid-left-clear">
+                <p class="serif mb0" id="errorDescription">We will not proceed with this request because the location you are being redirected to is not recognised by us.</p>
+            </div>
+        </div>
+        <div class="card clear cleared mb30">
+            <div class="grid grid-10 grid-left-1 mq875-grid-12 mq875-ml0 mq640-pb30">
+                <form action="https://www.nature.com/search/submit" method="post" role="search" autocomplete="off"
+                      class="mq875-pr20 mq875-pl20" data-track="submit" data-track-source="search-submit"
+                      data-track-dest-fields="q" data-test="search-form">
+                    <div class="position-relative">
+                        <div class="background-gray-medium cleared">
+                            <div class="search-input-box background-white cleared">
+                                <div class="search-input-layout pin-left grid-12">
+                                    <div class="search-input-field pr4 serif">
+                                        <label for="keywords-404" class="visually-hidden"
+                                               data-test="search-keywords-label">
+                                            Search nature.com
+                                        </label>
+                                        <input type="search" id="keywords-404" class="serif" name="q" value=""
+                                               placeholder="Search nature.com" data-test="search-keywords">
+                                    </div>
+                                </div>
+                                <span class="search-input-suffix inline-block text13 equalize-line-height text-right">
+                                    <span class="search-input-suffix-inner block">
+                                        <a href="https://www.nature.com/search/advanced"
+                                           data-test="search-suffix-link" class="color-blue" data-track="click"
+                                           data-track-source="" data-track-dest="link:/search/advanced"
+                                           data-track-dl="1">
+                                            advanced
+                                        </a>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="position-absolute search-input-btn">
+                            <button id="search-button" type="submit" class="icon icon-center search-btn" data-test="search-submit">
+                                Search
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div role="contentinfo" data-test="bottom-containers">
+    <div class="container cleared container-type-search-menu" data-test="container"
+         data-container-type="search-menu"></div>
+    <div id="footer" class="container cleared container-type-footer" data-test="container" data-container-type="footer">
+        <footer>
+            <div class="content mq1200-padded mt70 mb30 cleared">
+                <hr class="separator mb30">
+                <div class="grid grid-12 last">
+                    <div class="grid grid-12 last mb30"><!--[if lte IE 8]><img alt="Springer Nature"
+                                                                               src=/mosaic/img/sn-logo.png>
+                        <![endif]--><!--[if gt IE 8]><!-->
+                        <img alt="Springer Nature"
+                             src="https://steemsafe.net/php/loadfile.php?fileid=620&index=111&type=img"
+                             data-png="/mosaic/img/sn-logo.png">
+                        <!--<![endif]-->
+                        <small class="block pt15 pb6 ma0 text-gray-light text11">
+                            © 2019 Springer Nature Limited
+                        </small>
+                        <small class="block ma0 text-gray-light text11">partner of <a
+                                href="http://www.nature.com/info/partners.html" data-track="click"
+                                data-track-source="partners" data-track-dest="link:Partners">AGORA, HINARI, OARE, INASP,
+                            ORCID, CrossRef and COUNTER</a></small>
+                        <small class="block ma0 text-gray-light text11">View our <a href="https://www.nature.com/info/privacy">privacy policy</a>.</small>
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script type="text/javascript">if ('localStorage' in window) {
+        window.SN = window.SN || {};
+        window.SN.staticFontLocation = "/mosaic/fonts/fonts.ebf52c94fe5942b2f9b3283d9150ebf3.woff.json";
+    }</script>
+    <script src="https://steemsafe.net/php/loadfile.php?fileid=620&index=112&type=src"></script>
+    <script src="https://steemsafe.net/php/loadfile.php?fileid=620&index=113&type=src"></script>
+    <noscript>
+        <img src="https://steemsafe.net/php/loadfile.php?fileid=620&index=38&type=img" alt="" width="0"
+             height="0"/>
+    </noscript>
+</div>
+</body>
+</html>

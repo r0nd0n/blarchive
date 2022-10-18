@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<base href=https://lastamericanvagabond.airtime.pro><html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="https://steemsafe.net/php/loadfile.php?fileid=672&index=151&type=css" />
+    <link href="https://steemsafe.net/php/loadfile.php?fileid=672&index=152&type=css" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="player">
+      <div class="airtime-player">
+        <div class="airtime-header">
+                    <a class="airtime-pro" href="https://www.airtime.pro/" target="_blank">
+            Powered by <span class="airtime-pro-orange">Airtime Pro</span>
+          </a>
+                    <div class="station-name"></div>
+        </div>
+        <div class="airtime-box">
+          <div class="airtime-button">
+            <span id="play_button" onclick="musesPlayer.play()"></span>
+            <span id="stop_button" class="hide-button" onclick="musesPlayer.stop()"></span>
+          </div>
+          <p class="now-playing">
+            <span class="track-title"></span> <span class="artist"></span>
+          </p>
+        </div>
+        <div class="clear-both"></div>
+        <div class="airtime-schedule">
+          <p class="airtime-next">Next</p>
+          <ul class="schedule-list">
+            <li></li>
+          </ul>
+        </div>
+        <div class="sharing-button">
+          <div id="widget_twitter" class="widget-share" style="display:
+            block          ">
+            <img src="https://steemsafe.net/php/loadfile.php?fileid=672&index=153&type=img" />
+            <p>Tweet</p>
+          </div>
+          <div id="widget_facebook" class="widget-share" style="display:
+            block          ">
+            <img src="https://steemsafe.net/php/loadfile.php?fileid=672&index=154&type=img" />
+            <p>Share</p>
+          </div>
+          <div id="widget_embed" class="widget-share" style="display:
+            none          ">
+            <img src="https://steemsafe.net/php/loadfile.php?fileid=672&index=155&type=img" />
+            <p>Embed</p>
+          </div>
+        </div>
+        <div class="modal">
+          <div class="modal-content">
+            <span class="close">X</span>
+            <p class="bold">Add the code to your webpage.</p>
+            <p class="src-code"></p>
+            <p id="indication" class="bold"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://steemsafe.net/php/loadfile.php?fileid=672&index=156&type=src"></script>
+    <script src="https://steemsafe.net/php/loadfile.php?fileid=672&index=157&type=src"></script>
+    <script src="https://steemsafe.net/php/loadfile.php?fileid=672&index=158&type=src"></script>
+    <script src="https://steemsafe.net/php/loadfile.php?fileid=672&index=159&type=src"></script>
+    <script>
+      var settings = {
+        playerMode: "auto",
+        streamURL: "",
+        codec: "",
+        availableMobileStreams: [],
+        availableDesktopStreams: [{"url":"https:\/\/lastamericanvagabond.out.airtime.pro\/lastamericanvagabond_a","codec":"mp3","bitrate":64,"mobile":"0"},{"url":"https:\/\/lastamericanvagabond.out.airtime.pro\/lastamericanvagabond_b","codec":"mp3","bitrate":64,"mobile":"0"}],
+        player_title: "Now Playing",
+        metadata_api_url: "https://lastamericanvagabond.airtime.pro/api/live-info",
+        stationURL: "https://lastamericanvagabond.airtime.pro/",
+        stationName: "WKUP \"The Shift\"",
+        facebookURL: "https://www.facebook.com/dialog/feed?app_id=1634120530167398&display=popup&amp;caption=WKUP+%5C%22The+Shift%5C%22&link=https%3A%2F%2Flastamericanvagabond.airtime.pro%2F"
+      };
+    </script>
+    <script src="https://steemsafe.net/php/loadfile.php?fileid=672&index=160&type=src"></script>
+    <div id="muses_skin">
+      <script>
+        var musesPlayer = new MusesPlayer();
+      </script>
+    </div>
+  </body>
+</html>

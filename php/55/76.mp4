@@ -1,0 +1,15 @@
+cookielaw={create:function(){var date=new Date();date.setTime(date.getTime()+(365*86400000));var expires="; expires="+date.toGMTString();document.cookie="cookielaw=on"+expires+"; path=/";},check:function(){var name="cookielaw="
+var list=document.cookie.split(';')
+for(var index=0;index<list.length;index++){var cookie=list[index]
+while(cookie.charAt(0)==' ')
+cookie=cookie.substring(1,cookie.length);if(cookie.indexOf(name)==0)
+return cookie.substring(name.length,cookie.length);}
+return null},}
+$(document).ready(function(){if(cookielaw.check()!='on'){var banner=$('<div id="alert-cookie" class="alert alert-dismissible fade in" role="alert">'+
+'<div class="text-center">'+
+'<p>BitChute uses cookies, see our <a href="/policy/claw/">Cookie Policy</a> for more details.'+
+'<button type="button" onclick="cookielaw.create()" data-dismiss="alert" aria-label="Close">Dismiss <i class="fas fa-times fa-fw fa-lg"></i></button>'+
+'</p>'+
+'</div>'+
+'</div>')
+$("body").append(banner)}})

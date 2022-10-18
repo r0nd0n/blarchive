@@ -1,0 +1,12 @@
+body.custom-background {
+    background-size: contain;
+}
+
+@media (max-width: 767px) {
+.logo img {
+    max-width: 95%;
+}
+.logo {
+padding: 5px 0 0;
+}
+}

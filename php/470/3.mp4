@@ -1,0 +1,13 @@
+{
+    "name": "Phys.org",
+    "gcm_sender_id": "922975728778",
+    "icons": [{
+      "src": "https://sciencex.com/gfx/shared/phys_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }],
+    "display": "minimal-ui",
+    "short_name": "Phys.org",
+    "start_url": "/?utm_source=homescreen",
+    "background_color": "#000"
+}

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Vincent Canfield's Blog</title>
+        <meta charset="utf-8" />
+
+        <link rel="stylesheet" href="https://steemsafe.net:443/php/loadfile.php?fileid=139&index=1&type=css" />
+        <link rel="stylesheet" type="text/css" href="https://steemsafe.net:443/php/loadfile.php?fileid=139&index=2&type=css" />
+        <link href="https://steemsafe.net:443/php/loadfile.php?fileid=139&index=3&type=js" type="application/atom+xml" rel="alternate" title="Vincent Canfield's Blog ATOM Feed" /><!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+        <!-- piwik respects your freedoms don't have an autism -->
+				<script type="text/javascript">
+					var _paq = _paq || [];
+					_paq.push(["setDomains", ["*.vc.gg"]]);
+					_paq.push(['trackPageView']);
+					_paq.push(['enableLinkTracking']);
+					(function() {
+						var u="//staats.vc.gg/";
+						_paq.push(['setTrackerUrl', u+'meme.php']);
+						_paq.push(['setSiteId', '4']);
+						var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+						g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'meme.js'; s.parentNode.insertBefore(g,s);
+					})();
+				</script>
+				<noscript><p><img src="https://steemsafe.net:443/php/loadfile.php?fileid=139&index=4&type=img" style="border:0;" alt="" /></p></noscript>
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="https://vc.gg/blog/">Vincent Canfield's Blog <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content">
+<h2>All articles</h2>
+
+<ol id="post-list">
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://vc.gg/blog/36c3-staff-assaulted-me-for-political-reasons.html" rel="bookmark" title="Permalink to 36C3 Staff Brutally Assaulted Me for Political Reasons">36C3 Staff Brutally Assaulted Me for Political Reasons</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2019-12-29T14:45:00+02:00"> Sun 29 December 2019 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://vc.gg/blog/author/vc.html">vc</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <img alt="" src="https://steemsafe.net:443/php/loadfile.php?fileid=139&index=5&type=img" />
+<p>On Saturday night (Sunday morning) at around 4:30AM my friend and I were the victim of a brutal assault that was started, escalated, and carried out by the most senior members of the Orga group of the Chaos Communication Congress. If it were not for the evidence we collected …</p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://vc.gg/blog/dodoij-wtfbbq.html" rel="bookmark" title="Permalink to I'm Challenging a DoD OIG Subpoena Over "Insulting and Prejudicial Comments"">I'm Challenging a DoD OIG Subpoena Over &quot;Insulting and Prejudicial Comments&quot;</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2018-07-13T00:00:00+03:00"> Fri 13 July 2018 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://vc.gg/blog/author/vc.html">vc</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>I've been offering free e-mail services to people through <a class="reference external" href="https://cock.li">cock.li</a> for almost 5 years now. Through this I've encountered <a class="reference external" href="https://archive.fo/v0F7U">two</a> police <a class="reference external" href="https://archive.is/etfDM">raids</a> on my server, and <a class="reference external" href="https://vc.gg/blog/so-its-been-a-while.html">harassment</a> from the U.S. Customs and Border Protection whenever I travel back to the United States. One thing that has never stayed …</p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://vc.gg/blog/my-favorite-wikipedia-vandalism.html" rel="bookmark" title="Permalink to My Favorite Wikipedia Vandalism: A Tale Of Nine Cheese Curds">My Favorite Wikipedia Vandalism: A Tale Of Nine Cheese Curds</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2017-08-20T18:00:00+03:00"> Sun 20 August 2017 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://vc.gg/blog/author/vc.html">vc</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p><strong>UPDATE</strong>: A little over 2 months after this post, I got my first tonsil stone. FUCK YOU Jimmy Wales I know you're responsible for this</p>
+<p>In june 2016, 8 days before the Brexit referendum, I <a class="reference external" href="https://vc.gg/blog/how-to-rig-an-election-get-published-by-jp-morgan-and-get-threatened-with-waterboarding-in-just-12-hours.html">published a fake Brexit poll on Wikipedia</a>.
+That made some waves in the media and …</p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://vc.gg/blog/response-to-dailystormer-cloudflare.html" rel="bookmark" title="Permalink to My Response to Cloudflare's Termination of The Daily Stormer">My Response to Cloudflare's Termination of The Daily Stormer</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2017-08-17T19:00:00+03:00"> Thu 17 August 2017 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://vc.gg/blog/author/vc.html">vc</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>UPDATE: Andrew Anglin, publisher of The Daily Stormer, is <a class="reference external" href="https://gab.ai/AndrewAnglin/posts/10825232">denying the central
+claim</a> in Cloudflare's blog post
+and the foundation of this article. Take my post for what you will.</p>
+<p>The website <a class="reference external" href="http://dailystormer.ru/">The Daily Stormer</a> has come under fire
+from every provider it's touched recently. For those unfamiliar, The Daily …</p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://vc.gg/blog/birds-that-dont-post-enough-birds.html" rel="bookmark" title="Permalink to Using Image Recognition to Find Bird Posters That Don't Post Enough Birds">Using Image Recognition to Find Bird Posters That Don't Post Enough Birds</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2017-03-17T23:00:00+02:00"> Fri 17 March 2017 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://vc.gg/blog/author/vc.html">vc</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p><img alt="bird-nobird" class="size-full" src="https://steemsafe.net:443/php/loadfile.php?fileid=139&index=8&type=img" /></p>
+<p>I got mad love for bird twitter. I follow several hundred bird accounts, mostly found through the suggestion box. Once Twitter knows you're down with birds, it's all it'll recommend you until you've exhausted a vast swath of bird twitter. I've spent longer than I'd like to admit just going …</p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://vc.gg/blog/soundcloud-bad-for-transparency.html" rel="bookmark" title="Permalink to SoundCloud: Good for Music, Bad for Transparency">SoundCloud: Good for Music, Bad for Transparency</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2017-03-02T23:00:00+02:00"> Thu 02 March 2017 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://vc.gg/blog/author/vc.html">vc</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p><img alt="soundcloud+fbi" class="size-full" src="https://steemsafe.net:443/php/loadfile.php?fileid=139&index=9&type=img" /></p>
+<p>It seems SoundCloud, the German-headquartered music and audio distribution platform, isn't such a fan of people using its site to defend free speech or transparency, even when such uses comply with the laws of Germany and the country of every party involved in recordings posted on its site. Or at …</p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://vc.gg/blog/so-its-been-a-while.html" rel="bookmark" title="Permalink to I Had All of My Electronics (That I had at the time) Seized by U.S. Customs and Border Protection">I Had All of My Electronics (That I had at the time) Seized by U.S. Customs and Border Protection</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2017-01-21T00:00:00+02:00"> Sat 21 January 2017 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://vc.gg/blog/author/vc.html">vc</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>After my trip in Hamburg, Germany, for the <a class="reference external" href="https://events.ccc.de/congress/2016/wiki/Static:Main_Page">33rd Chaos Communication Congress</a>, I left Germany
+for the United States for a short vacation to visit family and friends. Upon my
+arrival in the United States, I was detained by Customs and Border Protection
+(<a class="reference external" href="https://cbp.gov">CBP</a>) where my belongings were picked apart …</p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://vc.gg/blog/how-to-accept-bitcoin-payments-with-electrum.html" rel="bookmark" title="Permalink to How to Accept Bitcoin Payments with Electrum Using PHP and JSONRPC">How to Accept Bitcoin Payments with Electrum Using PHP and JSONRPC</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2016-12-25T21:00:00+02:00"> Sun 25 December 2016 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://vc.gg/blog/author/vc.html">vc</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p><a class="reference external" href="https://box.cock.li">Cockbox</a>, my VPS provider, uses the thin wallet
+<a class="reference external" href="https://electrum.org">Electrum</a> for Bitcoin payment processing. After 7
+months of experience, I think I've found out what does and doesn't work for
+stable, secure bitcoin payments using PHP and Electrum's JSONRPC interface.</p>
+<div class="section" id="the-setup">
+<h2>The Setup</h2>
+<p>Electrum can be installed with <cite>pip install electrum</cite>. The …</p></div> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://vc.gg/blog/blog-migrated-to-pelican.html" rel="bookmark" title="Permalink to Blog Migrated to Pelican">Blog Migrated to Pelican</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2016-12-22T21:00:00+02:00"> Thu 22 December 2016 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://vc.gg/blog/author/vc.html">vc</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>I've decided to make the move from WordPress to
+<a class="reference external" href="http://blog.getpelican.com/">pelican</a>, a static HTML content generator for
+my blog. I've done this for two reasons.</p>
+<p>The first is security: it's not necessary for what is essentially static
+content to be handled by a 420k LoC PHP application. I doubt I'll ever …</p> </div><!-- /.entry-content -->
+        </article></li>
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://vc.gg/blog/3-years-of-cock-li-cum-and-get-it.html" rel="bookmark" title="Permalink to 3 Years of Cock.li — Cum and Get It">3 Years of Cock.li — Cum and Get It</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2016-11-20T09:53:00+02:00"> Sun 20 November 2016 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://vc.gg/blog/author/vc.html">vc</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>November 20 is the anniversary of the greatest thing that has ever
+happened to me: Cock.li.</p>
+<p>It was 3 years ago today that I basically accidentally started the
+largest site I have built to date. Cock.li started out in response to a
+shitpost on 4chan's /g/, and since …</p> </div><!-- /.entry-content -->
+        </article></li>
+</ol><!-- /#posts-list -->
+<p class="paginator">
+    Page 1 / 3
+        <a href="https://vc.gg/blog/index2.html">&raquo;</a>
+</p>
+</section><!-- /#content -->
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>
